@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "jelly.bat"
-hash = "60467a7d4e81a1696565a923a6085bbfb2d353e5f0deb3a1d767494f39e94d7f"
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
 metafile = true
