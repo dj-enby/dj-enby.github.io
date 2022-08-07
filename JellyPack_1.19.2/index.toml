@@ -26,6 +26,11 @@ hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
 metafile = true
 
 [[files]]
+file = "mods/dont-drop-it.pw.toml"
+hash = "6ee0fbf0fa8a2feb39bed8b89cc34cea398ec5f075c53b049003ff0d669b7633"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "4de24ddd51cba8dfddd2e66fa2c659013596289839f888a0c8f6222669e75637"
 metafile = true
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e4382eacff17da90e89d9d6cc024cc17a0e321ad36a8a0548ed4e4e6baf5a6b2"
+hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
 metafile = true
 
 [[files]]
