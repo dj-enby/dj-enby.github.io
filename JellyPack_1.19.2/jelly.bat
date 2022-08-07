@@ -5,7 +5,7 @@ packwiz modrinth install quilt-loading-screen
 packwiz modrinth install smoothboot-fabric
 packwiz modrinth install starlight
 packwiz curseforge install carpet
-packwiz modrinth install cloth-config
+::packwiz modrinth install cloth-config
 packwiz modrinth install c2me-fabric
 packwiz modrinth install continuity
 ::packwiz modrinth install debugify
