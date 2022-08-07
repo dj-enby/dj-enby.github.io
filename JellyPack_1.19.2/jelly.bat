@@ -23,6 +23,7 @@ packwiz modrinth install ok-zoomer
 packwiz modrinth install qsl
 packwiz modrinth install sodium
 packwiz modrinth install dont-drop-it
+packwiz modrinth install modmenu
 
 :: masa mods
 packwiz curseforge install malilib
