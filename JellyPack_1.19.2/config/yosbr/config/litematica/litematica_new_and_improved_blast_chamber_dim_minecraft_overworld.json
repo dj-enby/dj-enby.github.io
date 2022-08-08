@@ -1,0 +1,390 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\blast_chamber_top_final.litematic",
+        "name": "blast chamber top final",
+        "origin": [
+          -46,
+          54,
+          -115
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "blast chamber top final",
+            "placement": {
+              "pos": [
+                20,
+                0,
+                0
+              ],
+              "name": "blast chamber top final",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\cubic_metre_blast_chamber_modified.litematic",
+        "name": "cubic metre blast chamber modified",
+        "origin": [
+          56,
+          22,
+          -119
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "cubic metre blast chamber modified",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "cubic metre blast chamber modified",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\cubic_metre_blast_chamber_modified_2.litematic",
+        "name": "cubic metre blast chamber modified 2",
+        "origin": [
+          8,
+          12,
+          -115
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "cubic metre blast chamber modified 2",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "cubic metre blast chamber modified 2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\blast_chamber_top.litematic",
+        "name": "blast chamber top",
+        "origin": [
+          -47,
+          58,
+          -77
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "blast chamber top",
+            "placement": {
+              "pos": [
+                17,
+                0,
+                0
+              ],
+              "name": "blast chamber top",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\m³s New and Improved Standalone (Non-Duping).litematic",
+        "name": "m³\u0027s New and Improved Standalone (Duping)",
+        "origin": [
+          -38,
+          22,
+          -80
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "m³\u0027s New and Improved Standalone (Duping)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "m³\u0027s New and Improved Standalone (Duping)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\cubic_metre_blast_chamber_modified_3.litematic",
+        "name": "cubic metre blast chamber modified 3",
+        "origin": [
+          -47,
+          22,
+          -80
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "cubic metre blast chamber modified 3",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "cubic metre blast chamber modified 3",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\cubic_metre_blast_chamber_modified_4.litematic",
+        "name": "cubic metre blast chamber modified 4",
+        "origin": [
+          -47,
+          22,
+          -80
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "cubic metre blast chamber modified 4",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "cubic metre blast chamber modified 4",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\sorter_test.litematic",
+        "name": "sorter test",
+        "origin": [
+          -3,
+          71,
+          -23
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "sorter test",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "sorter test",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\cubic_metre_blast_chamber_modified_4_1.litematic",
+        "name": "blast chamber 4.1",
+        "origin": [
+          -26,
+          40,
+          -30
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "blast chamber 4.1",
+            "placement": {
+              "pos": [
+                29,
+                0,
+                16
+              ],
+              "name": "blast chamber 4.1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 8,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 187,
+    "layer_below": 115,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "blast chamber 4.1",
+    "current": "blast chamber 4.1",
+    "boxes": [
+      {
+        "pos1": [
+          -18,
+          22,
+          -64
+        ],
+        "pos2": [
+          -47,
+          67,
+          -80
+        ],
+        "name": "blast chamber 4.1"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

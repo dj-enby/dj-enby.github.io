@@ -1,0 +1,162 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\utils\\horizontal_block_conveyor_compact.litematic",
+        "name": "horizontal block conveyor compact",
+        "origin": [
+          -395,
+          3,
+          -686
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "horizontal block conveyor compact",
+            "placement": {
+              "pos": [
+                1,
+                0,
+                0
+              ],
+              "name": "horizontal block conveyor compact",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\utils\\horizontal_to_upward_conveyor.litematic",
+        "name": "horizontal to upward conveyor",
+        "origin": [
+          -560,
+          44,
+          -627
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "horizontal to upward conveyor",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "horizontal to upward conveyor",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18.2\\.minecraft\\schematics\\utils\\horizontal_block_conveyor_compact.litematic",
+        "name": "horizontal block conveyor compact",
+        "origin": [
+          -551,
+          44,
+          -621
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16041984,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "horizontal block conveyor compact",
+            "placement": {
+              "pos": [
+                1,
+                0,
+                0
+              ],
+              "name": "horizontal block conveyor compact",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 187,
+    "layer_below": 115,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "horizontal straight conveyor",
+    "current": "horizontal straight conveyor",
+    "boxes": [
+      {
+        "pos1": [
+          -396,
+          0,
+          -648
+        ],
+        "pos2": [
+          -396,
+          0,
+          -649
+        ],
+        "name": "horizontal straight conveyor"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "smelting area",
+  "boxes": [
+    {
+      "pos1": [
+        126,
+        31,
+        -17
+      ],
+      "pos2": [
+        100,
+        45,
+        -25
+      ],
+      "name": "below smelter"
+    },
+    {
+      "pos1": [
+        132,
+        34,
+        24
+      ],
+      "pos2": [
+        92,
+        62,
+        -16
+      ],
+      "name": "farm center"
+    },
+    {
+      "pos1": [
+        124,
+        46,
+        -17
+      ],
+      "pos2": [
+        97,
+        49,
+        -23
+      ],
+      "name": "smelting area"
+    }
+  ]
+}
