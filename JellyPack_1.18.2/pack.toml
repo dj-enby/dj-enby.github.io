@@ -1,11 +1,11 @@
-name = "Jelly Pack 1.18.2"
-version = "1.18.2-1.1.4"
+name = "Jelly Pack"
+version = "1.18.2-1.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb8b9f804ec8823f795e00341f57243ee97f6723e667f74d0f3b22e22519ab49"
+hash = "f005c09df9e5ff458786de32fe3f5718dade39fe58b3f6eada97a30ac3e1c7dd"
 
 [versions]
 minecraft = "1.18.2"
