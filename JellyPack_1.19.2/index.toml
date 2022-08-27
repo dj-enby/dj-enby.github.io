@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
