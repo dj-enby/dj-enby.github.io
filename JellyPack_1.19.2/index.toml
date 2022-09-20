@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
+hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
+hash = "baf54630db6392999b4232b11fd919383c51b1ef50e8708f902a8cb8422b4bd6"
 metafile = true
 
 [[files]]
@@ -205,12 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
+hash = "a4c71d1e6256cd75f0bbafee90086d372c79dc836b40d81f7b67c66d65c14948"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
