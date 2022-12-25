@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
+hash = "226439a19abbd3b519203d0c127c6e8d76abc16725da12ecaf323bbb5eaa6afe"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
+hash = "2f72a8e57365c062374228498371bcf51323553c317ebe14896c83c0e8408b62"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
+hash = "c578944b50b169282bb6f676a2d263f749d892f77190991448a4816414798317"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8b0a7e5a2fdd7c1bc92f559763776c6fee5aecb31256c494ace271bc624bcdf1"
+hash = "5e0e68b034a065a7268dc65f31f77b9a8cd905713735a64955bb432788c5fe97"
 metafile = true
 
 [[files]]
