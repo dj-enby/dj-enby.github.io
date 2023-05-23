@@ -45,10 +45,6 @@ file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "d58a72c59c20a3118530691c7bf2ee2917dab9393a11bff7475f0f99d980a07b"
 
 [[files]]
-file = "config/yosbr/config/farsight.json"
-hash = "7a9309407d0c2a571b4202c361d572212547f43cffb23b57b00d95f727055d62"
-
-[[files]]
 file = "config/yosbr/config/indium-renderer.properties"
 hash = "792ef31a6624fb8887e3406d675102962223b4ba4c3fabdfb971407d9ddc355a"
 
@@ -149,48 +145,33 @@ file = "config/yosbr/options.txt"
 hash = "a8309d962d56b26b92397c319527f2d02e911a4c00ad95be4f7aeb3ea527cb8a"
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
-hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
+hash = "47aa880171caf9c12c8db015cba01ed578bf126939f5de8f50f51be873c395d8"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "6f022192a3af70c73692521716ef85979035cf4ba1f40aa3459a4eac9cb6e939"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
+hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "0e090752a7af1569a5fe65f078e10e9b58e57002f24577cce788ecf43ebcb30f"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
+hash = "fee98f34555667ed6801ede90b5eefc9b9554a9a58a3d7379b63ea67c7712a41"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
+hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
 
 [[files]]
@@ -235,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "321fe499cff729ec78aff8681ed80eb038fe76fd2f15206342a8319b994322e2"
+hash = "bcc7c3ad2f8244f5128e8e4e5f7771f768606494c682cc2240a77914b6616130"
 metafile = true
 
 [[files]]
@@ -250,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
 
 [[files]]
@@ -261,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "43c03287e02e8cec03c996d184b629577689306c9009e5f145623e79376e3f33"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "fed62d552cc87c7c51313fbe76b6a5103c34c77349311237feea30df162b1a7d"
 metafile = true
 
 [[files]]

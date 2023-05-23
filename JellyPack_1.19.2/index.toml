@@ -45,10 +45,6 @@ file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "d58a72c59c20a3118530691c7bf2ee2917dab9393a11bff7475f0f99d980a07b"
 
 [[files]]
-file = "config/yosbr/config/farsight.json"
-hash = "7a9309407d0c2a571b4202c361d572212547f43cffb23b57b00d95f727055d62"
-
-[[files]]
 file = "config/yosbr/config/indium-renderer.properties"
 hash = "792ef31a6624fb8887e3406d675102962223b4ba4c3fabdfb971407d9ddc355a"
 
@@ -150,7 +146,7 @@ hash = "a8309d962d56b26b92397c319527f2d02e911a4c00ad95be4f7aeb3ea527cb8a"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
+hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
 metafile = true
 
 [[files]]
@@ -195,12 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
-metafile = true
-
-[[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -210,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
 
 [[files]]
@@ -255,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "91f5cb8e796aa7c8407f89c9da255678e71ae588b622c4c848c0f70d803dc5b7"
+hash = "7d7c8dea9bb287e39f6707e3f2f8bdd9d4db32f054e0c7bb877060c43527f968"
 metafile = true
 
 [[files]]
@@ -281,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "afd1c3b092978fc823d1e14c9a9cb8971c892bc7a39dfa0f6216f509b28d09ff"
 metafile = true
 
 [[files]]

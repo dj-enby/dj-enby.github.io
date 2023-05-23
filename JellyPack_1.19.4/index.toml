@@ -1,0 +1,275 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "b997dcb4aea2331bb843eeda9957ac505642753e599bc11e12a0386864ec29b7"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "25cf9d49c71e7b60727a686623fd254c422fcdb2692bb150198bfaae7a9d559f"
+
+[[files]]
+file = "config/yosbr/config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.toml"
+hash = "3014156e8543c9d237b9df9148fa618e8e5d1c05dbbefbebf8095c365618719e"
+
+[[files]]
+file = "config/yosbr/config/dashloader.json"
+hash = "c4c79b030c36cb3a2ce8f44b28f473424b8a2d2c057f7c07fb20f69a8c7c427b"
+
+[[files]]
+file = "config/yosbr/config/debugify-descriptions.json"
+hash = "d47b5a3b045767e910984a11cd79fb2a153f896d503415e416e8800e64bca13a"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
+
+[[files]]
+file = "config/yosbr/config/dontdropit.json5"
+hash = "a92433c599fa08ab4d3ad2dd5121d9839060733af8bd6bbd7cf1bec580a37600"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "d58a72c59c20a3118530691c7bf2ee2917dab9393a11bff7475f0f99d980a07b"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "792ef31a6624fb8887e3406d675102962223b4ba4c3fabdfb971407d9ddc355a"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "a2b0e5b026537c8fc59caf9fbcfa1ad82a577f73f1d4dde17681eb984e133c54"
+
+[[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "72cb9cca6c958541fad63de9640ece72e51a781bd504a58f35decb7ed6e8b007"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "9443b2e8762a50e0301bd8c676acb50574ef6b087f2afaece9beea4b8891d969"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_default.json"
+hash = "2ffa4dcf7a9f64ae2f9c3bf1cefd70c3f2caeeb1a766abef016aae9849d29f87"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "a0bde26fadf05be44d3b2e1a54c0d2d12745ea0d91e68851851016e3619ee2d8"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "f30362b83a864bc9ae8f815a39be3c4ea094d47f4fe03072ab13735123f83d50"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "c893fbe2fa59d2f11dc625353079d871dd2d29c70b608e98370edacb72e285f5"
+
+[[files]]
+file = "config/yosbr/config/minihud/minihud_default.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "ce8bd092087ff2baf6c8789adf03b35d16471b18cde0f299ae4589f0e18d7dc3"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "75ff9e4c163ce62d284614bc7f81179a3f6bd8e40f8c959b3c5f071f8e63d828"
+
+[[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "6015fba4e32c78be2ad2d52c57288725e9bf13cfab82c96bc7022353c89ee5c4"
+
+[[files]]
+file = "config/yosbr/config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "2a7dea458752fa3ec83d05bab9bf7187b68c7744fbf9561cca505315e04549f9"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8b877544a0a32f946a11b736a18bec928429f3cd6b6831270681914fd7de290a"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "8b755b8ea265e4368343bf49d2978d8a3288a78b635f2402042795519b70b156"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "3a64b7645e11fa151bb633c47e9262cd6bdb5baa760a2f0b2c4fe853d5ec9d6d"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "56052b7ec7aa6a8ec5d2c3221a5da8db48e53fb0255fae9b65d1f7a6a725d088"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "735db7fd5c2d5fa3d695b080e8903a272eeb83c4a2f51c5f783019b5f4d23327"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "a8309d962d56b26b92397c319527f2d02e911a4c00ad95be4f7aeb3ea527cb8a"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "69ce0a2a178babd0f25d3e8f9769c125abcbeea2273b4c7b6b853b21826cf721"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "86c9e081ad349ecf95862d2026cd2d1c1662812b94e11b4ce6edbd6dfbd4f779"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a29a6474aff0264882b7e6e010d8beadfb3291e361d171aebb0cb158f4892812"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "a074a90572d74118204b29e8a31059670fb2e2f75c8732ddf7325fca6e594135"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "8c4e1d3f2fffb4e3f3ef498dfeb24d999bdc60d6c717309b79eb552f804c15d6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "db224040c1d30819815c38efea90a362e305080935ba6a88c3d9b6ef3aec8e17"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "4180fe996e7b00b8eb8252dc06570ecc7cf353016a8cc1b216d3bca700aaa42b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "b4b155b62583a5b2df1e068248436c25523cafce20a7540d8cb4c95f8e2d0af7"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "c9602cdcfc5d086068a05002db82c896514ed5fb77deae2596c626b50de060ad"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "38948e2683087d2f7ba67a1e8f272d8652c3d0eb2526ea69f7d8423d4aad5768"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "663441dd58e115280ce35d9ae94630550b26a4945f35bf6871f75af2becb5ac9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
