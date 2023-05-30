@@ -16,6 +16,7 @@
     "changeSelectedCornerOnMove": true,
     "cloneAtOriginalPosition": false,
     "commandDisableFeedback": true,
+    "commandFillNoChunkClamp": false,
     "commandUseWorldEdit": false,
     "customSchematicBaseDirectoryEnabled": false,
     "debugLogging": false,
@@ -26,11 +27,13 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
     "executeRequireHoldingTool": true,
+    "fixChestMirror": true,
     "fixRailRotation": true,
     "generateLowercaseNames": true,
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
+    "pasteAlwaysUseFill": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
     "pasteIgnoreCommandLimitWithNbtRestore": true,
@@ -39,12 +42,16 @@
     "pasteNbtRestoreBehavior": "none",
     "pasteToMcFunctionFiles": false,
     "pasteUseFillCommand": true,
+    "pickBlockAvoidDamageable": true,
+    "pickBlockAvoidTools": false,
     "pickBlockEnabled": true,
     "pickBlockShulkers": false,
+    "placementReplaceBehavior": "all",
     "placementRestriction": false,
     "placementRestrictionWarn": "actionbar",
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
+    "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
     "pasteReplaceBehavior": "with_non_air",
@@ -250,6 +257,9 @@
     },
     "toggleSchematicRendering": {
       "keys": "M,G"
+    },
+    "toggleSignTextPaste": {
+      "keys": ""
     },
     "toggleTranslucentRendering": {
       "keys": ""

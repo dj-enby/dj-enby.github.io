@@ -30,6 +30,7 @@
     "infoLookingAtBlockInChunk": 26,
     "infoLookingAtEntity": 23,
     "infoMemoryUsage": 0,
+    "infoMobCaps": 10,
     "infoLoadedChunksCount": 31,
     "infoParticleCount": 17,
     "infoPing": 36,
@@ -195,6 +196,7 @@
     "infoLookingAtBlockInChunk": false,
     "infoLookingAtEntity": false,
     "infoMemoryUsage": false,
+    "infoMobCaps": false,
     "infoLoadedChunksCount": false,
     "infoParticleCount": false,
     "infoPing": false,
@@ -303,6 +305,9 @@
       "keys": ""
     },
     "infoMemoryUsage": {
+      "keys": ""
+    },
+    "infoMobCaps": {
       "keys": ""
     },
     "infoLoadedChunksCount": {
@@ -488,7 +493,9 @@
     "Village Main": "#3054CB4E",
     "Village Components": "#3054CB4E",
     "Witch Hut Main": "#30BE1DFC",
-    "Witch Hut Components": "#300099FF"
+    "Witch Hut Components": "#300099FF",
+    "Unknown Main": "#50FFFFFF",
+    "Unknown Components": "#50FFFFFF"
   },
   "StructureHotkeys": {
     "Toggle Bastion Remnant": {
@@ -544,6 +551,9 @@
     },
     "Toggle Witch Hut": {
       "keys": ""
+    },
+    "Toggle Unknown": {
+      "keys": ""
     }
   },
   "StructureToggles": {
@@ -564,7 +574,8 @@
     "Shipwreck": false,
     "Stronghold": false,
     "Village": false,
-    "Witch Hut": false
+    "Witch Hut": false,
+    "Unknown": false
   },
   "config_version": 1
 }

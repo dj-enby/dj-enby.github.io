@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "b997dcb4aea2331bb843eeda9957ac505642753e599bc11e12a0386864ec29b7"
+hash = "64a3f1244b649a75171ab3957aa095cd411b835f4bcaf3b3075095a529275b1b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -26,11 +26,11 @@ hash = "c4c79b030c36cb3a2ce8f44b28f473424b8a2d2c057f7c07fb20f69a8c7c427b"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
-hash = "d47b5a3b045767e910984a11cd79fb2a153f896d503415e416e8800e64bca13a"
+hash = "c336f1c44c054c7d0858b5eebaf88ad642e64bf8ecd0bff8c51eed8be37aa075"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
+hash = "6bc007817d0f568a3f453d9fe43dd1e5062cc6847b72c5f3809f8a572d4157ec"
 
 [[files]]
 file = "config/yosbr/config/dontdropit.json5"
@@ -42,31 +42,55 @@ hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "d58a72c59c20a3118530691c7bf2ee2917dab9393a11bff7475f0f99d980a07b"
+hash = "dc01d1a3da990a019fd9282a1d65365b322ca401cff46ee251f2aa3bdf9a40de"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "792ef31a6624fb8887e3406d675102962223b4ba4c3fabdfb971407d9ddc355a"
+hash = "045cbca6d2d27a709f6b490a005a762959d09c2a0d902aab66c6ed428b2f6fb4"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "a2b0e5b026537c8fc59caf9fbcfa1ad82a577f73f1d4dde17681eb984e133c54"
+hash = "15ff6729312c0c3dd5cf53494860c70534a786ad12db5e31ee8e885c0f7c1d54"
 
 [[files]]
 file = "config/yosbr/config/itemscroller.json"
-hash = "72cb9cca6c958541fad63de9640ece72e51a781bd504a58f35decb7ed6e8b007"
+hash = "b9a1997727d4a3001cf589901099f409a54def6e76b23bb81904ee15f4b7c2d3"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "9443b2e8762a50e0301bd8c676acb50574ef6b087f2afaece9beea4b8891d969"
+hash = "993dddace9ff0721191379f6c65f83d64c2d18d491f9e766ef02e33a6c085d22"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_135.148.136.221_25666.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_135.148.136.221_25666_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
 
 [[files]]
 file = "config/yosbr/config/litematica/litematica_default.json"
 hash = "2ffa4dcf7a9f64ae2f9c3bf1cefd70c3f2caeeb1a766abef016aae9849d29f87"
 
 [[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_the_end.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_the_nether.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "a0bde26fadf05be44d3b2e1a54c0d2d12745ea0d91e68851851016e3619ee2d8"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
@@ -78,7 +102,31 @@ hash = "f30362b83a864bc9ae8f815a39be3c4ea094d47f4fe03072ab13735123f83d50"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "c893fbe2fa59d2f11dc625353079d871dd2d29c70b608e98370edacb72e285f5"
+hash = "8bcb553330f90ac6f0549de05d92771cf4aa75d67a568984d31af085932a5db4"
+
+[[files]]
+file = "config/yosbr/config/minihud/135.148.136.221_25666.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/135.148.136.221_25666_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_the_end.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
 file = "config/yosbr/config/minihud/minihud_default.json"
@@ -86,7 +134,7 @@ hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "ce8bd092087ff2baf6c8789adf03b35d16471b18cde0f299ae4589f0e18d7dc3"
+hash = "211c296d2e1b7ee088888a7e6beed020afcfc401e6995ece8c0a27b53fa14047"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -94,11 +142,23 @@ hash = "75ff9e4c163ce62d284614bc7f81179a3f6bd8e40f8c959b3c5f071f8e63d828"
 
 [[files]]
 file = "config/yosbr/config/ok_zoomer/config.toml"
-hash = "6015fba4e32c78be2ad2d52c57288725e9bf13cfab82c96bc7022353c89ee5c4"
+hash = "ba6692a9284f7ceef854a89995de443591490922310145bbb932d404033af58d"
+
+[[files]]
+file = "config/yosbr/config/quilt-loader.txt"
+hash = "15d1201891b1add0d3d658e340e4846144ca8a8c7aa3c2726206d426fe6d2329"
 
 [[files]]
 file = "config/yosbr/config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/yosbr/config/quilt/qsl/registry.toml"
+hash = "e779f85c4292306465a258b9fcfbb72c3590b078787ef79e364ee0845b9f9551"
+
+[[files]]
+file = "config/yosbr/config/quilt_loading_screen.json"
+hash = "dcf074a327f67a92a80769c284f6c7f9d941ce81bf3d38f720d363770aa23ee0"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"
@@ -122,7 +182,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "8b755b8ea265e4368343bf49d2978d8a3288a78b635f2402042795519b70b156"
+hash = "de84b6057ffd52600d3f4509c68fc0c124c61ea54522c72dc6fef1b0392b2753"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
@@ -130,11 +190,155 @@ hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "3a64b7645e11fa151bb633c47e9262cd6bdb5baa760a2f0b2c4fe853d5ec9d6d"
+hash = "280dbe4f6a56109982d8a32701c872221d883dc2b4bf29294cecea6815835752"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "56052b7ec7aa6a8ec5d2c3221a5da8db48e53fb0255fae9b65d1f7a6a725d088"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/c2me.toml"
+hash = "b997dcb4aea2331bb843eeda9957ac505642753e599bc11e12a0386864ec29b7"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/capes.json5"
+hash = "25cf9d49c71e7b60727a686623fd254c422fcdb2692bb150198bfaae7a9d559f"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/cull-less-leaves.toml"
+hash = "3014156e8543c9d237b9df9148fa618e8e5d1c05dbbefbebf8095c365618719e"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/dashloader.json"
+hash = "c4c79b030c36cb3a2ce8f44b28f473424b8a2d2c057f7c07fb20f69a8c7c427b"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/debugify-descriptions.json"
+hash = "d47b5a3b045767e910984a11cd79fb2a153f896d503415e416e8800e64bca13a"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/debugify.json"
+hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/dontdropit.json5"
+hash = "a92433c599fa08ab4d3ad2dd5121d9839060733af8bd6bbd7cf1bec580a37600"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "d58a72c59c20a3118530691c7bf2ee2917dab9393a11bff7475f0f99d980a07b"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/indium-renderer.properties"
+hash = "792ef31a6624fb8887e3406d675102962223b4ba4c3fabdfb971407d9ddc355a"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/iris.properties"
+hash = "a2b0e5b026537c8fc59caf9fbcfa1ad82a577f73f1d4dde17681eb984e133c54"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/itemscroller.json"
+hash = "72cb9cca6c958541fad63de9640ece72e51a781bd504a58f35decb7ed6e8b007"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/litematica.json"
+hash = "9443b2e8762a50e0301bd8c676acb50574ef6b087f2afaece9beea4b8891d969"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/litematica/litematica_default.json"
+hash = "2ffa4dcf7a9f64ae2f9c3bf1cefd70c3f2caeeb1a766abef016aae9849d29f87"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/lithium.properties"
+hash = "a0bde26fadf05be44d3b2e1a54c0d2d12745ea0d91e68851851016e3619ee2d8"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/midnightlib.json"
+hash = "f30362b83a864bc9ae8f815a39be3c4ea094d47f4fe03072ab13735123f83d50"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/minihud.json"
+hash = "c893fbe2fa59d2f11dc625353079d871dd2d29c70b608e98370edacb72e285f5"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/minihud/minihud_default.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/modmenu.json"
+hash = "ce8bd092087ff2baf6c8789adf03b35d16471b18cde0f299ae4589f0e18d7dc3"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/moreculling.toml"
+hash = "75ff9e4c163ce62d284614bc7f81179a3f6bd8e40f8c959b3c5f071f8e63d828"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/ok_zoomer/config.toml"
+hash = "6015fba4e32c78be2ad2d52c57288725e9bf13cfab82c96bc7022353c89ee5c4"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/replaymod.json"
+hash = "2a7dea458752fa3ec83d05bab9bf7187b68c7744fbf9561cca505315e04549f9"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/smoothboot.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/sodium-extra-options.json"
+hash = "8b877544a0a32f946a11b736a18bec928429f3cd6b6831270681914fd7de290a"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/sodium-options.json"
+hash = "8b755b8ea265e4368343bf49d2978d8a3288a78b635f2402042795519b70b156"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/tweakeroo.json"
+hash = "3a64b7645e11fa151bb633c47e9262cd6bdb5baa760a2f0b2c4fe853d5ec9d6d"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "56052b7ec7aa6a8ec5d2c3221a5da8db48e53fb0255fae9b65d1f7a6a725d088"
+
+[[files]]
+file = "config/yosbr/config/yosbr/options.amecsapi.txt"
+hash = "735db7fd5c2d5fa3d695b080e8903a272eeb83c4a2f51c5f783019b5f4d23327"
+
+[[files]]
+file = "config/yosbr/config/yosbr/options.txt"
+hash = "a8309d962d56b26b92397c319527f2d02e911a4c00ad95be4f7aeb3ea527cb8a"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
@@ -142,11 +346,583 @@ hash = "735db7fd5c2d5fa3d695b080e8903a272eeb83c4a2f51c5f783019b5f4d23327"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a8309d962d56b26b92397c319527f2d02e911a4c00ad95be4f7aeb3ea527cb8a"
+hash = "daae6986f102fed65f4d8910f0e8e43bd404dd5247f137081c39dba533c8dbd8"
+
+[[files]]
+file = "config/yosbr/schematics/alternating_rail_placer_fixed.litematic"
+hash = "bb0c3a0a2e52286e2f2ec7c8aaf80bc6f71f54c463436512c07cef3b097a4a40"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal_farm_dirt_addon.litematic"
+hash = "fd113e43a29a050511c4ae83808f951a3bad27b017f6b8c1578bf5db1b816296"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/3_cactus_layers.litematic"
+hash = "151f5cd7a699ee755b10141845ccecd6780ce662d83297bf26098a1fd49ab544"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/Cactus Farm Water Chute.litematic"
+hash = "cc7464b0a37a6e6236d7a7cc828beb45200fb7f089420a79f115a81a7152cab3"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/Dataless Cactus Farm 4x4 segment.litematic"
+hash = "cc5bf5e54a7f6ffd2d8922923540817e82827d0b3e6891797fca0546f789a5ab"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/Dataless Cactus Farm Segment.litematic"
+hash = "aa195fe24992f7801f1fcaaf9ee34b5512c264d2c069fa3957334ab4c2916a78"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/bamboo_module.litematic"
+hash = "b9471fe7896ff447997ed17c757bece4d6ae0b23c89a2833bfb85bc341d26bf7"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus whole test.litematic"
+hash = "79b6ab13a3e0dd331685d9c7c41138627bada1d351516d9ae88951204b3ecc2a"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus_farm_1_0_3.litematic"
+hash = "85d1841f0419eb665311f54ab39ad3670278e35701b80a6c004825c601838c5e"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus_farm_1_0_3_1.litematic"
+hash = "9b65107402206f09f740d25d3719565dc974bc1bff8cd4f0a846e967aabe6f9b"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus_farm_1_0_3_2.litematic"
+hash = "a341c1c6859de0f6ba22f51ea349effbd54e3e6c81d5e67c124bae6f2f7c8ec6"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus_farm_full.litematic"
+hash = "62300781db77c0b6a4f78c579b71adf7b99eadd40827cca53c9fe4f4227aeed1"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/cactus_farm_test.litematic"
+hash = "952d3bfa0b336a40e7829f46949f4737515d1cd7e011c7a4e30bfde6ab808766"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj enby Cactus XP Farm V1.0.litematic"
+hash = "9f3942d08a9996830f9ec56c516d009680e88dc8ddd78c1a470331b2a92e93b6"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj enby zombie doctor v0.1.litematic"
+hash = "5ec5c6bc6e8d1fdd55f839c3fd4521f43ef16ae7e9f7f7f8b378c18b72448348"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj_enby_cactus_farm_1_0.litematic"
+hash = "2ef7fa132e9161eba8e1e4703cf5036d7aeb45fb25f303d4512271f24df53968"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj_enby_cactus_farm_1_0_1.litematic"
+hash = "e05da8952ad857d13e35b4d7f57fdd636acdd631a9235999044a151e4debc499"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj_enby_cactus_farm_1_0_2.litematic"
+hash = "0f38f6fc3b55af4b56b7e919f23dbb8f399b7374ed024cd44cd215c0dac64a93"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/dj_enby_cactus_xp_farm_v1_1.litematic"
+hash = "485003b54203c5c9e02065d4acbb31328f094b689858f0a4bba5fd78e7aa12f3"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/double_hopper_clock.litematic"
+hash = "16c83f143aacc01b078625c3e7dcb799ee87283e1ba7577fa155339acf98ce95"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/smelting_area.litematic"
+hash = "b96b12c21d7a94c20ca4b088e8cba75391279287bf84928311d3d72e0a019704"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/top_cactus_layer.litematic"
+hash = "700b631abc3da472260b7864ea5b37142a65b3d8d38822259568e01ff4d8dce3"
+
+[[files]]
+file = "config/yosbr/schematics/cactus/torches.litematic"
+hash = "62709aa4ae3d8eb31d91e5c7a058a68280e704d2f8e00856500a3436892d226f"
+
+[[files]]
+file = "config/yosbr/schematics/clay_converter_ilmango.litematic"
+hash = "44d5e092d71d2e21b75282225c033d311dd2a98d35911944a5a00e8c8928211b"
+
+[[files]]
+file = "config/yosbr/schematics/clay_farm_full.litematic"
+hash = "deb4b7a3b7e9081998ccfc91f9a6b111af762935ecb2f099175d2b1aa78cbe19"
+
+[[files]]
+file = "config/yosbr/schematics/clay_farm_full_w_subregions.litematic"
+hash = "e64d5d4d4e011014af42b68c3279372ee1c61fbc635ef27cb670da996ab8a2ac"
+
+[[files]]
+file = "config/yosbr/schematics/clay_farm_rotated.litematic"
+hash = "605a37c33a4f3d0740c74d6c77e4dceb3a11549950a06e1702916e8aeb98a592"
+
+[[files]]
+file = "config/yosbr/schematics/demibolt_rail_curver_by_pingu.litematic"
+hash = "610fd17d7f022d20a0e02a67aaa0f891ae9ed347ef4b4f76e99833e5526d94ee"
+
+[[files]]
+file = "config/yosbr/schematics/done/IanXO4_Practical_Stacking_Raid_Farm_suggested.litematic"
+hash = "11642f0b137eff364322414ba3bcfc954231aaf8fbb1b5e90121d62d5f481da8"
+
+[[files]]
+file = "config/yosbr/schematics/done/basalt_bois_overworld_2.litematic"
+hash = "e40cd4b0381171f324d55c9c8cca77b9a7d32e73f7795a8e70de5c2ef1679647"
+
+[[files]]
+file = "config/yosbr/schematics/done/basalt_bois_overworld_2_debug.litematic"
+hash = "971248ca5ebd57321bce5300059444c3f919262c1dca25848d61b0153d74719d"
+
+[[files]]
+file = "config/yosbr/schematics/done/basalt_bois_overworld_side.litematic"
+hash = "4ccb3649e786bc50523894ea324e54caedac2233e79b1888505cb15afff7c2a5"
+
+[[files]]
+file = "config/yosbr/schematics/done/basalt_boys_nether_side.litematic"
+hash = "1ffdedfb727a74c09497e1f3bac572bd7675fa528629af29a2a47b59c2b5034b"
+
+[[files]]
+file = "config/yosbr/schematics/done/blast_chamber_4_1.litematic"
+hash = "a8a8a8bdbd030f272ff03d76051d01db17333f3fcd4fc34c003f51783392cfca"
+
+[[files]]
+file = "config/yosbr/schematics/done/dirt_farm.litematic"
+hash = "a8de4841ce636fcabc95f09e56f6b9b2b759bf583860852477ae2ebf4889f210"
+
+[[files]]
+file = "config/yosbr/schematics/done/dirt_farm_ilmango.litematic"
+hash = "ae781835592d6b21a1123816bcf997af8fc187e12b3825adce11e14c37b80e5d"
+
+[[files]]
+file = "config/yosbr/schematics/done/dirt_farm_starter.litematic"
+hash = "638833dd81df07033a8ee0ae2142072d44bf04da1e9c4d8099f419cd46ef6bf9"
+
+[[files]]
+file = "config/yosbr/schematics/done/flower_farm_basic.litematic"
+hash = "7c5570f495f1134434a9f553173a43aa96cdddd8ed97529c4e3793b4b4072a82"
+
+[[files]]
+file = "config/yosbr/schematics/done/flower_farm_final.litematic"
+hash = "00f99fafd21f5d257a56c54b9cddc07fa7d805a1e3a2864ca5084dc2287f963c"
+
+[[files]]
+file = "config/yosbr/schematics/done/flower_farm_prismarine_raysworks.litematic"
+hash = "c29c2683e93fb07c40257df2481ebdb5febb85a9747ac46a83233e31190eeffb"
+
+[[files]]
+file = "config/yosbr/schematics/done/gnembon_gold_farm.litematic"
+hash = "4bff15ff574ecc9f5dfdcb6e90f25d9bc444fb85be551936b36daa0940ebbef1"
+
+[[files]]
+file = "config/yosbr/schematics/done/gnembon_gold_farm_v2.litematic"
+hash = "ecdc7f5716bf42b13cd1225a29542eb2a5a13bfabeccb2f47c523bd90502b199"
+
+[[files]]
+file = "config/yosbr/schematics/done/gnembon_gold_storage_strip.litematic"
+hash = "60244a3d893d92935549cad7956f38d36ed1994d8b51d77e656495e7411702c5"
+
+[[files]]
+file = "config/yosbr/schematics/done/shulker/IanXO4 Instant Shulker Farm.litematic"
+hash = "6b470e358f0a3242fb2562668580bbbe590eaa8c8b5fbe6a5828145dec504bb7"
+
+[[files]]
+file = "config/yosbr/schematics/done/shulker/IanXO4 Restocking Shulker Farm Nether DRAFT2.litematic"
+hash = "f54145de67d973c1680ee1c1a6580a8d388a4a2e2389f990ae4c375c675fa44a"
+
+[[files]]
+file = "config/yosbr/schematics/done/shulker/IanXO4 Restocking Shulker Farm OW DRAFT3.litematic"
+hash = "db641a155e426878fc9a67a4badbc3cbe17c1169b9969b50da16e83d8024e8b4"
+
+[[files]]
+file = "config/yosbr/schematics/done/shulker/IanXO4 Wither Rose Shulker Grinder.litematic"
+hash = "ed48a48d8d1db0b9e88ef55c28459285e989b664a78fd184c84f74e43968a6f1"
+
+[[files]]
+file = "config/yosbr/schematics/done/tropical_fish_farm_top.litematic"
+hash = "412289982afcc17d19de07acb7d5e8a7313fe003994c763c525db890186f0295"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Simple Fungus Farm by ncolyer (Base Module).litematic"
+hash = "8bd0f16f6436c3a436fd4713da6af03d03b4f7b1d93a987c0be757a992d5d7ea"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Simple Version Attachments/Simple 5wt CFF by ncolyer (6x Tiled).litematic"
+hash = "0a52009de03d215a05d56fe80634e1f73e16b93b5faf1080e5674affbbb2986c"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Simple Version Attachments/Simple 5wt CFF by ncolyer (Base Module with Storage and Moss).litematic"
+hash = "6c94b0fa8f84cfb9254fc02a5a0c0b11604dfe5124eb884f1a941f661c9a22bd"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Simple Version Attachments/Simple 5wt CFF by ncolyer (Base Module with Storage).litematic"
+hash = "ef757ec518d772c6fca091a567a20a77a37acc3bd4dfbb5333f936403d7507a2"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Simple Version Attachments/Simple 5wt CFF by ncolyer (Tile Module).litematic"
+hash = "35680f78cf60a4c605bfba1a30a4446e15a7259958d7bfd23f776a6ded916456"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Ultimate Version/Ultimate 5wt CFF by ncolyer (15x).litematic"
+hash = "fbde42d4726cd5cf239f4c1ae8517305b7a854cf61059c2ba1f7bad1a9914d32"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Ultimate Version/Ultimate 5wt CFF by ncolyer (Base Module).litematic"
+hash = "dc259e4657d1d3c99905a51d12dab7e86133a93ef6a0363767553adfd5539972"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/Ultimate Version/Ultimate 5wt CFF by ncolyer (Tile Module).litematic"
+hash = "2fd191c8a1cbcc99b08374f00c6cf9595972f18303a7808c593a845f1cd4280e"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/[schematic] Simple ntf v4 by ncolyer (with auto storage + composting).litematic"
+hash = "31320daeebfd8caf95deeaad3c3014523508a1b8b747502a4636cf15691ec46c"
+
+[[files]]
+file = "config/yosbr/schematics/ncoyler schematics/[schematic] Simple ntf v4 by ncolyer.litematic"
+hash = "c2ccefbad22dc7f45439e9a62577628e75a7e86c9308a2cf38d8404c5b8781bc"
+
+[[files]]
+file = "config/yosbr/schematics/trash/basalt_printer_slice.litematic"
+hash = "d8faff71054978bde84a154cddd876e5dfd6089be53488b9c01f852615827e4f"
+
+[[files]]
+file = "config/yosbr/schematics/trash/basalt_printer_slice_x2.litematic"
+hash = "b2f8da62e28fda58d24287ea081f32a17228c5e6097061922423c16900273781"
+
+[[files]]
+file = "config/yosbr/schematics/trash/blast_chamber_modified.litematic"
+hash = "14eda9cfebdbe3ae46505d426aa3fb444a61ca45ccc60c0251d3296baba74697"
+
+[[files]]
+file = "config/yosbr/schematics/trash/blast_chamber_top.litematic"
+hash = "e5182e6b3ce7a93d6ede24e2569bd7ed01bac6538b89cae03d7290c13f9b1457"
+
+[[files]]
+file = "config/yosbr/schematics/trash/blast_chamber_top_final.litematic"
+hash = "9823f8f9bac5cd2786f64c97bc676d10cd77ac28845bec8cb69e288bee46ad7a"
+
+[[files]]
+file = "config/yosbr/schematics/trash/blast_chamber_top_new.litematic"
+hash = "bf5d3a3ccab84cd4fd9e8c48f531e107b096acdb30bd3d4a30922ebdc36bb2a5"
+
+[[files]]
+file = "config/yosbr/schematics/trash/cubic_metre_blast_chamber_modified.litematic"
+hash = "b681bde8dc7d42bae5a56e8416345fc98d041475c84581a81290951cd5d0cd63"
+
+[[files]]
+file = "config/yosbr/schematics/trash/cubic_metre_blast_chamber_modified_2.litematic"
+hash = "44702a8bed8085602e05e0bb81b05dddd689a72ef79ae13c5eb39a21b69917c7"
+
+[[files]]
+file = "config/yosbr/schematics/trash/cubic_metre_blast_chamber_modified_3.litematic"
+hash = "e3b94759d884f7b73464cc7382967d5969265ab70447c8fa67ce8c63b46f86b2"
+
+[[files]]
+file = "config/yosbr/schematics/trash/cubic_metre_blast_chamber_modified_4.litematic"
+hash = "c0fb871e7dfd91afacd0335c287830dc7d30b5f36ed526a383cb147039a76262"
+
+[[files]]
+file = "config/yosbr/schematics/trash/cubic_metre_blast_chamber_modified_4_1.litematic"
+hash = "261879b9ffa046e3a206a13d38db960c2621f6af17587437bc177404960fb26b"
+
+[[files]]
+file = "config/yosbr/schematics/trash/dropper_elevator_hopper_speed.litematic"
+hash = "f7153499441a9d614d85129535b6fb4df64c86671676926a7681813dddbcbc11"
+
+[[files]]
+file = "config/yosbr/schematics/trash/flower_farm_bottom.litematic"
+hash = "ae40b2b5c1ae4dbab2cea6722bd71c3df6214a1247f0aa655c9d65f701c3ac12"
+
+[[files]]
+file = "config/yosbr/schematics/trash/flower_farm_sorter.litematic"
+hash = "242c551d37abb3ee5b78fa9c9afd79a3882145b8bafc485385f85ce0c940bed5"
+
+[[files]]
+file = "config/yosbr/schematics/trash/flower_farm_top.litematic"
+hash = "4f04adee57cb626be9b3f6ab9d13e4d26834cb52353838c1a1aa8ee0b0642e3e"
+
+[[files]]
+file = "config/yosbr/schematics/trash/general_mob_farm_ianxofour.litematic"
+hash = "83cf637da0c336ff60fe33a58c003194b3d790209b58f5b719644d9adea0ee53"
+
+[[files]]
+file = "config/yosbr/schematics/trash/hopper_clock_vertical.litematic"
+hash = "cf0ff1a9a9fa634e129ea6e260c5296709dfb9a88664868b96dfbdc4f42c294e"
+
+[[files]]
+file = "config/yosbr/schematics/trash/horizontal_block_conveyor.litematic"
+hash = "da597fc6d2415ed778dba8afbd918f31e8f73e0a66bd06f8f438180d75350fd4"
+
+[[files]]
+file = "config/yosbr/schematics/trash/horizontal_block_conveyor_lag_friendly.litematic"
+hash = "ee2617bd20d840a3f3e366201e3694cbbbd3a5f2a4d1d72d865c55f0a2c83531"
+
+[[files]]
+file = "config/yosbr/schematics/trash/ianxofour_slime_kill_platform.litematic"
+hash = "b58cb7968ac436638c13989295a95c1a6fe53bd5353b549d89cef759c06ebbb3"
+
+[[files]]
+file = "config/yosbr/schematics/trash/ianxofour_slime_nether_side.litematic"
+hash = "1fbd4feae2d78ccaad96f719cb6533e2b6ec67bf97b8a25f5779e94f73f20aee"
+
+[[files]]
+file = "config/yosbr/schematics/trash/ice_road_section.litematic"
+hash = "f957d0fe36a78d5eb70dd2cdc2e46c0d3bd5eb8db75fc76c0413c07d29ecd914"
+
+[[files]]
+file = "config/yosbr/schematics/trash/ice_road_section_2.litematic"
+hash = "bc6b74c501a42802be85f687984912c92d2d368da47a81545449231c926538a6"
+
+[[files]]
+file = "config/yosbr/schematics/trash/intake_and_elevator.litematic"
+hash = "3ba493cdf422f5997f8858950af86a22b7c33b2d158447691df95f578e9399f9"
+
+[[files]]
+file = "config/yosbr/schematics/trash/kill_plat_bottom 3.litematic"
+hash = "6fd6595b9bb6f8a7fe2dc7f47e15ad4367fcadb0ecb36d290a64a680ecf8fd88"
+
+[[files]]
+file = "config/yosbr/schematics/trash/kill_plat_bottom.litematic"
+hash = "a70dbfd054066f64dd2ca73b21593823ff2f6876490af5cda5e7ba0c7a96cae2"
+
+[[files]]
+file = "config/yosbr/schematics/trash/kill_plat_bottom_1_block.litematic"
+hash = "d2bbb2ef041eab3e1fedb02ee095c45cb9a2097a0511a8bbb9fa5fd492299206"
+
+[[files]]
+file = "config/yosbr/schematics/trash/kill_plat_bottom_2_block.litematic"
+hash = "c85f9574e9b50d665a97032f5f12d61939f011b111a8dc2f2e94e53540a9c262"
+
+[[files]]
+file = "config/yosbr/schematics/trash/minecart_launcher.litematic"
+hash = "235bed98d2e3581adcfe9245286bd87590ac44d169dcc0224dd76612acdc5088"
+
+[[files]]
+file = "config/yosbr/schematics/trash/minecart_loop.litematic"
+hash = "cbe5b9bae324b4302ea901812a3cfe04e7d2536369e38a4633320125059e4356"
+
+[[files]]
+file = "config/yosbr/schematics/trash/mob_farm_clock.litematic"
+hash = "59e70c077a464f4108389d12c43814c3ab1a069ac329c729fbbdce4cc8e90803"
+
+[[files]]
+file = "config/yosbr/schematics/trash/mob_farm_grab.litematic"
+hash = "5beb1aff74b16fab65be956cc6ee7315ca4df2505e00f2bfbf0758d198ac1025"
+
+[[files]]
+file = "config/yosbr/schematics/trash/mob_farm_top.litematic"
+hash = "8595608309fac79a10e351080d70fb6be31075efdc0e8fdc2ed2145d57ca2a30"
+
+[[files]]
+file = "config/yosbr/schematics/trash/mud_farm_raw_ilmango.litematic"
+hash = "6d2e215003a4f89acf33d01c0c7d83c0baa662211e17324f8572cc5e5981a404"
+
+[[files]]
+file = "config/yosbr/schematics/trash/m³s New and Improved Blastey (Non-Duping).litematic"
+hash = "271f76c86fb112aa5b25b013b2247b2b169f0d1cb141cf3342d437bebd9e5d9e"
+
+[[files]]
+file = "config/yosbr/schematics/trash/m³s New and Improved Standalone (Non-Duping).litematic"
+hash = "9d88ef77bc2b0c3055cc4f4ad2545f3839195d653cae060332ad2dd6d8d6cf5c"
+
+[[files]]
+file = "config/yosbr/schematics/trash/piece.litematic"
+hash = "eaefb8af62c0d1c8df4905fa4508e5d7c6dc0c237bfa21f1b60b488bef09f6a2"
+
+[[files]]
+file = "config/yosbr/schematics/trash/slime_bridge_segment.litematic"
+hash = "35609351fb368f8bb03dd6d19283caadbc77f68fc65aef30dd38986e48cdc766"
+
+[[files]]
+file = "config/yosbr/schematics/trash/sorter_elevator.litematic"
+hash = "dd3394ff9fec0842879dcfb68f11b6d154d631eb50a463ad02f975f2187fb5e0"
+
+[[files]]
+file = "config/yosbr/schematics/trash/sorter_test.litematic"
+hash = "4afb753fe3ecadce2522a87856f63def310bbbc5b2fb24df15914b9b7517dd01"
+
+[[files]]
+file = "config/yosbr/schematics/trash/spawn_plat_module.litematic"
+hash = "ee7996e11e08b26d648c1b94af6e50057e644982c10615618e6e30f2fefe4442"
+
+[[files]]
+file = "config/yosbr/schematics/trash/spawn_plat_wide.litematic"
+hash = "662d048ee0cc9fd994c051a9d56af46b5b49b2ee74c55e627a68f80859c92f52"
+
+[[files]]
+file = "config/yosbr/schematics/trash/stair.litematic"
+hash = "157fd0eb9756be603d0d11f6ed3e367a90f8e00f62b335616194d2c219e807be"
+
+[[files]]
+file = "config/yosbr/schematics/trash/stairful.litematic"
+hash = "5d644cfa6987c8e311ac73ea7ebec7b51566e3b6cb4cf31e944796d942b6567f"
+
+[[files]]
+file = "config/yosbr/schematics/trash/unloader_front.litematic"
+hash = "025d514532d164e7cddde21826bb85e5c896d8ac48acf0e01042824a0cbd9b39"
+
+[[files]]
+file = "config/yosbr/schematics/trash/wall.litematic"
+hash = "df40ae0224cc08e8c71f3e4b2fd7d45c394ca64b2798b65b74d62e4544305bfd"
+
+[[files]]
+file = "config/yosbr/schematics/trash/water_stream_test.litematic"
+hash = "32fcdf274d060908a8166b8e953b9f3d561b6941469f0d664b9b31e39b147322"
+
+[[files]]
+file = "config/yosbr/schematics/trash/wheat_farm_chunk.litematic"
+hash = "0fb71c4f7b6a67e14f79017203bbf15f8ddc79aceb9baa2e228786e5bd231515"
+
+[[files]]
+file = "config/yosbr/schematics/trash/wheat_farm_module.litematic"
+hash = "28939ac25138c95ea0e03e9b27686f131ad2a94a362b78ad946b59e866a95fda"
+
+[[files]]
+file = "config/yosbr/schematics/trash/wheat_farm_stack.litematic"
+hash = "da9595a57d8f32d078ea0a59d4af35ec695f2c6ddb12912e0ca0c3df04815901"
+
+[[files]]
+file = "config/yosbr/schematics/utils/MIS 4.2a.litematic"
+hash = "3235d432d7d7e632438dcd4dd99b3ba90a2f0719610d9bdf209853aae80b9f02"
+
+[[files]]
+file = "config/yosbr/schematics/utils/MIS 4.2b.litematic"
+hash = "dd42db94390958a48f4c45e17af0f78af8c288e558af97d65c58ebba50aa26de"
+
+[[files]]
+file = "config/yosbr/schematics/utils/MIS_v4_Unloader_Gangles_Edition.litematic"
+hash = "02f87ae5b1f43e9efc0f965ffa6a098b8ba516ef93c9606b4c666157387a4abc"
+
+[[files]]
+file = "config/yosbr/schematics/utils/blast_chamber_barebones_ilmango.litematic"
+hash = "a47b1276b39b1022207174a888a238a8de6d9a3a15bf9e5d05ad86300ebac3b9"
+
+[[files]]
+file = "config/yosbr/schematics/utils/blast_chamber_compact_ilmango_2.litematic"
+hash = "aa9e7e03b091dc32b733db27fc37770ec70bd6df27417daca1d9334f04006c7f"
+
+[[files]]
+file = "config/yosbr/schematics/utils/block_merger_note.litematic"
+hash = "6317023fbe10fd70d7a57d3e4b9d9d6b650328cd21d9f7ceaaefe6a74c35c909"
+
+[[files]]
+file = "config/yosbr/schematics/utils/block_merger_rail.litematic"
+hash = "3d4e413a09de2de429452f4b85c42144fac3790318f0086a0276190328a0c993"
+
+[[files]]
+file = "config/yosbr/schematics/utils/block_merger_weird.litematic"
+hash = "d7adf62be46ae56b79af7e4baf60f1a946699389d8c34adf9e0929cc0123d328"
+
+[[files]]
+file = "config/yosbr/schematics/utils/bonemeal_chonker__2x_.litematic"
+hash = "62aee304f48e2cb64192943661d32260781f8a80016dbce079fa8ab9595b39cf"
+
+[[files]]
+file = "config/yosbr/schematics/utils/bonemeal_farm_1x.litematic"
+hash = "c72cef1e81f7828cbb66aff8b8847147cbf28d6dcf18e5c5cbb15b9850bf976f"
+
+[[files]]
+file = "config/yosbr/schematics/utils/bonemeal_moab.litematic"
+hash = "b29c0c4d7039371bb46c6330fcbefb4ceddd8a44d9044ae266f673d1f1335395"
+
+[[files]]
+file = "config/yosbr/schematics/utils/bonemeal_shulker_spitter.litematic"
+hash = "6d112c0166bb2a2b310181ba75ad5272f7f08599ba645efcc2307e7b19555efa"
+
+[[files]]
+file = "config/yosbr/schematics/utils/chunk_loader.litematic"
+hash = "aee39e9c53d11a26e4d69ca7ccce66089cbdac893f197228ed77a10161e83213"
+
+[[files]]
+file = "config/yosbr/schematics/utils/down_to_horizontal_block_conveyor.litematic"
+hash = "90bdf9684f6c7d158482866be85c3617d1370037e5e32aef91b51f1c96331f8b"
+
+[[files]]
+file = "config/yosbr/schematics/utils/dropper_elevator_silent_hopper_speed_atomic_dave.litematic"
+hash = "3d13fbed2e80b8969e115061d6f1684958ead61d3c018161847f7017cc4408bd"
+
+[[files]]
+file = "config/yosbr/schematics/utils/dropper_elevator_tileable_rapscallion.litematic"
+hash = "8bfa2876822bdf92c5cb281be827be187e80ace4a6239c57fbdb990ccaab56d9"
+
+[[files]]
+file = "config/yosbr/schematics/utils/dropper_elevator_tinker77.litematic"
+hash = "284e58794798b3846cc3e2999b5c69c60d9d57c635b1c38b0eed085b6a23c175"
+
+[[files]]
+file = "config/yosbr/schematics/utils/fast_cart_unloader.litematic"
+hash = "fe1cfebc16f06fd5043bbe171fe45d71a5832863b366a244dc4c33fa17d53b9f"
+
+[[files]]
+file = "config/yosbr/schematics/utils/hopper_speed_box_yeeter_figi.litematic"
+hash = "f1ff855f628fde8891f07b629099f70e28aa53ffdd41b3c6c2254cfa40e583ae"
+
+[[files]]
+file = "config/yosbr/schematics/utils/horizontal_block_conveyor_compact.litematic"
+hash = "ac1d62f5c1b1401921ae7a9dcfdd07ea379bf91eb1c7e885f2e6855d890d29cd"
+
+[[files]]
+file = "config/yosbr/schematics/utils/horizontal_straight_conveyor.litematic"
+hash = "42b4b281e33732f80bc81aa5a5e4583248ce339696c65411ab4ea4a0f3cec85a"
+
+[[files]]
+file = "config/yosbr/schematics/utils/horizontal_to_upward_conveyor.litematic"
+hash = "35b9a59923823d23dd707a4b1a9957022bdcd75a3c9e3a5e15a5293fd177a167"
+
+[[files]]
+file = "config/yosbr/schematics/utils/item_unloader_shulker_splitter.litematic"
+hash = "b65f7fd616d6809cc7c895999d46ba7ac41ed8c9c073b85169448df2f8501166"
+
+[[files]]
+file = "config/yosbr/schematics/utils/shulker_filler_slice.litematic"
+hash = "f433d878d1a41503be1e742c6ae0af88e460b7649133aa0301e5ab592afa8df4"
+
+[[files]]
+file = "config/yosbr/schematics/utils/shulker_unloader.litematic"
+hash = "6fabcff0e0bfcc95978789e884c0d6a7619c17c0d5ce65eda61b0d54985011b1"
+
+[[files]]
+file = "config/yosbr/schematics/utils/shulker_unloader_2x_hopper.litematic"
+hash = "ebefa9cda61f0b26761b8cd74715340b4484b27d816a77d9aebc69b496548e7c"
+
+[[files]]
+file = "config/yosbr/schematics/utils/shulker_unloader_2x_hopper_broken.litematic"
+hash = "6396d7ea0d8be1a7ee5cbed6eae834114c8484048143dc06267a5f93c6c3885b"
+
+[[files]]
+file = "config/yosbr/schematics/utils/slice_preserving_unloader_1.17.1.litematic"
+hash = "9b37c3c7d0a21ae5c8eb1c4be65416da1989e64c66c425694a14790e79e211e6"
+
+[[files]]
+file = "config/yosbr/schematics/utils/sorter_slice.litematic"
+hash = "e23d93da9cee60b09a929fcd65313c8365bcd726e0c30b3e56efc1a8495cc630"
+
+[[files]]
+file = "config/yosbr/schematics/utils/sorter_slice_overflow.litematic"
+hash = "bbcb6d62767fdde185430c2d92582ba20e30add3c8232fc0e578a854a5632503"
+
+[[files]]
+file = "config/yosbr/schematics/utils/sorterfiller_slice.litematic"
+hash = "cbcbe84968af6c695a94276266d116c3de72b906cf35802b9419cb13a6cc4e9f"
+
+[[files]]
+file = "config/yosbr/schematics/utils/tnt_duper.litematic"
+hash = "df4eed9e2702fbbd29f1c6957e29374e2dcfe4aa7257a9ba1e7ed647065e96df"
+
+[[files]]
+file = "config/yosbr/schematics/utils/trash_circuit.litematic"
+hash = "97af9963ebadd1f68306b226f29e57b0d734a4d5ea57ea56c0216dce8d6573ed"
+
+[[files]]
+file = "config/yosbr/schematics/utils/upward_to_horizontal_conveyor.litematic"
+hash = "8de5ebac64692f45e76be0c570c6791837b2f305dbf584dc2f3cb6bbac0154a8"
+
+[[files]]
+file = "config/yosbr/schematics/utils/upward_to_upward_conveyor.litematic"
+hash = "5c40d29b1687e9de65b591d9ba20fd925e21ec47c64ce04aef9d33ac0d8a88b4"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
+hash = "a45ddb6c213e62ee9f6fdb86e93e3d45ee6a40663f610720b00d2224ec6b0922"
 metafile = true
 
 [[files]]
@@ -236,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c9602cdcfc5d086068a05002db82c896514ed5fb77deae2596c626b50de060ad"
+hash = "8224952d86102642b862431ffc809692b859118102521d40f63f5120b69659c1"
 metafile = true
 
 [[files]]

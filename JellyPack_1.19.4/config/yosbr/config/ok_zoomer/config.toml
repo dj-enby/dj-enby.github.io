@@ -1,5 +1,4 @@
 
-# Contains the main zoom features.
 [features]
 	# Defines the cinematic camera while zooming.
 	# "OFF" disables the cinematic camera.
@@ -47,39 +46,46 @@
 	# default: OFF
 	spyglass_dependency = "OFF"
 
-# Contains precise configuration of the zoom.
 [values]
 	# The divisor applied to the FOV when zooming.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 4.0
 	zoom_divisor = 4.0
 	# The minimum value that you can scroll down.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 1.0
 	minimum_zoom_divisor = 1.0
 	# The maximum value that you can scroll down.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 50.0
 	maximum_zoom_divisor = 50.0
 	# The number of steps between the zoom divisor and the maximum zoom divisor.
 	# Used by zoom scrolling.
+	# range[0, 2147483647]
 	# default: 10
 	upper_scroll_steps = 10
 	# The number of steps between the zoom divisor and the minimum zoom divisor.
 	# Used by zoom scrolling.
+	# range[0, 2147483647]
 	# default: 5
 	lower_scroll_steps = 5
 	# The multiplier used for smooth transitions.
+	# range[2.2250738585072014E-308, 1.0]
 	# default: 0.75
 	smooth_multiplier = 0.75
 	# The multiplier used for the multiplied cinematic camera.
+	# range[2.2250738585072014E-308, 32.0]
 	# default: 4.0
 	cinematic_multiplier = 4.0
 	# The minimum value which the linear transition step can reach.
+	# range[0.0, 1.7976931348623157E308]
 	# default: 0.125
 	minimum_linear_step = 0.125
 	# The maximum value which the linear transition step can reach.
+	# range[0.0, 1.7976931348623157E308]
 	# default: 0.25
 	maximum_linear_step = 0.25
 
-# Contains options that are unlikely to be changed from the defaults.
 [tweaks]
 	# Allows for resetting the zoom with the middle mouse button.
 	# default: true
