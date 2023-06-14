@@ -1,0 +1,7 @@
+{
+	"parent": "enchant/ironsword0",
+	"textures": {
+		"tool":     "item/tool/ironsword/dmg_1",
+		"outline":  "item/tool/ironsword/dmg_1"
+	}
+}

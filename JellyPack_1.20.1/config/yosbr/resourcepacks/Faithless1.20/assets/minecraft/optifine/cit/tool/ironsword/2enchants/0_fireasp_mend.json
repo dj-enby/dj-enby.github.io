@@ -1,0 +1,7 @@
+{
+	"parent": "tool/ironsword0",
+	"textures": {
+		"enchpln1": "item/tool/ironsword/fireasp",
+		"outline":  "item/tool/ironsword/mend_0"
+	}
+}
