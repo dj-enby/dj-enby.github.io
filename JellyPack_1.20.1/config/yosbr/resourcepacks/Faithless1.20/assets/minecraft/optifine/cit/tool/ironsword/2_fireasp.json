@@ -1,6 +1,0 @@
-{
-	"parent": "tool/ironsword2",
-	"textures": {
-		"enchpln1":  "item/tool/ironsword/fireasp"
-	}
-}

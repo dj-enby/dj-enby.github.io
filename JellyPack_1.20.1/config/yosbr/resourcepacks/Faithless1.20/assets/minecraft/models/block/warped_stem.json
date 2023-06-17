@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_column_tilt",
-  "textures": {
-    "top": "block/warped_stem_top",
-    "bottom": "block/warped_stem_top",
-    "side": "block/warped_stem"
-  }
-}

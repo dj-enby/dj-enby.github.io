@@ -1,8 +1,0 @@
-{
-	"parent": "item/potion",
-	"textures": {
-		"1": "item/dragon_breath_model",
-		"2": "item/dragon_breath_model",
-		"particle": "item/dragon_breath"
-	}
-}

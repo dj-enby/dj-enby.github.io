@@ -1,6 +1,0 @@
-{
-	"parent": "tool/ironsword2",
-	"textures": {
-		"outline":  "item/tool/ironsword/mend_2"
-	}
-}
