@@ -802,24 +802,9 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
-file = "mods/kosmolot-unofficial-itemscroller-fabric-1.20-0.19.2+ksm.3.jar.disabled"
-hash = "6aa821a7abeef110f63cf9fb79b0243a582ce272f85197bec65170b2c8b95ea9"
-
-[[files]]
-file = "mods/kosmolot-unofficial-litematica-fabric-1.20-0.14.3+ksm.3.jar.disabled"
-hash = "01a4969f824bf013d7bd9bd05e4b4b7994ba47e5e024e9b3f1f0af9579eae7bb"
-
-[[files]]
-file = "mods/kosmolot-unofficial-malilib-fabric-1.20-0.15.4+ksm.3.jar"
-hash = "3de87cec69e1f1f4d7ff03f12035cd23ce336e4e1ff16b83cfe87c14f25ad689"
-
-[[files]]
-file = "mods/kosmolot-unofficial-minihud-fabric-1.20-0.26.2+ksm.3.jar"
-hash = "09fbf3fca30cf54362832141212b4305e14709ca376c93d6fbbef60fd6da5fce"
-
-[[files]]
-file = "mods/kosmolot-unofficial-tweakeroo-fabric-1.20-0.16.0+ksm.3.jar.disabled"
-hash = "2592c8c5f8814f669fa902594780de6d5fc7de0409d40c74d85404ccc71c89b9"
+file = "mods/item-scroller.pw.toml"
+hash = "f761698528cb999ffb51a53eb687a3b48945afd0a51abe9380970f2aa94845c7"
+metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
@@ -827,8 +812,23 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "5b05212f321207c4f0a038a99a17cf6adf225b46602be6dc9817eda032f098cb"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "1b5a615e2ee610f82a242fbb8390dc9e9b8a265c522848a860f1e25e6d637913"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
@@ -869,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "2470c1f8107188f52944b414b7a81f2f42112038825778e84d32d8e4037a4d34"
 metafile = true
 
 [[files]]

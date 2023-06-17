@@ -1,12 +1,12 @@
 name = "Jelly Pack"
 author = "enby"
-version = "1.20.1-1.0.2"
+version = "1.20.1-1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bc38499fd948aeef17fd969fb9f45a1dbe4b21ed1efbbe60875a36843b9f9cc"
+hash = "02052f2575a29db7c2c4ed2f5f36a221ff1084088fd6af8fc8ae7f70bd0c7808"
 
 [versions]
 minecraft = "1.20.1"
