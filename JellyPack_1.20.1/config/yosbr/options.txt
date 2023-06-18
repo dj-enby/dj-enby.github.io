@@ -1,5 +1,5 @@
-version:3337
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","vanilla","high_contrast","programmer_art","file/Better+Xray+[+Vanilla+]+1.19","file/LGBT_Flowers 1.18","file/+fixes","file/+quiet redstone \u0026 carts","file/+redstone \u0026 block helpers","file/Faithful 32x - 1.19.4","file/Faithless1.20","file/Faithless_Mod_Patch","file/Pollachius v1.16.2","file/Pride flags","file/font GeoFont+v1.1.1+Scale+2","file/font glacial-indifference+120","file/font roboto-bold+120"]
+version:3465
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","vanilla","high_contrast","programmer_art","file/Pride flags","file/font GeoFont+v1.1.1+Scale+2","file/font glacial-indifference+120","file/font roboto-bold+120","file/1backgrounds","file/1fixes","file/1fun","file/1quiet redstone \u0026 carts","file/1redstone \u0026 block helpers","file/Faithless1.20.zip","file/font-glacial indifference 1.20","file/font-roboto bold 1.20","file/+fixes"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -28,7 +28,7 @@ screenEffectScale:0.5845070422535211
 fovEffectScale:0.3375446340011902
 darknessEffectScale:0.7464788732394366
 glintSpeed:0.5
-glintStrength:0.75
+glintStrength:0.5563380281690141
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.0
@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","file/font glacial-indifference+120","file/+fixes"]
-incompatibleResourcePacks:["file/font glacial-indifference+120"]
+resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","file/font-glacial indifference 1.20"]
+incompatibleResourcePacks:[]
 lastServer:auth.minecraftcapes.net
 lang:en_us
 soundDevice:""
@@ -83,7 +83,6 @@ showAutosaveIndicator:true
 allowServerListing:false
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
