@@ -11,3 +11,8 @@ hash = "8e3789e1e9f244d3494c87cfc4b9e4033673c33f"
 [update.modrinth]
 mod-id = "CwaddKq6"
 version = "R47C6nN1"
+
+[option]
+optional = true
+default = false
+description = "Vanilla-esque resource pack that focuses on accessibility in every way possible. Optional because it's the biggest download in the pack."
