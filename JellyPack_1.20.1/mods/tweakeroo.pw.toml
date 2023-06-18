@@ -15,4 +15,4 @@ project-id = 297344
 [option]
 optional = true
 default = false
-description = "contains a bunch of hotkeys on the right-hand side of the keyboard. gives freecam and many helpful tweaks though."
+description = "Tweaks mod that allows for freecam, auto-clickers, and much more. Optional because I've bundled it with a bunch of hotkeys that can be disorienting."

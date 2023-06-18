@@ -15,4 +15,4 @@ project-id = 308892
 [option]
 optional = true
 default = false
-description = "makes sticks behave weirdly by default as well as some potentially undesirable UI elements but adds schematic functionality."
+description = "Adds schematic and copy/paste functionality but by default makes sticks behave weirdly as well as adds some potentially undesirable UI elements."

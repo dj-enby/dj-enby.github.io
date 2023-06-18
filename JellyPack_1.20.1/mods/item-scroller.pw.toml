@@ -15,4 +15,4 @@ project-id = 242064
 [option]
 optional = true
 default = false
-description = "changes some vanilla inventory behaviors but has an autocrafter as well as many helpful inventory shortcuts."
+description = "Has an autocrafter as well as many helpful inventory shortcuts but changes some vanilla inventory behaviors."
