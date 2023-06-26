@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\Jelly Pack 1.19.4-1.1\\.minecraft\\schematics\\wood farms\\ntf_hooked_up.litematic",
+        "name": "ntf hooked up",
+        "origin": [
+          -241,
+          46,
+          -182
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ntf hooked up",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                30
+              ],
+              "name": "ntf hooked up",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "REBUILD",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "water pipe junction upwards",
+    "current": "water pipe junction upwards",
+    "boxes": [
+      {
+        "pos1": [
+          -148,
+          53,
+          -183
+        ],
+        "pos2": [
+          -144,
+          59,
+          -190
+        ],
+        "name": "water pipe junction upwards"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
