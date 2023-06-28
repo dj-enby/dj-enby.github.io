@@ -8,4 +8,4 @@ i hope you like it
 
 if you have any problems find me on discord dj_enby
 
-blm acab queer pride
+🏳️‍⚧️ blm acab queer pride 🏳️‍⚧️
