@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "568e28f43238000b050d3655087a30cf2e5b4a95bcfca0bbd93f6cdd09b07ae4"
+hash = "4c309cc7017643110128a1f73abdf21b2ff04b04233551d59af4238fc60c0508"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
+hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
 metafile = true
 
 [[files]]
