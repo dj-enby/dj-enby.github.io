@@ -21,6 +21,10 @@ file = "config/yosbr/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "a914ff0f38485c9001b9b77b0ea2aaf8b3dc23b392939dbf9be6b7b0faae671a"
+
+[[files]]
 file = "config/yosbr/config/cull-less-leaves.toml"
 hash = "3014156e8543c9d237b9df9148fa618e8e5d1c05dbbefbebf8095c365618719e"
 
@@ -177,6 +181,10 @@ file = "config/yosbr/config/litematica/litematica_test_dim_minecraft_overworld.j
 hash = "b16a1d9cd22c5ba4a63d64474f182a5a68cff95e977cc69cd4843111561862b2"
 
 [[files]]
+file = "config/yosbr/config/litematica/litematica_test_dim_minecraft_the_nether.json"
+hash = "353dc74aa7ec2dc92826ea81dda3b66747910a3fd52354a71b482c9835548d36"
+
+[[files]]
 file = "config/yosbr/config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -302,6 +310,10 @@ hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
 file = "config/yosbr/config/minihud/test_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/test_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
@@ -521,6 +533,18 @@ file = "config/yosbr/schematics/bonemeal/bonemeal_farm_hexatron_1.1_2k_bm.litema
 hash = "80cb723e5a3fc86da53f50715d0b7a91f498563c2695692797ee0d96a9a180e4"
 
 [[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit.litematic"
+hash = "7200e929756bb0473e945880ad23d40d46290683dcef55cc1af49dd71c27260b"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit_1_1.litematic"
+hash = "3d89526e0ce23438696a0f8346537551eda8c401e6f5326eb9ebb0f0e75ff285"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit_1_2.litematic"
+hash = "48285eb519a3b2371bec22e56e5bdbab17ae09cb14b4e4b74829f76839ac67f9"
+
+[[files]]
 file = "config/yosbr/schematics/box loaders/3wt_Full_Speed_8x_Loader 72k.litematic"
 hash = "3233f072f876fd5b9970693aa064b67a696c70c5310765debd9a593f6c894ac8"
 
@@ -587,6 +611,14 @@ hash = "a892eab87bc041d8a5b2f7075fac855cc41fa4f0129759f6e4dd22bb2704913b"
 [[files]]
 file = "config/yosbr/schematics/box unloaders and yeeters/Target_2x_Unloader.litematic"
 hash = "9ae494530548212443dd241bc37866c2f93820e02cf6ca6a39f37155850ddcc7"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/cart_yeeter_chain_jaink.litematic"
+hash = "9675e64a3d710d25df4b01b716bf8fabb4198fa1b7a255b77a88618fb050f6f9"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/cart_yeeter_cluster_mango_1wt.litematic"
+hash = "b00a3b7f6a01c89435f1fb4eacba19a75877eba094847a3d6cfb174c27219e9b"
 
 [[files]]
 file = "config/yosbr/schematics/box unloaders and yeeters/fast_cart_unloader.litematic"
@@ -681,12 +713,36 @@ file = "config/yosbr/schematics/item transport/water_pipe_junction_upwards.litem
 hash = "d6feb37969ddf0704f2a071057ecd5a1212d3e7321432214f95a3a674cdbbfbe"
 
 [[files]]
+file = "config/yosbr/schematics/misc/colection_temp.litematic"
+hash = "b6c460bd9dc087dbbb7638f26859445d39ea6edccd3a703b8f7047332b97ddd5"
+
+[[files]]
+file = "config/yosbr/schematics/misc/enby_cheapo_iron_farm.litematic"
+hash = "852553101d325e90c6d4c56d7adf9221a99cf8f65875e35f997620b5b72b7026"
+
+[[files]]
+file = "config/yosbr/schematics/misc/enby_cheapo_iron_farm2.litematic"
+hash = "9889888d1d11e245ed429487e13d43918268420245543980a8bcca30eaa1233b"
+
+[[files]]
 file = "config/yosbr/schematics/misc/ice_boat_station_platform.litematic"
 hash = "dca19b9d650715a3865c46f8e1fe53083ddb339d60c98dea0333406a5342329e"
 
 [[files]]
+file = "config/yosbr/schematics/misc/iron_resetter_addon.litematic"
+hash = "c303316b91fe2620a65834815dafe298138e258b42740213b23e8acabe57c902"
+
+[[files]]
+file = "config/yosbr/schematics/misc/mango_slime_farm.litematic"
+hash = "84f04eedc4324f526ba6939a5140d9ebc6cccc575381f7d806d3e25d57dbe164"
+
+[[files]]
 file = "config/yosbr/schematics/misc/mario_song.litematic"
 hash = "2357cc044c7a1ef45bdf308d539ca33e11f28cfe517d7441c1fcd49cb357920b"
+
+[[files]]
+file = "config/yosbr/schematics/misc/slime_farm.litematic"
+hash = "21e9ebc4c1cb2facba83819da9331d847165d727481df7fd32c1bd5084b64790"
 
 [[files]]
 file = "config/yosbr/schematics/misc/slime_farm_test.litematic"
@@ -699,6 +755,14 @@ hash = "181a6bb97d47779cffd2c082798fb02c0e6dad6635eae30796153f3ccd609a16"
 [[files]]
 file = "config/yosbr/schematics/misc/tnt_duper.litematic"
 hash = "df4eed9e2702fbbd29f1c6957e29374e2dcfe4aa7257a9ba1e7ed647065e96df"
+
+[[files]]
+file = "config/yosbr/schematics/misc/wattles_iron_collection.litematic"
+hash = "5b92282631d21989f9c4ce60111b7126f7accbfa8061a5df2f1a6fe4d716ce9f"
+
+[[files]]
+file = "config/yosbr/schematics/misc/wattles_iron_farm.litematic"
+hash = "2ea0b70dc722104b7b53e0f3842e5b48df80fea60faa09a45bdfbda0ef2239d3"
 
 [[files]]
 file = "config/yosbr/schematics/sorters/MIS_V5.1.litematic"
