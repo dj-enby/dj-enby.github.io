@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "9cee2ac488389cfc2fc98b078936a27f44453ca385f5bb37baa38563eb54a210"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
@@ -947,12 +947,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "775f2e9fb4ef5bbaa7b720d13ce3c746701199a2c72f4adab192976fec0e48df"
+hash = "f9a9e8ce7d7f9443a3dd6b95024d087350c10828a492811cf0247c6889009af4"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
