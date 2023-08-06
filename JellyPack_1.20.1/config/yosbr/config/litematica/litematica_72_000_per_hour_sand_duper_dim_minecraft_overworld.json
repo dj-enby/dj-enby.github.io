@@ -10,28 +10,28 @@
     "axis": "y",
     "layer_single": 0,
     "layer_above": 0,
-    "layer_below": 0,
+    "layer_below": 72,
     "layer_range_min": 0,
     "layer_range_max": 0,
     "hotkey_range_min": false,
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "bonemeal_farm_hexatron",
-    "current": "bonemeal_farm_hexatron",
+    "name": "block duper",
+    "current": "block duper",
     "boxes": [
       {
         "pos1": [
-          10,
-          62,
-          -2
+          -454,
+          8,
+          -1729
         ],
         "pos2": [
-          10,
-          62,
-          -2
+          -465,
+          15,
+          -1717
         ],
-        "name": "bonemeal_farm_hexatron"
+        "name": "block duper"
       }
     ]
   },

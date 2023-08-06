@@ -42,6 +42,7 @@
     "pasteNbtRestoreBehavior": "none",
     "pasteToMcFunctionFiles": false,
     "pasteUseFillCommand": true,
+    "pasteUsingCommandsInSp": false,
     "pickBlockAvoidDamageable": true,
     "pickBlockAvoidTools": false,
     "pickBlockEnabled": true,
@@ -54,7 +55,7 @@
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
-    "pasteReplaceBehavior": "all",
+    "pasteReplaceBehavior": "with_non_air",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
     "commandLimitPerTick": 64,
@@ -66,7 +67,7 @@
     "customSchematicBaseDirectory": "C:\\Users\\dj enby\\Desktop\\MultiMC\\instances\\1.18-rc4\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "5,6,7,8,9",
-    "toolItem": "minecraft:stick"
+    "toolItem": "minecraft:wooden_shovel"
   },
   "Hotkeys": {
     "addSelectionBox": {

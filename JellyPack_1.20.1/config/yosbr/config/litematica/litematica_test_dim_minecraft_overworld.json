@@ -2,52 +2,9 @@
   "selections": {
     "mode": "SIMPLE"
   },
-  "placements": {
-    "placements": [
-      {
-        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\Jelly Pack 1.19.4-1.1\\.minecraft\\schematics\\wood farms\\ntf_hooked_up.litematic",
-        "name": "ntf hooked up",
-        "origin": [
-          -241,
-          46,
-          -182
-        ],
-        "rotation": "NONE",
-        "mirror": "NONE",
-        "ignore_entities": false,
-        "enabled": true,
-        "enable_render": true,
-        "render_enclosing_box": false,
-        "locked": false,
-        "locked_coords": 0,
-        "bb_color": 10927575,
-        "verifier_type": "all",
-        "placements": [
-          {
-            "name": "ntf hooked up",
-            "placement": {
-              "pos": [
-                0,
-                0,
-                30
-              ],
-              "name": "ntf hooked up",
-              "rotation": "NONE",
-              "mirror": "NONE",
-              "locked_coords": 0,
-              "enabled": true,
-              "rendering_enabled": true,
-              "ignore_entities": false
-            }
-          }
-        ]
-      }
-    ],
-    "selected": 0,
-    "origin_selected": true
-  },
+  "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "REBUILD",
+  "operation_mode": "AREA_SELECTION",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -60,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "water pipe junction upwards",
-    "current": "water pipe junction upwards",
+    "name": "mango slime farm",
+    "current": "mango slime farm",
     "boxes": [
       {
         "pos1": [
-          -148,
-          53,
-          -183
+          -206,
+          46,
+          58
         ],
         "pos2": [
-          -144,
-          59,
-          -190
+          -180,
+          179,
+          32
         ],
-        "name": "water pipe junction upwards"
+        "name": "mango slime farm"
       }
     ]
   },
