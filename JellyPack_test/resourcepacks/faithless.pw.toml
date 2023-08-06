@@ -1,0 +1,17 @@
+name = "Faithless"
+filename = "Faithless16x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CwaddKq6/versions/OC2FbQGd/Faithless16x.zip"
+hash-format = "sha1"
+hash = "cdedf9a5bf258a0d68ff13538462c8e952d98bf8"
+
+[update]
+[update.modrinth]
+mod-id = "CwaddKq6"
+version = "OC2FbQGd"
+
+[option]
+optional = true
+description = "Vanilla-esque resource pack that focuses on accessibility in every way possible. Optional because it's the biggest download in the pack."
