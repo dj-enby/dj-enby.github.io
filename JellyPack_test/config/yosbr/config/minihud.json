@@ -118,7 +118,7 @@
     "useFontShadow": false,
     "useTextBackground": true,
     "mainRenderingToggle": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": "H"
       }
@@ -189,8 +189,8 @@
     "infoFurnaceXp": false,
     "infoFPS": false,
     "infoHoneyLevel": false,
-    "infoHorseSpeed": false,
-    "infoHorseJump": false,
+    "infoHorseSpeed": true,
+    "infoHorseJump": true,
     "infoLightLevel": false,
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,

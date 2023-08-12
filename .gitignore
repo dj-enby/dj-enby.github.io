@@ -6,3 +6,6 @@
 
 # Exclude bat files
 *.bat
+
+# Exclude test folder
+JellyPack_test/
