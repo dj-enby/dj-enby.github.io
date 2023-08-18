@@ -917,6 +917,11 @@ file = "config/yosbr/schematics/wood farms/ntf_hooked_up.litematic"
 hash = "e2c8dd7ce08579fb8dab0e4ef4b3fb7b749584561da1997381393850e1d49294"
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
 metafile = true
