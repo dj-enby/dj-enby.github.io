@@ -5,12 +5,50 @@
   "placements": {
     "placements": [
       {
-        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\misc\\block_duper.litematic",
-        "name": "block duper",
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\misc\\clay_farm_full.litematic",
+        "name": "clay farm full",
         "origin": [
-          -20148,
-          14,
-          2232
+          2000,
+          65,
+          1267
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "LEFT_RIGHT",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "clay farm full",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                103
+              ],
+              "name": "clay farm full",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\misc\\mina_mapart.litematic",
+        "name": "mina mapart",
+        "origin": [
+          1889,
+          66,
+          1107
         ],
         "rotation": "NONE",
         "mirror": "NONE",
@@ -20,7 +58,7 @@
         "render_enclosing_box": false,
         "locked": false,
         "locked_coords": 0,
-        "bb_color": 16757504,
+        "bb_color": 12648480,
         "verifier_type": "all",
         "material_list": {
           "type": "all",
@@ -31,14 +69,90 @@
         },
         "placements": [
           {
-            "name": "block duper",
+            "name": "mina mapart",
             "placement": {
               "pos": [
-                11,
+                127,
+                0,
+                128
+              ],
+              "name": "mina mapart",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\misc\\enby_cheapo_iron_farm2.litematic",
+        "name": "enby cheapo iron farm2",
+        "origin": [
+          1808,
+          39,
+          1137
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "enby cheapo iron farm2",
+            "placement": {
+              "pos": [
+                10,
+                0,
+                10
+              ],
+              "name": "enby cheapo iron farm2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\box loaders\\shulker_filler_slice.litematic",
+        "name": "shulker filler slice borkon",
+        "origin": [
+          1813,
+          39,
+          1135
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "shulker filler slice",
+            "placement": {
+              "pos": [
+                0,
                 0,
                 0
               ],
-              "name": "block duper",
+              "name": "shulker filler slice",
               "rotation": "NONE",
               "mirror": "NONE",
               "locked_coords": 0,
@@ -50,7 +164,7 @@
         ]
       }
     ],
-    "selected": 0,
+    "selected": 3,
     "origin_selected": true
   },
   "schematic_projects_manager": {},
@@ -60,28 +174,28 @@
     "axis": "y",
     "layer_single": 0,
     "layer_above": 0,
-    "layer_below": 20,
+    "layer_below": 63,
     "layer_range_min": 0,
     "layer_range_max": 0,
     "hotkey_range_min": false,
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "chunkloader temp",
-    "current": "chunkloader temp",
+    "name": "tree farm grab",
+    "current": "tree farm grab",
     "boxes": [
       {
         "pos1": [
-          -19853,
-          55,
-          631
+          1807,
+          58,
+          1128
         ],
         "pos2": [
-          -19853,
-          55,
-          631
+          1807,
+          58,
+          1128
         ],
-        "name": "chunkloader temp"
+        "name": "tree farm grab"
       }
     ]
   },

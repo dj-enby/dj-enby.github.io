@@ -13,7 +13,7 @@
         "type": "despawn_sphere",
         "color": 1621114960,
         "enabled": false,
-        "display_name": "idk what sphere lol",
+        "display_name": "industrial area back corner",
         "render_type": "outer_edge",
         "layers": {
           "mode": "ALL",
@@ -68,7 +68,7 @@
       {
         "type": "despawn_sphere",
         "color": 1621114960,
-        "enabled": true,
+        "enabled": false,
         "display_name": "1.20 general grinder",
         "render_type": "outer_edge",
         "layers": {
@@ -97,7 +97,7 @@
         "type": "despawn_sphere",
         "color": 1621114960,
         "enabled": false,
-        "display_name": "Despawn Sphere ( \u003e 128)",
+        "display_name": "1.20 base sphere",
         "render_type": "outer_edge",
         "layers": {
           "mode": "ALL",
@@ -120,8 +120,92 @@
         "main_axis": "UP",
         "radius": 128.0,
         "margin": 1.5
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": true,
+        "display_name": "secret room sphere",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          1840.5,
+          73.0,
+          1088.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": false,
+        "display_name": "cactus farm room",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          1890.5,
+          66.0,
+          1109.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": false,
+        "display_name": "Disposable Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          1893.2865032242019,
+          74.53135245113982,
+          1130.5783147276086
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
       }
     ],
-    "selected": 2
+    "selected": 6
   }
 }

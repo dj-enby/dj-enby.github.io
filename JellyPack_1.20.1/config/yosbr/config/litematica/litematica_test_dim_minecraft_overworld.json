@@ -2,36 +2,117 @@
   "selections": {
     "mode": "SIMPLE"
   },
-  "placements": {},
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\sorters\\bootleg_2x_filter_1x_loader.litematic",
+        "name": "bootleg 2x filter 1x loader",
+        "origin": [
+          31,
+          51,
+          145
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "bootleg 2x filter 1x loader",
+            "placement": {
+              "pos": [
+                9,
+                0,
+                0
+              ],
+              "name": "bootleg 2x filter 1x loader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\1.20.1 jelly pack v1.3.1\\.minecraft\\schematics\\misc\\64 Precision Furnace Array.litematic",
+        "name": "64 Precision Furnace Array",
+        "origin": [
+          64,
+          59,
+          101
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "64 Precision Furnace Array",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "64 Precision Furnace Array",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
   "schematic_projects_manager": {},
-  "operation_mode": "AREA_SELECTION",
+  "operation_mode": "PASTE_SCHEMATIC",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
     "layer_single": 0,
     "layer_above": 0,
-    "layer_below": 0,
+    "layer_below": 185,
     "layer_range_min": 0,
     "layer_range_max": 0,
     "hotkey_range_min": false,
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "mango slime farm",
-    "current": "mango slime farm",
+    "name": "sheep farm 32 ianxofour expanded v1.1",
+    "current": "sheep farm 32 ianxofour expanded v1.1",
     "boxes": [
       {
         "pos1": [
-          -206,
-          46,
-          58
+          31,
+          48,
+          137
         ],
         "pos2": [
-          -180,
-          179,
-          32
+          19,
+          59,
+          108
         ],
-        "name": "mango slime farm"
+        "name": "sheep farm 32 ianxofour expanded v1.1"
       }
     ]
   },

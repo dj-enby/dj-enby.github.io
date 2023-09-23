@@ -215,7 +215,7 @@
   },
   "Internal": {
     "flySpeedPreset": 0,
-    "gammaValueOriginal": 0.5,
+    "gammaValueOriginal": 0.0,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
     "snapAimLastYaw": 0.0
@@ -447,7 +447,7 @@
     "disableNetherFog": {
       "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "F9"
       }
     },
     "disableNetherPortalSound": {
@@ -499,7 +499,7 @@
       }
     },
     "disableScoreboardRendering": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -642,7 +642,7 @@
       "keys": ""
     },
     "disableNetherFog": {
-      "keys": ""
+      "keys": "F9"
     },
     "disableNetherPortalSound": {
       "keys": ""
