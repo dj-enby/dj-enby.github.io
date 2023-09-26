@@ -11,7 +11,7 @@
       {
         "type": "despawn_sphere",
         "color": 1621114960,
-        "enabled": false,
+        "enabled": true,
         "display_name": "farm test",
         "render_type": "outer_edge",
         "layers": {
