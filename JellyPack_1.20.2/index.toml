@@ -1,0 +1,3217 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "2f6998db8bf1fe050eaaa95799de7dd0288e58865e049d5a86d0509cab70de01"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "25cf9d49c71e7b60727a686623fd254c422fcdb2692bb150198bfaae7a9d559f"
+
+[[files]]
+file = "config/yosbr/config/carpet/default_carpet.conf"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "a914ff0f38485c9001b9b77b0ea2aaf8b3dc23b392939dbf9be6b7b0faae671a"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.toml"
+hash = "3014156e8543c9d237b9df9148fa618e8e5d1c05dbbefbebf8095c365618719e"
+
+[[files]]
+file = "config/yosbr/config/dashloader.json"
+hash = "c4c79b030c36cb3a2ce8f44b28f473424b8a2d2c057f7c07fb20f69a8c7c427b"
+
+[[files]]
+file = "config/yosbr/config/debugify-descriptions.json"
+hash = "9e0a3e50d3354d8f812dee6fdc146dd863a44be50fad55950abd2224a963d15f"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "b7651c21ec5a9a30267b76898932f51dc2f7a9efa5220e45450d7340ea6574a7"
+
+[[files]]
+file = "config/yosbr/config/dontdropit.json5"
+hash = "a92433c599fa08ab4d3ad2dd5121d9839060733af8bd6bbd7cf1bec580a37600"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "39b2c4b22aa707ca3b711458985589a9b6d711b385ee176e2d2b638abbcd338a"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "b5ad4195162afd10044fa71fbac65e84b4d5d53b3ff15ac343675e1f5d04172c"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "2e3c83bc31205a5cfb53f863e2f884b1591438d74c83f7e9b3c3c00cf460cf27"
+
+[[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "b9a1997727d4a3001cf589901099f409a54def6e76b23bb81904ee15f4b7c2d3"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "1c312f6355f45fdb94c206dcba77713f37f26ad90a55a4a38d1f6f5f9b9528e0"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_135.148.136.221_25666.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_135.148.136.221_25666_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_135.148.136.221_25666_dim_minecraft_the_end.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_72_000_per_hour_sand_duper.json"
+hash = "9596290d110374c8fd2ea3552f9318d7a955739656bd960a58f26fa65d841bb5"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_72_000_per_hour_sand_duper_dim_minecraft_overworld.json"
+hash = "7b6b06d9643b918e7940e27f4dd0972eb740dcc4f12451b5c5e0f77b2b183da9"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_72_000_per_hour_sand_duper_dim_minecraft_the_end.json"
+hash = "65565ca93c8e98f0c6e7537d9dfe540af0982557676782b1059fb6f1eae471ed"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_72_000_per_hour_sand_duper_dim_minecraft_the_nether.json"
+hash = "c3a541e9336fffa575a1687dc227d9a1b71c6eac5374a5335bcc4563fe667001"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_creative_survival_test_world.json"
+hash = "bd67a3af073b82a4d8bcb0bfaae73129797e2518a6082b58e3ce6f00654ff3b8"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_creative_survival_test_world_dim_minecraft_overworld.json"
+hash = "e01e23ec0f5cc5d63e48e4b8e7c9538cd573cab17443fb546cc774d858c43c10"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_creative_survival_test_world_dim_minecraft_the_nether.json"
+hash = "b83f32cf10b3e5f6402dd3c24ec65b63919d09e912d7b89075b83fd88c85c746"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_default.json"
+hash = "2ffa4dcf7a9f64ae2f9c3bf1cefd70c3f2caeeb1a766abef016aae9849d29f87"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_jelly_test_world.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_jelly_test_world_2.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_jelly_test_world_2_dim_minecraft_overworld.json"
+hash = "3f4623e6e49909319298f90c0afff91d6b90059278305e190306333c8ac5bfe9"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_jelly_test_world_dim_minecraft_the_nether.json"
+hash = "3f4623e6e49909319298f90c0afff91d6b90059278305e190306333c8ac5bfe9"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer.json"
+hash = "f52383e4a9b2ddb8490a87f8e6375cf86b5dc79032b90464415d9a0a88236c37"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_overworld.json"
+hash = "d5cda03cd5f5991c1ec76059b1c8475aa12bc30b8e439434fe20a6009d0259d1"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_the_end.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_minecraft.fizzbuzz.engineer_dim_minecraft_the_nether.json"
+hash = "9dbb92da0a4b8b926824894e96461a2a6032ecbd45f6aa52bb95e3597e0cc939"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_new_world.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_new_world_dim_minecraft_overworld.json"
+hash = "fbef8f36249cba6d39b96b641367f6e9f9399d8c04f78f1cef9c424369e7e286"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_new_world_dim_minecraft_the_nether.json"
+hash = "3f4623e6e49909319298f90c0afff91d6b90059278305e190306333c8ac5bfe9"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_newstone.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_newstone_dim_minecraft_overworld.json"
+hash = "1eaff10715d6cca6b9d8d8357f875e3104ebcbca0d1657609ebd5cbce1a546fe"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_nico_is_lost_3l_max_rate_tut.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_nico_is_lost_3l_max_rate_tut_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_simple_nether_tree_farm_v4.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_simple_nether_tree_farm_v4_dim_minecraft_overworld.json"
+hash = "3f4623e6e49909319298f90c0afff91d6b90059278305e190306333c8ac5bfe9"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_test.json"
+hash = "9405b7a3cb7ce85ce20b73564d1e3d015e63e04a207b929412ff66860543fb5f"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_test_1.json"
+hash = "7817b2cbacd41d7ce33cc9f9c95a7114aac278925386fc87b9169c2b74995534"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_test_1_dim_minecraft_overworld.json"
+hash = "c8a9ffe204ccdb6378d01bb1efd5d308005d3701100a74150e1c45cce596c3ef"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_test_dim_minecraft_overworld.json"
+hash = "e1506e110ced7bf8a04480ad3e0693d385278702cf7987cb466a9fbf8155cc6a"
+
+[[files]]
+file = "config/yosbr/config/litematica/litematica_test_dim_minecraft_the_nether.json"
+hash = "353dc74aa7ec2dc92826ea81dda3b66747910a3fd52354a71b482c9835548d36"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "f30362b83a864bc9ae8f815a39be3c4ea094d47f4fe03072ab13735123f83d50"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "67f7b4937efd8bc794ead77855dddaf36db7bb5a6fe3dd9e8e0426454be751dd"
+
+[[files]]
+file = "config/yosbr/config/minihud/135.148.136.221_25666.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/135.148.136.221_25666_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/135.148.136.221_25666_dim_minecraft_the_end.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/72_000_per_hour_sand_duper.json"
+hash = "d97e812752bc5fb51a24bc14c7afd31a4acb909d571e269ec778a08824497961"
+
+[[files]]
+file = "config/yosbr/config/minihud/72_000_per_hour_sand_duper_dim_minecraft_overworld.json"
+hash = "40597d67059837d0c36f93acb86ab6f565e7abf655422179a868985454974a23"
+
+[[files]]
+file = "config/yosbr/config/minihud/72_000_per_hour_sand_duper_dim_minecraft_the_end.json"
+hash = "40597d67059837d0c36f93acb86ab6f565e7abf655422179a868985454974a23"
+
+[[files]]
+file = "config/yosbr/config/minihud/72_000_per_hour_sand_duper_dim_minecraft_the_nether.json"
+hash = "40597d67059837d0c36f93acb86ab6f565e7abf655422179a868985454974a23"
+
+[[files]]
+file = "config/yosbr/config/minihud/creative_survival_test_world.json"
+hash = "9ab4e1be228b0e761fcc3657dc4ae9bb60e5614c4a1c376faf4e1f9bfa7306c2"
+
+[[files]]
+file = "config/yosbr/config/minihud/creative_survival_test_world_dim_minecraft_overworld.json"
+hash = "c57b55855efc61f5c60f3c8daa924e2ed78652fcf780fad44131c3316a0986bb"
+
+[[files]]
+file = "config/yosbr/config/minihud/creative_survival_test_world_dim_minecraft_the_nether.json"
+hash = "be245ad66a093d7b1fa3a9db78e101bab20d366cfa2917f70f792ebec736c28f"
+
+[[files]]
+file = "config/yosbr/config/minihud/jelly_test_world.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/jelly_test_world_2.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/jelly_test_world_2_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/jelly_test_world_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer.json"
+hash = "d97e812752bc5fb51a24bc14c7afd31a4acb909d571e269ec778a08824497961"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_overworld.json"
+hash = "b28ab4521674e27716b732c2badec21ab4a05bbb993a9b5c3d36df6dfe78f3a8"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_the_end.json"
+hash = "be245ad66a093d7b1fa3a9db78e101bab20d366cfa2917f70f792ebec736c28f"
+
+[[files]]
+file = "config/yosbr/config/minihud/minecraft.fizzbuzz.engineer_dim_minecraft_the_nether.json"
+hash = "be245ad66a093d7b1fa3a9db78e101bab20d366cfa2917f70f792ebec736c28f"
+
+[[files]]
+file = "config/yosbr/config/minihud/minihud_default.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/new_world.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/new_world_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/new_world_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/newstone.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/newstone_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/nico_is_lost_3l_max_rate_tut.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/nico_is_lost_3l_max_rate_tut_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/simple_nether_tree_farm_v4.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/simple_nether_tree_farm_v4_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/test.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/test_1.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/yosbr/config/minihud/test_1_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/minihud/test_dim_minecraft_overworld.json"
+hash = "16a261680668cc4b61c1aaa78b915d7df64799613035da71012735712de649a1"
+
+[[files]]
+file = "config/yosbr/config/minihud/test_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/yosbr/config/modelfix-client.json"
+hash = "0e8cd1d6c668d243a77f38dbd7ec0cd419c89587934a92bb4ba2fb70e0abe515"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "211c296d2e1b7ee088888a7e6beed020afcfc401e6995ece8c0a27b53fa14047"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "75ff9e4c163ce62d284614bc7f81179a3f6bd8e40f8c959b3c5f071f8e63d828"
+
+[[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "ba6692a9284f7ceef854a89995de443591490922310145bbb932d404033af58d"
+
+[[files]]
+file = "config/yosbr/config/quilt-loader.txt"
+hash = "e744f04150dc7632731bc3e6643f299e1d9e79a945a9e0014b95272cdc13bed2"
+
+[[files]]
+file = "config/yosbr/config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/yosbr/config/quilt/qsl/registry.toml"
+hash = "d7d5830b7230865bf13d8a067e4e479c751ac296e2008aab99c8511f60f0e30f"
+
+[[files]]
+file = "config/yosbr/config/quilt_loading_screen.json"
+hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "2a7dea458752fa3ec83d05bab9bf7187b68c7744fbf9561cca505315e04549f9"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8b877544a0a32f946a11b736a18bec928429f3cd6b6831270681914fd7de290a"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "b0467097a47cfa66f033cbab1f4b09b180a25159e0c3a2dd36bce674dba653bf"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "c68fffa14fb7854b33ae41ceb40ea052cdd75d3c0f9b9be7bc57b6185aa9f0db"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "56052b7ec7aa6a8ec5d2c3221a5da8db48e53fb0255fae9b65d1f7a6a725d088"
+
+[[files]]
+file = "config/yosbr/itemscroller/recipes_minecraft.fizzbuzz.engineer.nbt"
+hash = "2f503a5a1adc46bff4b32ad5928c9a293123b74f359b82bc2cdf4888359cefb0"
+
+[[files]]
+file = "config/yosbr/itemscroller/villager_data_minecraft.fizzbuzz.engineer.nbt"
+hash = "2e3f794401567cfa1f00d0e4886000b65a357ed5550a4f0eb59c8c3c4356de25"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "b1908ca591aa12d923d2f82219df8250990a80abde612e87505bb1ffea5bc457"
+
+[[files]]
+file = "config/yosbr/saves/newstone.zip"
+hash = "77a550432a621ab90ef758516cb904e5edc5b69351b747513b632761f596c0bb"
+
+[[files]]
+file = "config/yosbr/saves/newstone/DIM-1/data/raids.dat"
+hash = "f30db5c26915cf856dedc5ebf3607642474aadd7321bd6467a06ca1a2e725cb5"
+
+[[files]]
+file = "config/yosbr/saves/newstone/DIM1/data/raids_end.dat"
+hash = "f30db5c26915cf856dedc5ebf3607642474aadd7321bd6467a06ca1a2e725cb5"
+
+[[files]]
+file = "config/yosbr/saves/newstone/advancements/ab634dfd-321a-4fb2-b4b1-e1ea7a214a9a.json"
+hash = "446b6bdf64bf7cbc2523bf5aba8b9d5dd89f7e41127c95cff715b39c73f09c79"
+
+[[files]]
+file = "config/yosbr/saves/newstone/data/raids.dat"
+hash = "f30db5c26915cf856dedc5ebf3607642474aadd7321bd6467a06ca1a2e725cb5"
+
+[[files]]
+file = "config/yosbr/saves/newstone/entities/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/entities/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/entities/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/entities/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/icon.png"
+hash = "5a7aafa5cd06704f2c228a7e564b24133fdf11dd48de12363f74a4b05a7cd1c0"
+
+[[files]]
+file = "config/yosbr/saves/newstone/level.dat"
+hash = "b0d7ecfe27b2ebb635e2d4c8966c11241a61386e28700668abecacbca967e714"
+
+[[files]]
+file = "config/yosbr/saves/newstone/level.dat_old"
+hash = "fc2461f89e8919d2b7c6b27ddc46b1f9b240ccdac1fa987deb4fee981a37e2ec"
+
+[[files]]
+file = "config/yosbr/saves/newstone/playerdata/ab634dfd-321a-4fb2-b4b1-e1ea7a214a9a.dat"
+hash = "78676a36771ab13acec91a45a0e5cb27dcd638df9ab89a3b7d7049000c403595"
+
+[[files]]
+file = "config/yosbr/saves/newstone/playerdata/ab634dfd-321a-4fb2-b4b1-e1ea7a214a9a.dat_old"
+hash = "6e17200bfa620855e5026dc3ffebfa667496ecc20c78e1a21f91d6751b4ffd49"
+
+[[files]]
+file = "config/yosbr/saves/newstone/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/saves/newstone/region/r.-1.-1.mca"
+hash = "dbe22d8d83a62098f7ff9f6e8d9c77ef7d634fae8c749d561a2930cb8d5538d1"
+
+[[files]]
+file = "config/yosbr/saves/newstone/region/r.-1.0.mca"
+hash = "08443ffe0883f08db58f73ccbab531c916b508dd5cc5e329e3bbd55b8b1386e7"
+
+[[files]]
+file = "config/yosbr/saves/newstone/region/r.0.-1.mca"
+hash = "34621013c422e21d2ea23c525be901084cc55861398ad38d0153ae3fed91b7ba"
+
+[[files]]
+file = "config/yosbr/saves/newstone/region/r.0.0.mca"
+hash = "6399a24be5bc9679eeb3afbca9f42bab647a222786012a65950caaf083ee1c6e"
+
+[[files]]
+file = "config/yosbr/saves/newstone/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "config/yosbr/saves/newstone/stats/ab634dfd-321a-4fb2-b4b1-e1ea7a214a9a.json"
+hash = "60ebce836dbb65f8ba6986c27c24d4506f8c604e422a72705cd81a824c3da2d3"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/block_merger_note.litematic"
+hash = "6317023fbe10fd70d7a57d3e4b9d9d6b650328cd21d9f7ceaaefe6a74c35c909"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/block_merger_rail.litematic"
+hash = "3d4e413a09de2de429452f4b85c42144fac3790318f0086a0276190328a0c993"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/block_merger_weird.litematic"
+hash = "d7adf62be46ae56b79af7e4baf60f1a946699389d8c34adf9e0929cc0123d328"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/down_to_horizontal_block_conveyor.litematic"
+hash = "90bdf9684f6c7d158482866be85c3617d1370037e5e32aef91b51f1c96331f8b"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/horizontal_block_conveyor_compact.litematic"
+hash = "ac1d62f5c1b1401921ae7a9dcfdd07ea379bf91eb1c7e885f2e6855d890d29cd"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/horizontal_straight_conveyor.litematic"
+hash = "42b4b281e33732f80bc81aa5a5e4583248ce339696c65411ab4ea4a0f3cec85a"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/horizontal_to_upward_conveyor.litematic"
+hash = "35b9a59923823d23dd707a4b1a9957022bdcd75a3c9e3a5e15a5293fd177a167"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/upward_to_horizontal_conveyor.litematic"
+hash = "8de5ebac64692f45e76be0c570c6791837b2f305dbf584dc2f3cb6bbac0154a8"
+
+[[files]]
+file = "config/yosbr/schematics/block conveyors/upward_to_upward_conveyor.litematic"
+hash = "5c40d29b1687e9de65b591d9ba20fd925e21ec47c64ce04aef9d33ac0d8a88b4"
+
+[[files]]
+file = "config/yosbr/schematics/bolts and rails/alternating_rail_placer_fixed.litematic"
+hash = "bb0c3a0a2e52286e2f2ec7c8aaf80bc6f71f54c463436512c07cef3b097a4a40"
+
+[[files]]
+file = "config/yosbr/schematics/bolts and rails/demibolt_rail_curver_by_pingu.litematic"
+hash = "610fd17d7f022d20a0e02a67aaa0f891ae9ed347ef4b4f76e99833e5526d94ee"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/2x2x2_hexa_moss_farm_16k_bm.litematic"
+hash = "ab90ea5ad50e8a892b44c40243a145f0441770419f3a9ab81120960313ed0ec3"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/4x4x4_hexa_moss_hookup.litematic"
+hash = "68a79250a138884fb6d849f57551c150ea866a6e3af825c1589da67a7166dbc9"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/bonemeal_farm_hexatron_1.1_2k_bm.litematic"
+hash = "80cb723e5a3fc86da53f50715d0b7a91f498563c2695692797ee0d96a9a180e4"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit.litematic"
+hash = "7200e929756bb0473e945880ad23d40d46290683dcef55cc1af49dd71c27260b"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit_1_1.litematic"
+hash = "3d89526e0ce23438696a0f8346537551eda8c401e6f5326eb9ebb0f0e75ff285"
+
+[[files]]
+file = "config/yosbr/schematics/bonemeal/pixlriffs_basic_moss_edit_1_2.litematic"
+hash = "48285eb519a3b2371bec22e56e5bdbab17ae09cb14b4e4b74829f76839ac67f9"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/3wt_Full_Speed_8x_Loader 72k.litematic"
+hash = "3233f072f876fd5b9970693aa064b67a696c70c5310765debd9a593f6c894ac8"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/3wt_Full_Speed_8x_Loader_Tiled_Example.litematic"
+hash = "d8722f1f1999892adab7c2155d91e8327ade16fb35588c1255fc4fd920288fa2"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/4x2wt_loader_by_Pyra 36k.litematic"
+hash = "e613005b2f54234d3fab099d2ffe99293f8cbdb0dd327e9137a80bf071cf1964"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/4x2wt_loader_by_Pyra.litematic"
+hash = "e613005b2f54234d3fab099d2ffe99293f8cbdb0dd327e9137a80bf071cf1964"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Fullspeed_6x_loader_1.17.1.litematic"
+hash = "b9dd1dae540d02245ef477989ad3481b3c0c5798b96ebdfa09df0fce2ff0507b"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Modified_Samos_Simple_1x_Loader.litematic"
+hash = "f36f8ae6db2c7063b9fb11822ead23841fdcf56ffa7f152dc4b258cd7c23de9a"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Simple_1x_Hopper_Speed_Loader 9k.litematic"
+hash = "7b32691dc7b28c2f46963a447c2a21f4291adb5531b707630c5e1fb4e570d6a1"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Simple_1x_Hopper_Speed_Loader(no sticky).litematic"
+hash = "0de5c6b67791af4c19a5d360e1ff5db2aead907cd7b4972e2485e153c60297c5"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Simple_1x_Hopper_Speed_Loader.litematic"
+hash = "7b32691dc7b28c2f46963a447c2a21f4291adb5531b707630c5e1fb4e570d6a1"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/Simple_1x_Hopper_Speed_Loader__Filter.litematic"
+hash = "dc614526a7e04eba66789034cc4a178d3be5d9898eda3858ef3878b3650bfb9b"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/shulker_filler_slice.litematic"
+hash = "f433d878d1a41503be1e742c6ae0af88e460b7649133aa0301e5ab592afa8df4"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/simple_1x_box_loader_plus.litematic"
+hash = "74a96869cb60ecbe66204c7bc7dddadc404c87d36e74f10a22214c5289135169"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/simple_2x_loader.litematic"
+hash = "2375d4303a16d3b9047d0e83a589f23f9f8ede3c30c29eb49c7e7d51c68578fc"
+
+[[files]]
+file = "config/yosbr/schematics/box loaders/slice_preserving_unloader_1.17.1.litematic"
+hash = "9b37c3c7d0a21ae5c8eb1c4be65416da1989e64c66c425694a14790e79e211e6"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/1.16_Pyra_2x_Unloader.litematic"
+hash = "8872f827594f77c19d55681252a787598a77acb805e32e9debf7b711233e7cc9"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/1.17_Waterstream_Box-Unpacker.litematic"
+hash = "a892eab87bc041d8a5b2f7075fac855cc41fa4f0129759f6e4dd22bb2704913b"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/Target_2x_Unloader.litematic"
+hash = "9ae494530548212443dd241bc37866c2f93820e02cf6ca6a39f37155850ddcc7"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/cart_yeeter_chain_jaink.litematic"
+hash = "9675e64a3d710d25df4b01b716bf8fabb4198fa1b7a255b77a88618fb050f6f9"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/cart_yeeter_cluster_mango_1wt.litematic"
+hash = "b00a3b7f6a01c89435f1fb4eacba19a75877eba094847a3d6cfb174c27219e9b"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/fast_cart_unloader.litematic"
+hash = "fe1cfebc16f06fd5043bbe171fe45d71a5832863b366a244dc4c33fa17d53b9f"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/figi_hopperspeed_box_yeeter_1.17.1.litematic"
+hash = "b96224e4100d039d381ddb5b56b731bc1601254610168837e305d741cae24a62"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/hopper_speed_box_yeeter_figi_older.litematic"
+hash = "f1ff855f628fde8891f07b629099f70e28aa53ffdd41b3c6c2254cfa40e583ae"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/item_unloader_shulker_splitter.litematic"
+hash = "b65f7fd616d6809cc7c895999d46ba7ac41ed8c9c073b85169448df2f8501166"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/precise_output_shulker_yeeter_5x3x4.litematic"
+hash = "34acd21387554e7857da3d4608b7258c66e368e2d4099885760df30776b9602f"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/shulker_spitter_for_bonemeal.litematic"
+hash = "6d112c0166bb2a2b310181ba75ad5272f7f08599ba645efcc2307e7b19555efa"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/shulker_unloader.litematic"
+hash = "6fabcff0e0bfcc95978789e884c0d6a7619c17c0d5ce65eda61b0d54985011b1"
+
+[[files]]
+file = "config/yosbr/schematics/box unloaders and yeeters/shulker_unloader_2x_hopper.litematic"
+hash = "ebefa9cda61f0b26761b8cd74715340b4484b27d816a77d9aebc69b496548e7c"
+
+[[files]]
+file = "config/yosbr/schematics/chunk loaders/chunk_loader.litematic"
+hash = "aee39e9c53d11a26e4d69ca7ccce66089cbdac893f197228ed77a10161e83213"
+
+[[files]]
+file = "config/yosbr/schematics/chunk loaders/chunkloader_mango_new_temp.litematic"
+hash = "e64d07c0bd5152ef3a421a86ac4cbfaa02d98d15aa4e97fa2023a6119b905c3b"
+
+[[files]]
+file = "config/yosbr/schematics/chunk loaders/chunkloader_side_1.litematic"
+hash = "bea6bda9b99b589771ffc02f18e6054086273345c3438d673691892a69fdef6b"
+
+[[files]]
+file = "config/yosbr/schematics/chunk loaders/chunkloader_side_2.litematic"
+hash = "5da693b6e59046aa936a351d262a1ccd336eae402d53d27ff008089fbda46882"
+
+[[files]]
+file = "config/yosbr/schematics/clocks and pulse extenders/2w_LongPulseExtender_40sec.litematic"
+hash = "9a322323994df4b2aec07504f7216143c8220ab9d8024ca2d67e3c28ab8c2bfa"
+
+[[files]]
+file = "config/yosbr/schematics/clocks and pulse extenders/3w_LongPulseExtenders.litematic"
+hash = "e73bfa9211369e73793c3c59c544944599a40d50f08e12325e2ee8a7721f655e"
+
+[[files]]
+file = "config/yosbr/schematics/dropper elevators/dropper_elevator_silent_hopper_speed_atomic_dave.litematic"
+hash = "3d13fbed2e80b8969e115061d6f1684958ead61d3c018161847f7017cc4408bd"
+
+[[files]]
+file = "config/yosbr/schematics/dropper elevators/dropper_elevator_tileable_rapscallion.litematic"
+hash = "8bfa2876822bdf92c5cb281be827be187e80ace4a6239c57fbdb990ccaab56d9"
+
+[[files]]
+file = "config/yosbr/schematics/dropper elevators/dropper_elevator_tinker77.litematic"
+hash = "284e58794798b3846cc3e2999b5c69c60d9d57c635b1c38b0eed085b6a23c175"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/Recycling_water_streams.litematic"
+hash = "bd20b4e0e2018c7e64f99065656ef6dfcb3f57af02f23b7777c24864051f387b"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/Reliable_2_Tall_Water_Stream.litematic"
+hash = "69bcf056927ee8b0fb17a9130a4cc15ff3645a666a6458790e3f6701cf540573"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/WaterStream_Cycle_4x.litematic"
+hash = "c188c0ad8ec8a5e66342c3b99e35f1417a689bacbbe42ce3bfb2cd44297429a1"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/custom_recycler.litematic"
+hash = "eb38d825d7794b5bdb1d0b7f90991ae906429c2bdfde965e25d6aebb4c2c76bc"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/water_pipe_junction_parallel.litematic"
+hash = "d1410197826924425bd452e72233221e12851dc530f436d4bec3c2494b2b4e31"
+
+[[files]]
+file = "config/yosbr/schematics/item transport/water_pipe_junction_upwards.litematic"
+hash = "d6feb37969ddf0704f2a071057ecd5a1212d3e7321432214f95a3a674cdbbfbe"
+
+[[files]]
+file = "config/yosbr/schematics/misc/block_duper.litematic"
+hash = "36e354226ba20b7e0ec32e39f3e2d34f8d6fd627f9756545a94cf429e60d6878"
+
+[[files]]
+file = "config/yosbr/schematics/misc/block_duper_end_side.litematic"
+hash = "78661d3b1aed0346004a90d64ef0c5176bd7cb8f256f6ba01af8ae525eec3dd8"
+
+[[files]]
+file = "config/yosbr/schematics/misc/colection_temp.litematic"
+hash = "b6c460bd9dc087dbbb7638f26859445d39ea6edccd3a703b8f7047332b97ddd5"
+
+[[files]]
+file = "config/yosbr/schematics/misc/enby_cheapo_iron_farm.litematic"
+hash = "852553101d325e90c6d4c56d7adf9221a99cf8f65875e35f997620b5b72b7026"
+
+[[files]]
+file = "config/yosbr/schematics/misc/enby_cheapo_iron_farm2.litematic"
+hash = "9889888d1d11e245ed429487e13d43918268420245543980a8bcca30eaa1233b"
+
+[[files]]
+file = "config/yosbr/schematics/misc/general_grinder_ianxofour.litematic"
+hash = "f19de39cbaa7949eb3be0dcb759554935393a235a0d41db890105d43105e9f05"
+
+[[files]]
+file = "config/yosbr/schematics/misc/general_grinder_test.litematic"
+hash = "25598a05f34f6427d2db2bfa610b58feb6a858fdf6d32c19e45cf152e091c6d4"
+
+[[files]]
+file = "config/yosbr/schematics/misc/ice_boat_station_platform.litematic"
+hash = "dca19b9d650715a3865c46f8e1fe53083ddb339d60c98dea0333406a5342329e"
+
+[[files]]
+file = "config/yosbr/schematics/misc/iron_resetter_addon.litematic"
+hash = "c303316b91fe2620a65834815dafe298138e258b42740213b23e8acabe57c902"
+
+[[files]]
+file = "config/yosbr/schematics/misc/mango_slime_farm.litematic"
+hash = "d7a60cdb9d75c4db5618d2fe9fa1ba6df68dfe1c08b8c0c62eab2dea40e38fd6"
+
+[[files]]
+file = "config/yosbr/schematics/misc/mario_song.litematic"
+hash = "2357cc044c7a1ef45bdf308d539ca33e11f28cfe517d7441c1fcd49cb357920b"
+
+[[files]]
+file = "config/yosbr/schematics/misc/slime_farm.litematic"
+hash = "21e9ebc4c1cb2facba83819da9331d847165d727481df7fd32c1bd5084b64790"
+
+[[files]]
+file = "config/yosbr/schematics/misc/slime_farm_test.litematic"
+hash = "fe044be8d34b221f53f1deffe4a8b255ef5c1a34c7ad52bd3371bd54bebd9d1f"
+
+[[files]]
+file = "config/yosbr/schematics/misc/slime_farm_test2.litematic"
+hash = "181a6bb97d47779cffd2c082798fb02c0e6dad6635eae30796153f3ccd609a16"
+
+[[files]]
+file = "config/yosbr/schematics/misc/temp.litematic"
+hash = "bd0b58576af408edb0407d355b795dc0189bda2a263dc389c3797bc47b755919"
+
+[[files]]
+file = "config/yosbr/schematics/misc/temp2.litematic"
+hash = "3616eb96347b5b4cab32ea0329282f56b28fff44a877ccab8851d990a7972225"
+
+[[files]]
+file = "config/yosbr/schematics/misc/tnt_duper.litematic"
+hash = "df4eed9e2702fbbd29f1c6957e29374e2dcfe4aa7257a9ba1e7ed647065e96df"
+
+[[files]]
+file = "config/yosbr/schematics/misc/wattles_iron_collection.litematic"
+hash = "5b92282631d21989f9c4ce60111b7126f7accbfa8061a5df2f1a6fe4d716ce9f"
+
+[[files]]
+file = "config/yosbr/schematics/misc/wattles_iron_farm.litematic"
+hash = "2ea0b70dc722104b7b53e0f3842e5b48df80fea60faa09a45bdfbda0ef2239d3"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/2x_sorter.litematic"
+hash = "8bb402d5ae5ccc1cf247f319555f1c463599c6540cfafed883ca4588610cce74"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/MIS_V5.1.litematic"
+hash = "a18c80f03e1a9bc23b9ff1cdd8fdb14335fe79d862f01e98ec3be46f29bd8c22"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/mis_v5.1_TestingSetup.litematic"
+hash = "1738748b79210f6ae516f464b828c2a39092c779241846038806f3f61c1c8423"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/sorter_slice.litematic"
+hash = "e23d93da9cee60b09a929fcd65313c8365bcd726e0c30b3e56efc1a8495cc630"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/sorter_slice_newest_basic.litematic"
+hash = "d2716498a129dac390db1810123c82b586df5c56221e76396ba4138d728b8ea2"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/sorter_slice_overflow.litematic"
+hash = "bbcb6d62767fdde185430c2d92582ba20e30add3c8232fc0e578a854a5632503"
+
+[[files]]
+file = "config/yosbr/schematics/sorters/sorterfiller_slice.litematic"
+hash = "cbcbe84968af6c695a94276266d116c3de72b906cf35802b9419cb13a6cc4e9f"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/dropper_ejector_(trash_circuit_simple).litematic"
+hash = "6311a47d70852a504e960a88ce7aa868fef4b4c0727bf770256f47c6a93779ec"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/dropper_ejector_smooth_(trash_circuit_new).litematic"
+hash = "b11353335a7e293f0405ad8f48c1f858848c285c718ee899479dee99e0f8b5b2"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/sorter_spitter_1wt.litematic"
+hash = "4bb983a756de24a74b4b32e5ca47bf6633e15be672634297bd279fe3ae17d4a4"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/sorter_spitter_grid_temp.litematic"
+hash = "16e2016f14e5b032037690b75c7bd802cee59c4bb8108319263fc47069ca2b0e"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/trash_circuit.litematic"
+hash = "97af9963ebadd1f68306b226f29e57b0d734a4d5ea57ea56c0216dce8d6573ed"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/trash_circuit_1wt.litematic"
+hash = "5a1ab164a9f1e36bf26a3127db884d4516ce176e6ac3a6bce8e7bcab46f77ad3"
+
+[[files]]
+file = "config/yosbr/schematics/trash circuits/trash_circuit_simplified.litematic"
+hash = "6af9a67bd6fb8c16239640023dbb92fe97192238edaa679acd3083cb9dbaa2a3"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/Scorpio DLUTF.litematic"
+hash = "50c9edb4d132fbf2dda69981808431d2b3ec55dc1209b23573a27fce751293a3"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/ntf hooked up.litematic"
+hash = "4df3ee2c5279dda661fc2c2fe7328bf583256a29c212bb1111989822ae461951"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/ntf_final_crimson.litematic"
+hash = "df8b2ffa3f7630d823be9eee33a80169f64bf50fe57f2c20a452a6a261dffda2"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/ntf_full_crimson_final_v1.0.litematic"
+hash = "cc421f4ae2d16e77fdab0a3b26cb225e645b1e6393c5a18ab4bef6aeab361211"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/ntf_full_final_crimson.litematic"
+hash = "4736b1c6acf5e5511edf1f06d11c81422080fbcff71a12d6a7d3b647133b03c0"
+
+[[files]]
+file = "config/yosbr/schematics/wood farms/ntf_hooked_up.litematic"
+hash = "e2c8dd7ce08579fb8dab0e4ef4b3fb7b749584561da1997381393850e1d49294"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "538d82294b38e9e07c7424ae2363f643161ed9e6082c7bd421242ec672db66bb"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "d0f0615047135b96c0607279cd9a6c4575c471ac85e8b7f70592a4d7a20a4473"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/+fixes/Selected Packs.txt"
+hash = "58486247cad08ead3f3ba9092ae17cf129efc5b6161d5d0814575c1acd00f705"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/big_dripleaf_full_tilt.json"
+hash = "3be10ade451b0b37abac61badc1d97fb16bdb2b630283f3252d916d50dcda7a2"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/big_dripleaf_partial_tilt.json"
+hash = "7422778aac28029ab5fd911cbb50ec20d4aa7bac148b43bd2ce07a5fbd927afb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_post_ends.json"
+hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_side.json"
+hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_side_alt.json"
+hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/small_dripleaf_bottom.json"
+hash = "de01c61bc85b6f513233bd2518b089690b41a21df6d8de37f3d837341cbeb586"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/block/small_dripleaf_top.json"
+hash = "1580b73ac6843c061214cc9ac88691ad489f6dcc93560fc23b5c185fdb197c85"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_arrow.json"
+hash = "7b6b0d83a61906746a7660204703fa064688a46a73b4112be2607dcecb5c04f2"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_bowl.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_iron_nugget.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_music_disc.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_nether_sprouts.json"
+hash = "a2b56e5cfd7732cd0522c22ebf93a9000deb5a94a6350c841a7705016b6e510f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_nugget.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_seeds1.json"
+hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_seeds2.json"
+hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/acacia_button.json"
+hash = "d66f745787d7beaf347ad83dfcae1a8b660dc380f46276f470e698f73e18c62d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/arrow.json"
+hash = "ba5610bfb0efc826b51bd0c17d544b2ccca9e8d8024f020401b756194a6aad5d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/axe_display.json"
+hash = "26c8f01ac790519553d844a2ce47e27e89455cb57e7a7e084f5ddae989768974"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/beetroot_seeds.json"
+hash = "5d01da6ed3b6bb1185246b3363e395afe7a99abe0c009290498179a961cdabcc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/beetroot_soup.json"
+hash = "ecb300a53d20f50eb62b1b5b76ec2b14790028a36682b2f420274781361ab29f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/birch_button.json"
+hash = "128b6b7e9afd44cf5fd25219232ec251cdb1f4cc81b83f79b8a7ed063bfb2df0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/black_dye.json"
+hash = "d4870ab3384cca19cbec2cfda27b5c8cadc169d7be386931045cc70caec64db6"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/blue_dye.json"
+hash = "2db33c43dabda6e771e4277a254c09f5bd57ebe1d52858f152c8f7f2ec04057c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/bow.json"
+hash = "00a8019cf5cb3166711aa276a2cbc03da4968610033c4d99ca7966d490d724bb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/bow_pulling_0.json"
+hash = "80fe0333c1724037761d4235bda34ea45bcf4e8527a59e3c6030fb5c30925d63"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/bow_pulling_1.json"
+hash = "cb3d945e871f9c30518591f429db86448375a3ae9e58489284bcec2bbf4feb02"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/bow_pulling_2.json"
+hash = "a571690b32553e56b64e1c6669d50206e2e58243fb6159fd87fba86598a48dd0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/bowl.json"
+hash = "cabd4b0622923241665a59e77e00e952c23549556e4df14c33d21e6ad3e60dbc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/brown_dye.json"
+hash = "7441bb190595be098c2a4471e1a0648309b59f7b3234fac6a947af00e5d9f00a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crimson_button.json"
+hash = "73508b74a0725f1b2302370f5f44a97bb6367a1386e2206a015c8c93c7a76a70"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow.json"
+hash = "52f46b0f44521e4b2184ad3ea14dd8ba24cec0041204e7d3760529a40e98588a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_arrow.json"
+hash = "c6d0bc72f9ab3d11aa70cdb6b8cab25fec27814d42851b4feb72b6a6b2ff6cb6"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_firework.json"
+hash = "47be864488d35d6c3a690e9a92b88e230c1428569e1d9eeb63d77fa11f53184f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_0.json"
+hash = "c7ede1c38a374dec09551cda92c77ceb19188748777f97ecbeb6ed225b9128b0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_1.json"
+hash = "ae4df13fff178482ee55a164973f71a63e4cd6d257d4e8a5a11b0fe7544b4a23"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_2.json"
+hash = "f049875e6cb1d684f1719ef04a4bd36c5b77ca109f8bf4408d9d8b89212f75f3"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/cyan_dye.json"
+hash = "bf3a84877c3f479e9b7dd523f985a919654a6aae4f8f8bd8e3a79c0d8daa11c4"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/dark_oak_button.json"
+hash = "692840903d829f9ad7d1751c718be6c0417ef62c07496a378b5f98158eddee52"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_axe.json"
+hash = "a8a8fed53f304ed410b6fe344efec7c0cd56e0dd55d3fc3a7e7dc5e1a9eb797a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_hoe.json"
+hash = "75cf2a9c085f7722d706ee08e17b7bbfe04dba165114ca44124b0439a1f32ec3"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_pickaxe.json"
+hash = "d66d05bd521c84a4bd1b02bbbfc0cd1289206fddfc2cbd37d4f79058870faf06"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_shovel.json"
+hash = "71e21e408ef5bc6d7b2be80fc1a3b289d7b0c50c5cd184e43b695a60faade4f3"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_sword.json"
+hash = "3615ff3b6e4e38737cd2f364394acecaed42462a1eaceb4b0ea457810baed6c0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/disc_fragment_5.json"
+hash = "dcc294c90fd894efb1edef6c0d398219c4b559b52b4919739c9717f838fd35bb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/firework_rocket.json"
+hash = "478fd4f6d07ac50d47ddfab256904742b2dc534e26c8af8ee37ff1ee5b1a1621"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/fishing_rod.json"
+hash = "546cc9bd9596b8c8e8bc1c760d089dffeec6dba5f00a63b9e9fc60967e0a4bcf"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/fishing_rod_cast.json"
+hash = "a81b3833c20b740c1cde483ab144c7287fb8314d0549da26bd94a625a2d920bb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/flint_and_steel.json"
+hash = "09e88fd9075ad211f2549b82d63231c8fd00d1732932ba7d3d7dc8da1dccb10c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_axe.json"
+hash = "e526e022f555ff89ef3fcb0d7672f9af6c1270bc3ad56dccaf9ecbab68e429ce"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_hoe.json"
+hash = "a84420405b6d824b62386ff8cad6811834accfb992c116cd187bc6a7a7cee515"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_pickaxe.json"
+hash = "bf433abe972f569037b91d5a2efc38c649e9ddb6c85f111ca8ade380c70d5781"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_shovel.json"
+hash = "9d63f28dc2bf64006e64f440a490ec48ae88b9e6f7515a57fbcf1a3f39c82be5"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_sword.json"
+hash = "cb7ecd8a899d9edb4d74c5dd0fef8a2992956f39be1307d3f12fadc4d81662cf"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/gold_nugget.json"
+hash = "3bea3c9a02e8468850fe45ad5ed3b7584360098a754b2d0121c960c649bc8bfd"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_axe.json"
+hash = "1c5aba370318290c467e34c6b3d5ccada011f0ba00c6c2d68add9ad624020cbf"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_carrot.json"
+hash = "77a4033cb38929edb9b50b732a6cefa4ff11c64a616a566b35e9bc1312f73769"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_hoe.json"
+hash = "9621538a41cff0168860d13e0d264d53a82195d6bcee655423aeca6b3131feb7"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_pickaxe.json"
+hash = "2db035b35e3ade175377e78adf48058c358be0be31124bf86ca89085a6332e3f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_shovel.json"
+hash = "1525104a8fa0537cf88d7f2003d3860d15e2bc4d51e25271ebbe280ad846a935"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_sword.json"
+hash = "bf568798bf8699aa67ea3027886e19426f9bd5cceef7a45f3e0b83deaf2cfdc9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/gray_dye.json"
+hash = "ff8ab9b93a630e89ac5af908138bf25cc293f305e33df69501a8edbfc421566f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/green_dye.json"
+hash = "de916cb4845c1a0badb6c5e6ea662fd858b96baa96518d62bed994248df662c9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/hoe_display.json"
+hash = "ee4635fc1c7ddd905f3d3783acfbff6f5b54358f622f452c2bfce464d42f0345"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_axe.json"
+hash = "a078100c9bddec6ed2c78538a9ddbfe9345afda09aa9a1973ca43a2d86ae83da"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_hoe.json"
+hash = "1a5e0641a8e3189faa81679cf44f3866a5acb6850f75e29411ea23a89bcf504a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_nugget.json"
+hash = "55722d909138e0bf801bc379f9be2eef609285206d900334cc2e7544dc05bfba"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_pickaxe.json"
+hash = "dd8a7153e30bc8a438be4a9005e452875dd205cb78d42ed79dcca59c494ee5e7"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_shovel.json"
+hash = "e8e90132ba72c0153969b5d85f17ab4b42ada09f20919183cef325aaab39dfbc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_sword.json"
+hash = "c8fd17549e467a01b2c36dda5d861f27db078bf584674a808ac751f39114e484"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/jungle_button.json"
+hash = "40d6dae031190a147d762a7e141a67e960f937727c3895fb8c96d87cc2770bbc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/light_blue_dye.json"
+hash = "577ce047fa273bfdc1a7d4db3b79551d27589353d788f4fe85ac89e5e2d90518"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/light_gray_dye.json"
+hash = "553f4fcf2fc9e0a613c40c449e72289d9da44e0f405fc9588c2b701f059ea94f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/lime_dye.json"
+hash = "fc427dd59509bbe8b424293d268a24a18f2d8ab404fbfe4fa819eac49140c968"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/magenta_dye.json"
+hash = "1297d114ca886af14408b62b01fb38a964e34463f5e2413c3af1c6fb1cef93fe"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/melon_seeds.json"
+hash = "87ecaf70a00c9b0d64acb166566de16f9f39a6202456c2bd61689e027ccada40"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/mushroom_stew.json"
+hash = "57e3d845b6987d4bfea0f48f159a2412d84e52f350706ef519b25cf6ebc4decc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_11.json"
+hash = "fe5c049ec51cd49d500415839a34919ee49ca7a6287adf445b504a3fc7fdfab1"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_13.json"
+hash = "ff3cabd9bc2a7cabdbd406ace7b376b4362c03315f6c1cbe850b674c04eaa21f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_5.json"
+hash = "2272d37eddb007d1e02b64a958bd188fa33f834be10cac58b3210c11b272465f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_blocks.json"
+hash = "e81496c23992887117a2a23248543f095a14c1f557b33c569187ef828e73af56"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_cat.json"
+hash = "fb276881b07d80447f26d566f2929d10bfd92daa65b339747cc8ad9906337135"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_chirp.json"
+hash = "062c131a55538595a58ca68c8e17a2228d95ccd8fbbad939b248de5ddfe51e17"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_far.json"
+hash = "4f1c2871b9eafac97c1a867353f7bde8614d253a7f93f2704383b8f371bf4320"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_mall.json"
+hash = "0d74aef32b85be5f37a602f0602caf79d602e4d4dcf287f5f11be5443eee9ebb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_mellohi.json"
+hash = "35216eb034ee6ceee706a6c517302dab24b767c0f677ab5de7c9115bd1eec98d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_pigstep.json"
+hash = "d900d43ecb667a2a72457bdb94430d4482ce5eb1f3c023be053bce5492503ff8"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_stal.json"
+hash = "191b8c4206442013f30e2a9b6e49a878a675b58a1aeb5587b5a3552904983538"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_strad.json"
+hash = "3098a1935a0a18067907198646b3ca42d531080700e01d35922f15ed1d0d81e3"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_wait.json"
+hash = "90d65c181934c6e47710c1dff89d115a5dac93afd824b3a179bb52db3f349117"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_ward.json"
+hash = "308943a6b1397bf12a05ea686c4848bd8e2d812aaf13c62a4938df8a424c0cef"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/nether_sprouts.json"
+hash = "7168c91536922140ea317e431038862211933f6f9c81cbb2081ebcae4029934b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/nether_wart.json"
+hash = "cd819efce2d1b3d055a1c8bf42471d30a9f38a19ef2df9b1cba41741f451db3b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_axe.json"
+hash = "605e7ebeaccec764fa38b14e4b17764a62fb1b3916a0dfed89af8408af8b0647"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_hoe.json"
+hash = "0fea6a61772fca6de7a17d131d9d71acfcc6aad4dfe217de845ffa59d27f5b0b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_pickaxe.json"
+hash = "e08e47827d87b798ff2c25f23ccbe24ea5f3e7662e0c747a87c3d200f1f62a72"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_shovel.json"
+hash = "db1561300c04ba6c05352f13dc516c6e9be6d4f2048331c344989afb47faabf2"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_sword.json"
+hash = "814bfcc4738468d212903506795aedf3cd2d29f84cea338b3a440551c05a6add"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/oak_button.json"
+hash = "0619a16f3393296580406b7eb848adc5a4a2712ffc52a5633f3ee2b14c6770ab"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/orange_dye.json"
+hash = "81fa47006b29a54654ea02c2efa8fbb3565f6b1bf3f0eec3000825a3e9d3269c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/pickaxe_display.json"
+hash = "00ca38083ad030cd5266b2250cbb12eec95ecf9e3b3499fb0f9440a0c23b59b8"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/pink_dye.json"
+hash = "c8043157ab524ae0df4c7ba97513388f6696f583f56bcd1d0e6f93c9a9cfb4eb"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/polished_blackstone_button.json"
+hash = "4f0c17ab35209b5e96025aa181368c4a75c8642c6d6869a0da8262084e636707"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/pumpkin_seeds.json"
+hash = "90e301c95cb313009230202dc2ab7cc2704c6ca9627f3318938354e746c76767"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/purple_dye.json"
+hash = "4fe130c08034829826525bcb863b4cd53c44a6472ec5fc42aa07614435198a9a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/rabbit_stew.json"
+hash = "48149e749259a53f6c07d26367d473d5e038e62fff090c530edb575de3f983a1"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/red_dye.json"
+hash = "0f2effd43aebbfbe408acd5a40270d98efd8bbf971e44f96844459850ccebbd9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/scute.json"
+hash = "0ff298a7cc07cf5d06bd6453896d25546de0ac829cc8c156c47e39d2cca0a41b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/shears.json"
+hash = "01db25de75755ebbadd417a222cf83f4427971f6ce4ffcbdea4cc205aeb3cfc9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/shield.json"
+hash = "fcaca194cf7629c99e38e740ac3b82f086c380554a243d1eb9e7a26033b0cfae"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/shield_blocking.json"
+hash = "12d174312f31c851267724c5aedae53b5bd4737bbefee3c6dc12917bacc3b739"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/shovel_display.json"
+hash = "7e4357df7deb2b7e4fbd0c90def5ccdf4e8eaa33aa80d31a8d2d570c49129a47"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/slime_ball.json"
+hash = "580b141e7bf99715be6340bf217e491224eb472af22fdee991ed19dd202be838"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/spectral_arrow.json"
+hash = "1a850d1fdeca34e4a26c0ddd58426d74377ccc0f4e89eaf9347e74ea9ed66415"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/spruce_button.json"
+hash = "925e528d731cbfb0da26f73ffed49b577314120c2e9413d292aea26064caf0c5"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_axe.json"
+hash = "db8c92518d645c22da8289c3e39b6833ae0ab6af96496faaba97e8b345f29156"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_button.json"
+hash = "9d9c1b0e346164fdec578cc8ac857586ac08ddb7a75c4e6ca91715a1664199ed"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_hoe.json"
+hash = "fec530b162bc68ef2b233a54095723eb287880af45e1c496a3d19b4e909c771b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_pickaxe.json"
+hash = "8c685c8c59cf42362805310587725d07ef39032230130939b998e9833f54857a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_shovel.json"
+hash = "f2cd04c811d1c496b94c8194f463339ded0116f5f8727ebbb587f15468b25b11"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_sword.json"
+hash = "45bacd84c084543b63eeee68e86396a794aec3a0776629f0cdf9dce4c3592888"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/sunflower.json"
+hash = "8d494941d37202d99fb8276de3c252397752dbeede4d463a0571d7738067da5f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/suspicious_stew.json"
+hash = "19a91bfa7e358029ff58f65473feaf0508553d22c89401b9eaef73514d5fa79f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/sword_display.json"
+hash = "e4581e29d5af0229d2370ef0ff281e50919378ca4a43bf31181bfe62135cb8e5"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/tipped_arrow.json"
+hash = "2b04f2aa3783ed0a2adcda045b97dcc64c6fea92487eb70bdf670d7933c56466"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/warped_button.json"
+hash = "93e1491b6b63588bb53068969c04b96c68c2950849d5c4fc6f40d8a3758f30e1"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wheat_seeds.json"
+hash = "fbbee09a71b05fa0d6a551e3c81d99adef278e878b3b158ae28623c5a4bf6bbd"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/white_dye.json"
+hash = "f88eb95c3c196bf0e944c1e0d1399a09de808fa20d257825f2e3a6bb6742780c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_axe.json"
+hash = "ba799fc1b2e9f0b3330d94b18d88e44ab9fc511d3b34a92e4a7a16dac2e3dff0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_hoe.json"
+hash = "238bef98d8913109ac1befc14afdb67231d660d2975ee3411d95736c37d3da9b"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_pickaxe.json"
+hash = "869b22368a32db26c16d6724a3d024aeae031201d845c5a66e581b118643814a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_shovel.json"
+hash = "6c65db0de619c04239d4cb3bf92246c072694911b74370f50b06ebabc0409d35"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_sword.json"
+hash = "993a83842eb1f30bb11ed47bdecf2438e5bb4138c1c797e33932fe3ee65536ff"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/models/item/yellow_dye.json"
+hash = "698d057ad439b74ed3a0c4e23d5639d713b5cbadd9110b19434db943ba12c71c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/big_dripleaf_stem_full_tilt.png"
+hash = "a4e710278d638189da1b0d531277b99d8b224d0bc2342f6aaa6ee99a5e2e7c8d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/big_dripleaf_stem_partial_tilt.png"
+hash = "5d88d86c7f1774ce81c5a81827d6b8d8d02aedcb2a4a5718966e50816b9eac23"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/observer_top.png"
+hash = "8929b8464ef265936fc9647cf913cd831c655aada098f87092e65051a9909135"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/entity/blaze.png"
+hash = "153bbc1df6bb4e00c13747440dc95f60bf1c3420d52710d736cdf8c9dda1888e"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "c47c21946c9d4670b770cd1a5cb1c6e3da1f9cf4504f288ba789a2c41fd302bf"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/icons.png"
+hash = "199fa23b663d3b313b684150869101e54f8abd3fa5e572619db1bee52b71e819"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "1c24d56cb88dd799ca0a6ca60953d8b778537881cd2b6ae37afeb19f455f93a2"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/title/edition.png"
+hash = "33f38910c4f4923c9a30dffb276ada45b619579993afd6195d783fd5b0e60e4e"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "d3c48f67eb4a963748183bca47030767aa0103e1e71c176c2a8075e7d8f9744c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "d317cb82a19ffb79b06893dace76eebb292fb30cca20ab38b1265ea9ddeb7a57"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/toasts.png"
+hash = "379b6f252db9d467dc91194a0c475415c1ef909b8ec9f5d0ce5bc492ba7ce59e"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/creeper_banner_pattern.png"
+hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/flower_banner_pattern.png"
+hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/globe_banner_pattern.png"
+hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/hoe.png"
+hash = "aa82263a2b39bf4ce20df4418b2c2026afa5b2337141255bba836647e233ce0e"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe.png"
+hash = "dcc874d79f395b2e21805a33c1ce037f9596cb3935ae42baa970b0ffc1dba05f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/mojang_banner_pattern.png"
+hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/piglin_banner_pattern.png"
+hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/rabbit_stew.png"
+hash = "a2ae15be2aaff5703fe12059622dbfb78aa881a2a63e160bc837a9957091b4c5"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/skull_banner_pattern.png"
+hash = "e6c97491810bf241dbfbf24e5a239517f286882a8e00bef6c739afe003bb731f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe.png"
+hash = "04ce5364b2484f732752cae168268234ed3188d92c2ff20f2a36f976088fd51c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/transparent.png"
+hash = "7694413e6875b0a1982b7eefe6fcc82201a6e1d44351bdf7560529e6d5976aa9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/wooden_hoe.png"
+hash = "229fdbe0830c283d001ef4b95d4b6f9cba30c87a4913ee59055955c2d87c90fc"
+
+[[files]]
+file = "resourcepacks/+fixes/pack.mcmeta"
+hash = "142fcebccddbf69177be50a6bd8a6ada60cdc5baf85e9a958700507963d99fd8"
+
+[[files]]
+file = "resourcepacks/+fixes/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/Selected Packs.txt"
+hash = "720cbf910bf4cd81bdb8a231dce5cb4f7b49b2a9772217660cce30ef1b89b56a"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break1.ogg"
+hash = "42ef6dc9d31e1ee07f67e2eb8f07e68cf95f38e69f50e55e9de6c13426150f31"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break2.ogg"
+hash = "d8db835322ac8e34585f4679f4f8f9254e5475d6dea4a377b8ebdb8d13b14939"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break3.ogg"
+hash = "96db6e0f465f457d6bb67d49e6a68acf3b8cdf90b421fc5c559d832f7d7014dd"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break4.ogg"
+hash = "1a07f63b4620d6f6d17966e9d5a196fa14b81ff6808da797412ce06a48a8dea5"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break5.ogg"
+hash = "fd8adb6320d6a8de7c86b777796a647c062f47e610c79a3aed828437e670213d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place1.ogg"
+hash = "8107b128f681027aee71886d9880d998ef3380de5fa9e7d8c804741d61693bff"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place2.ogg"
+hash = "17a32af9968c38a6fe1f8352d63434f89c9fe36fc1e82df74be4e60e04c6737d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place3.ogg"
+hash = "78068e6cfdd8ea9e5a57789783f20ae9b70fed4365e1b18da0018c5997408d9a"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place4.ogg"
+hash = "bb4f5a9e95424ff0da68283e9f5cfd6b0012fb8570bb3e4e41b4c64ccae2911d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place5.ogg"
+hash = "d22f12918b63c1dc0129c0d9aa07ef083b985198c7676f3db94bf13b37d9b853"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking1.ogg"
+hash = "efe20a9fcd7dfc593917ba1639b0ed4e5515e7063c5f49fd00d5082b01308d9d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking2.ogg"
+hash = "fe2e5a47b97aed10d8c4c3e25921a510ccbacc4c3a2b747169aef45e0fb221a9"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking3.ogg"
+hash = "2c3b1a4ddf2278b001630db66375f519d1e9241fabc3f3e6963e209f7786aab2"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking4.ogg"
+hash = "3423d1a256a12c335b6b9f3cbe56b4d395ed4fe1c1a2af2f2405ab3bdf247e2b"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking5.ogg"
+hash = "765a9f2d6f8017911cbcfb5746b192887094ab6b4cddfd6dc33891deb6d2a1a0"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking6.ogg"
+hash = "82ff045a0312f6d8e68c01234ea19b2046364e2257fe1c6035612bad5afbf7bf"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop1.ogg"
+hash = "680b583271d615855b9e813f4609ed346e30a011a5e6512d1746664ae9e77ac3"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop2.ogg"
+hash = "f1f83d848a481aee7b52e0d96b8f8ae2a75e4c7424b4cf460ca9e5cc11a62d27"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop3.ogg"
+hash = "34f9f823c9b423ba6abe846619727c5b1426de5ba175dd81f1fc7df1e5799b22"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop4.ogg"
+hash = "0ae8e48b126baf053aa211a8d2dbacf30c5aeee0757d297993fe55dd71eac1e5"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop5.ogg"
+hash = "6c0a6ae5a6f054e9f9def19a7226f6006815948280a9a3b7b255e50fcb5ee289"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break1.ogg"
+hash = "4764d11211f2d399138a602cd9d606f72e7f7bdb1e08617b3005da57bc1f1867"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break2.ogg"
+hash = "24eaa22eccdb675fd3b78c9bd2281dee545756d712f62e8713916c0910f3cefa"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break3.ogg"
+hash = "86742faa906a7766ac020f352d95a6ccb7e06072db9b0f027c1b5470dc2f63ce"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break4.ogg"
+hash = "0032b1259a3314b45c8b738470b6ca3caef7f838b125a54e1562042bf586f316"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break5.ogg"
+hash = "a8a3bcbb0c344a22789600a2d539fc74add9f7608e01c30b4fedd347e0b915d9"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break6.ogg"
+hash = "9e1af019a825b67290ccc12bdb70a75a6c4d43a9f75c0269d9cf983948e4cb68"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place1.ogg"
+hash = "a38163fa0d6eaea62682720aa8eaf7b59a566c4612e417b3372cd2c3b6e93e31"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place2.ogg"
+hash = "17f03eed9c850efcb2f91a2cb6ff88a118538d78cc397a47d8e4a5fca28a0904"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place3.ogg"
+hash = "7ad12348d2bdd351d427702524bf649c8b9f2fb99d83f5c36efc0cc330a6f92f"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place4.ogg"
+hash = "c4522ad95c1ff823c40cda3ff73fe3c0d28d00ec89123d69ecd46d6f317db305"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place5.ogg"
+hash = "fc37e7fd2efe1aa08e9a1b34d09d80afb18009ead6822435690d670df37762d6"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek1.ogg"
+hash = "812552a693c30dcfcde9c7e56a3712985d4b20e7fddba3c222e74cb05eb4f1a0"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek2.ogg"
+hash = "09d0642fdd9c408c6a47a01fc6e8f8d3750cd6c4b4f2d3e6dd392a22dce016ec"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek3.ogg"
+hash = "dc8cc7803519f4d42d33cd2ad96e1070bf7acc991b2cc6a1ea8c10a13ec7d888"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek4.ogg"
+hash = "4896316d0627790ff2727cee7695b2a5bcbfbccae280df9a33472250aa4ad96e"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek5.ogg"
+hash = "f37f147990fef8629832069a3eabfb8185dbce77f67b4f2da0db490e630cfdf3"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/liquid/water.ogg"
+hash = "cb6fe432a2766ec9c38c6533d64ac6872580dc27739196d7a178e26d2646ba79"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/minecart/base.ogg"
+hash = "d81eb47da9aab7543784d787c4657a4bdbbb80d47d7a768d3afbae476507b485"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/minecart/inside.ogg"
+hash = "09bd03c3c25e0b00292634d3a0a86e857115c4bf890dcb48a6609e70174a1ebb"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/click.ogg"
+hash = "87b50e37f51099629a899e8e9d25f0c4acc2f0b7d5c54713635bb515fdd2c16d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode1.ogg"
+hash = "7ab35ba1858d017297a3d635373be34a23e1c716f7ff26fb7e9ff7f044888f4d"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode2.ogg"
+hash = "31a3f27796682e402ae9e4de9b8ffa0b7ff8e3cac607e37fba72f0e091e9d0a6"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode3.ogg"
+hash = "c7342b102512d2b5a097c3dee4fb0a8c322ff1c22ed58e1e696036b30108e8f9"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode4.ogg"
+hash = "9e3eb23612d78e122178587e8759a508617418365f7ac3cd2b091d7850b08d9c"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/tile/piston/in.ogg"
+hash = "d573644fe1a7d31afc21e444db737bb05be6b734c81bfbbd927f580433ffce0f"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/tile/piston/out.ogg"
+hash = "98795c70866bd3e3f076a91d49b89d465d78641ea062c87fe74cbfb2a00d65ea"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/pack.mcmeta"
+hash = "142fcebccddbf69177be50a6bd8a6ada60cdc5baf85e9a958700507963d99fd8"
+
+[[files]]
+file = "resourcepacks/+quiet redstone & carts/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/Selected Packs.txt"
+hash = "63679cdb1df34521d3582878f19670cb4566f55cb9ff75e03a47a255681c8dbe"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/amethyst_cluster.json"
+hash = "bc3972a03cf13824176b396cf9237cd613222079175ef6e7b13b86f057edb75f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/bee_nest.json"
+hash = "2a3f85421a9fdb96ebedcb649c412594197b7819fc8073aa0957447be9c6e367"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/beehive.json"
+hash = "fb1e48f6736468f6948ae0de1afaa0878958d327e55699addeb7a560b20fc253"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/deepslate_redstone_ore.json"
+hash = "6e6b16c0b43b2f76765782d61c1a4e0e92fe1ff321609b11e85cbb6783ad9397"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/kelp.json"
+hash = "4a1f54813c31d6cd8a75d8eae551ca7e11a0142043bacb985dd67b9a93ac8c47"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/note_block.json"
+hash = "5d7015bb2f9e9a4da3897c594269ce3f59e09b331e1d8a4b12a85ca840129b7f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/powder_snow_cauldron.json"
+hash = "2d623601cd902b315548102c7a9c215e49213f6b8f7cfbac9eba0f0a7cc742d7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/redstone_ore.json"
+hash = "715735024f92009da0899ee052b27ef6a80ff81a156ad1684bbeefcb3f547544"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/redstone_wire.json"
+hash = "75f06ed6146706c7be1b04a4a301efeccd4faca60f917b7c858b2e7c32803010"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/water_cauldron.json"
+hash = "e336952a4e453ff6e74f64c5e7e3d5ffd00b6247eaea357c5e051bd307d0a28e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/font/default.json"
+hash = "aaf276a4c1b9f3cf9f6d48d2a8e582fdb0ce5a4c76e23fdf4e5bdb5648e6c584"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_au.json"
+hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_ca.json"
+hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_gb.json"
+hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_nz.json"
+hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_us.json"
+hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/aged_crop.json"
+hash = "7542f6cfc73bb8498bab2ae85784abc6f4d6ce3f4bacccc3988df52dadd0716f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/aged_cross.json"
+hash = "03ef42aa5fa1818f9b3f577c98b77aee8bb9688ab62783247a760238163fd272"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/amethyst_cluster_ceiling.json"
+hash = "ea94a050ada3d958cabe70e7ec165cc85fffee1714df4ec66f6f967181f1a286"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/amethyst_cluster_floor.json"
+hash = "cbb17e653b61d9ffb1e0ade2c562d93b65171e30f6f97ee58a9c6484a3213c3e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/amethyst_cluster_wall.json"
+hash = "387e41457448fd4eb7374361bb4b7383e88d3266f9021c785e8532068e7c437c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/bee_nest_filled_1.json"
+hash = "e4d2169cc848c390aae57cce60d12398b577392ad081c8478a561810f7b3a438"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/bee_nest_filled_2.json"
+hash = "6405d91487ca21a2b183ef10c4a24e0c5c4852b5d51cb82c3916906385a3ec89"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/bee_nest_filled_3.json"
+hash = "9f4eb13b8132dbe095ec7c897adaed7e046b62ff2f15a1738e4ac97416f8d1cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/bee_nest_filled_4.json"
+hash = "c3383e596bc15761adbfb07cf6cfdd91b0f40261a9744af215ea95bf753b2442"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/beehive_filled_1.json"
+hash = "86a57380df923d2a7985d058a74579943e0aea30c8d47e8c23685128c415be4c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/beehive_filled_2.json"
+hash = "10c66eecc32347675d1ccb7defe79fa5fc86d2b27b42ccae11e82b09c77fd699"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/beehive_filled_3.json"
+hash = "8327b007bc129b4e1bff9659cc095cd44139ba4304d388f2d51d3705f9305ab7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/beehive_filled_4.json"
+hash = "f24ecf536668d4df67c0cbc2ec1728037ed9b71cbc63c84cef2145fad02cfb03"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/beetroots_stage3.json"
+hash = "ac3aa6f30caf0b514c6a4d09f759f85ed0ff833edd0bc6de45fdb897a641e70a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/carrots_stage0.json"
+hash = "8741ec43a66f967bb226b2903831d3f446f5ae138fe4bbffa2e799876d6669fd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/carrots_stage3.json"
+hash = "8be9b17deb7887dd79c6c38868908104b80c5519a88527bd72cf530f6f3e15cb"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/cauldron.json"
+hash = "67a7b860bb29be03c6d7d39f6f1d2d6b338c4c017553fea6ba5158cd7a4f5ffc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter.json"
+hash = "7163bd17f8bd658d47c442d14256677b92714d47b3f6f9d130899107b9ba8e94"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents1.json"
+hash = "fbffc28d4cfed8c01e1faab5cebe28ed99cfac4c1a14802ff9633a4cc721dea5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents2.json"
+hash = "548484d8f48769504c9221358b257deb64137ee947d9040918da90fa994b61da"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents3.json"
+hash = "efe4755193f3498a96d87d97707dfe7aff507fd1a0f8c836947c87105cdbbf72"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents4.json"
+hash = "afac21efea94dee9829af5eab41f435dd95ae24ef766029b6f65b9301a6b4ab7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents5.json"
+hash = "350cf359e1a477c8bc5242f4372a0a626d55a71796eb6dbe4b5181bfac580620"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents6.json"
+hash = "929172d59cea2d25c00859f8f75b8e6aefeb6cb49de1aab69698ce95c8e39e75"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents7.json"
+hash = "530605dd3225f63030cdea1754499d079c109d978da46bd338ac42e0849dd866"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/composter_contents_ready.json"
+hash = "5b8829be2b49e0b666bd7ce89f0dc28a73e383faca27a0ea980de630cb1d2ee3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/deepslate_redstone_ore_off.json"
+hash = "88c96fac989700d9c31afc8f97f54f58fc8ee8032a682a4526d00519865fc7ea"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/dispenser.json"
+hash = "d427baa5d021e6435e06d75ae0452242655da5df9fc20a6be9fa1684e9238b8d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/dispenser_vertical.json"
+hash = "557ac98949a066bef6a1ce7dced98bf1fdec8b6ee6463dd9492ce2a75e96bee4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/dropper.json"
+hash = "af443836323bc00276a99094b0e5e4cc0a0f8f69ec28b3b74c00bb0afd0d9e75"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/dropper_vertical.json"
+hash = "12e50246ff3b1260c2bb1f33497480a257861c580cc826d1e8944cedfec9f9d2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/hopper_side.json"
+hash = "078470299c8ce97eb03dbdad67029df3a0f4c3efb4dffcdc3b7c2f38c6ac6661"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/kelp_age_25.json"
+hash = "77db02f10a629a4ca18c70d39d3153765d07b33f8b7efb15e49045d7751ee9a3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/lava_cauldron.json"
+hash = "0cf123b2cb5cc1b367f49d3f781f32413bfb98ec1edc36052ef1c05fcbe7a3ea"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/lever.json"
+hash = "802da934ea5a5354bbdbab3e3bb4174070f3a6b74d5131c7f0155da813583ae4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/lever_on.json"
+hash = "dce71bd75e5e8e2d2aa91a00508a088c06143db3ac79e065c877fcb8d3a9b527"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/lodestone.json"
+hash = "9e790bbe49643b3f7b4a7e16e2e54c606a1d13982896ca7b4570bd8f33638a8d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/nether_wart_stage2.json"
+hash = "cb574e780ea784eae82cfc1d80e4898da5594fae23e093ca92928029dda6148c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/0.json"
+hash = "df13390235415618f2a936bf1f1c9eee91e626570af354c26d18a050d124d678"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/1.json"
+hash = "36264ac2b8db36f9d881e4c28d4662db0dadedcfa6c9591207fcf91591f108c4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/10.json"
+hash = "d59cf62a13c4e7ad33bb6c1d35332eab7954889b6806f53fa40ac6077bc06c2d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/11.json"
+hash = "b1bb0b0b5d4ee08543e870d59a706d1bc5cfbd48eb873c3e3fc78dae06c52dc1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/12.json"
+hash = "c68d397d7d03ededdaa15ea6e4f6ed8aeca6f532fc9e82619425a1f0deb778d4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/13.json"
+hash = "4ec89831e82c75089dbb0df81b223a2a77e08edfeb0a20ab4364a7135098bc6c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/14.json"
+hash = "88bebfcead1b641aca37b3d32631ea9ebf22493fa757f2f4209dce7b39dfb7de"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/15.json"
+hash = "29fdd57cd215ea617ac5e76321a7e9c3db34b13186fe35cebc261a04683ce396"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/16.json"
+hash = "e865cca9a679f2cfeb382495784b4331883175032001d457ad067695c483b3ef"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/17.json"
+hash = "a16e9c9bc94e13ece447bb7b18638c5d59c8a3cee662e2df0abf3e404c1965dc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/18.json"
+hash = "6bb2ea78980ece063f862c4ad307341d3b7c5fb70331a52b0c60c76e7150e7c8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/19.json"
+hash = "e62786d996b386414e43e4f162efbbf9ae541ccd964fa8a18b06506509c763e9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/2.json"
+hash = "6cd7583610429e0c939a1f000c31ef15b2052ed3bd283a6ea23134ef52f797d9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/20.json"
+hash = "5ba428286533a5cf908fd4be29e418512cb2c1a72a4f3a898a4368c0f55c508c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/21.json"
+hash = "215acf4cc1ea0b8650f8d0c42b2a52191eea84bbf3b6328ed9388fc4c959d1c9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/22.json"
+hash = "824e4e63aae6c92889928b48efe1f4e4fe7cce9d58ab81e85a5a585739344761"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/23.json"
+hash = "fa508dabb6857012e3596992a0b9fcd1863a8ae6d15d4c1234640d1339294b0a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/24.json"
+hash = "9fffb069552b99ae6a2541ccb30e611f53f5a72ea02e2a726400390ff1963eeb"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/3.json"
+hash = "ad4497ffa318f6482b8c238c30a27f8482bcb6975568e7e4cd94eef1f9d236ea"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/4.json"
+hash = "95e4c02fb3509e249762f5e25c4a8b4a1492cb2127dc1a4bb590a058e44c94c0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/5.json"
+hash = "ee4d26563532c6c2290d7f98a5730e6f164b7b76d86f76ef12204ebf02938bbf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/6.json"
+hash = "0a31c115a59f1280f1626eb1b73522e22d5dcea6cc016737bbd4635f36f65a64"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/7.json"
+hash = "33ab4d8539a86d11a6b437d53b0e952aa82de0494dfe3075ef28be11d0eaf732"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/8.json"
+hash = "489fb14ad0995eb18617ef70848b754eef5b92df96f54e35563917838d6868c7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/9.json"
+hash = "57cde52f674c75c691c95a7c510cba9e12ffb2a4ec175b31ba9c31c3cae41668"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/observer.json"
+hash = "045a4a0a5eb23ae5f20caec2489b5b2cc38d93ac3f99c91cf1b98989395f6835"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/observer_on.json"
+hash = "8c6560432e5995ace577afc2409af1d8d620d9b73aeba06c9f908e925e651b98"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/piston_head_short_sticky.json"
+hash = "6005fde8835b70fa3532d84fb667339bca71866d6b2f9120c92681f5abb14ef3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/piston_head_sticky.json"
+hash = "bcc8171c967d2cfbeb7f3b2b126ea093d82519c679463e515f8947395f2d61f3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/potatoes_stage3.json"
+hash = "d8064c093b184887f7ce73523cb5e71c153dcae359790bec69107bfa98508a5d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/powder_snow_cauldron_level_1.json"
+hash = "a763d1c272b33d68fa5986272694346ea414c6d89630532b350886d281ccbbe1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/powder_snow_cauldron_level_2.json"
+hash = "81addcde9c4498aa0ccccd7c45554c58fea2f127be950ced3828c60c77ac7258"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/powder_snow_cauldron_level_3.json"
+hash = "ac044c3f79d7756e22d4f6f27976e22e59db4f7ae1d512f87958c7a2dc6d4c3c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_ore_off.json"
+hash = "b83a6891dff0476e793c06919d75fc7c0f9be7a024dea493eec38b110af0b3bc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_00.json"
+hash = "8f314673bd68a6f0afb01e8e42ed4609a1c5875303732a7bc4ad9644bcc9ef77"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_01.json"
+hash = "e1d8ed4ea53acfc4468cb8021989cd11f62836cb65c34f47a6cb113a16e3bc6a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_02.json"
+hash = "3c3c3c3bdeac2cbfd62a04c5718c05d75b88c3d5aab9f8547dc2aea397382f6c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_03.json"
+hash = "7bee5f80c542b8e6991c137f38d4ef53c21973043d1d55d3e4cf8484f41d3e72"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_04.json"
+hash = "7bdeb3a55dadd1dd15a884955628f70ba5754f1399180bdb2b72c7ffaea5d8ef"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_05.json"
+hash = "d05996262b0c22ee0987573cd3b54ab53a6ef1aaf186cd031fdc98f5ac1e5511"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_06.json"
+hash = "21093a5b8ba685d72926d3d252aff1fbf725cdb2c4286819d11b1cb6be972eb3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_07.json"
+hash = "83c532e252705e628a08d29af87e00366f6784818a07b45f2cdd972e7126742c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_08.json"
+hash = "d0525ad8aa8b69c22f93a363aecc67abac1618423d9c51837a1c077c2bb97755"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_09.json"
+hash = "3090a4fb7de181c22359a2c0f91eabd43471fe4a2cedea9939000f87c64a61ba"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_10.json"
+hash = "d71980fd9c1f490b23ae54a75c62ba01a67a62be0f700aa842ba9d817d52c1e4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_11.json"
+hash = "121f66a62f1bbeaab7e0150ea419f5559d139eb8472cba259aa8830dd16d6bb6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_12.json"
+hash = "d06ef57e3f53551c2bfad09ff89e18cbb3d805efe62d91b4831b82b0e238ac4e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_13.json"
+hash = "8b40230131a766892e52f90a4109e9c7657d950b7cd3a28f83af5418202fd3b0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_14.json"
+hash = "33a3b68218e51c86029ad8e8a43dccbb3f644ed95762c63971de6f5ae92890ca"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/redstone_power_level_15.json"
+hash = "3ad28ceba5f4848dc9cae7c747fd10a2d9fe0842e98776431e2bc8a0788cc969"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/stem_fruit.json"
+hash = "edbe082335fac91ec28911ad5b9b8d12e87edc18aa5b79c51160a0b499b41819"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/sticky_piston.json"
+hash = "eaf778c19899548c6490c61d5b993eaf6a52573f10987317dbf0a2deacf903d2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/sticky_piston_inventory.json"
+hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/sweet_berry_bush_stage3.json"
+hash = "337d10ea981e42e477795ec88358d52aa1f40d1d4ffb8c9ce736db7f8d2d1c88"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/template_redstone_power_level.json"
+hash = "4d78933e2f347fe1f4032f025781362aa85d9bde95fc2df7f0bfa3fc768f7134"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/water_cauldron_level_1.json"
+hash = "10f6032ec5257ac7ccbf0441defb8222b058ed1485a76e1744846419ceb927ea"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/water_cauldron_level_2.json"
+hash = "846e6561acc4872fa1a5f5a57d0c2c82c1b6aaffb750774a5d0d27fd61bedb16"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/water_cauldron_level_3.json"
+hash = "4b8a1903cee7c976e6fb9a517827de8ef299ec23da43b97fd48ea560fc614c2c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/wheat_stage7.json"
+hash = "6b4a0bdb21e397313d7e9f9a2b616dccb2d6644029c9ced5ddf0dd359b07445d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/deepslate_redstone_ore.json"
+hash = "88c96fac989700d9c31afc8f97f54f58fc8ee8032a682a4526d00519865fc7ea"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_chiseled_stone_bricks.json"
+hash = "649606c3e8f00b5c6f18b87a9dc2fb3e91fc295d7c73a63ae8fa8ad3ed99feca"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_cobblestone.json"
+hash = "69762d51ca9da359db2934c9fe420c0413403cd6169a4ceceedcb348588323e3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_cracked_stone_bricks.json"
+hash = "63508eedb278668e6730c9f5ee7d728d1a44098b4c44cfcb9aa4e453d16bf748"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_deepslate.json"
+hash = "2caffa7144438508529800957610822a7b4b1b1d570e66b693b3d47a276cebc8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_mossy_stone_bricks.json"
+hash = "3e04abd9184fbb1d058304fca38be458c24f9ac89dbc002def16489db101760e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_stone.json"
+hash = "534c1c3dddf9668775f465d19d68364f3b1d51c1235f9bba09a7f7fe21c4336d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/infested_stone_bricks.json"
+hash = "829235da3256c8e75a0bf4a458a19444be8b14fb7e04e8e717babfc17884578d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/redstone_ore.json"
+hash = "b83a6891dff0476e793c06919d75fc7c0f9be7a024dea493eec38b110af0b3bc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/sticky_piston.json"
+hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_block.json"
+hash = "b1a5c4a22451aa607f1da9df83add72ca01d28973d775c2adcd0ef7fe933a34a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper.json"
+hash = "26a044d12efa19ca9a254da6947cc3f953aa3ab2253a45c914b47db14a9c00f7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper_slab.json"
+hash = "9af80d1bf33a83bfe2abb0073467b897c604175a49d436716b316a88a37eb474"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper_stairs.json"
+hash = "600d59a48b272256bfa6465fe7a6e09b430ffefb2a25ac76067f77e64e179be4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper.json"
+hash = "3179a38d1a7cfc33ca950525a2fc2f0cc683efa3271e3f55ee8eba36a3e65b9e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper.json"
+hash = "37fe1403e34fc816ffaa1a8e4b0d050e6540f9cbb39c35dabd022721a458beb1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper_slab.json"
+hash = "0a2d324bc8133471fa829216b7dc844705424f330011dd6460f8987de3455239"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper_stairs.json"
+hash = "aa42c441a998b2b0842638000f2ad4aeaf1efb3094218baf975bac25beff9477"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper.json"
+hash = "def2bc4d7374b52d56d44c17906e6f87926c14eaae615dd3fe7044bc231cd660"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper.json"
+hash = "6f59b1367899bf40dbf462ac05f61fcde648cf914377b2bfa844191f3a6c412c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper_slab.json"
+hash = "cc5210e56a5624ea6b4c34d66714e483612d4cd0d11f5b822d01fd80e07206ac"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper_stairs.json"
+hash = "046eb93d30bf21dcc6dac7bcbe8481dc6ffa44d974b3c47f5444e2160f160f90"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_stairs.json"
+hash = "1e7d02fe76f7d0d52a3951bb350188ddc86c72355b329ae11ee0a8b74e6c55e6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper.json"
+hash = "c24a6c19f197e8c9775fc23bf1a049989c703aed055ae02e6c89eb7f8adc2ab5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper.json"
+hash = "ac4b4c07453bb2539320f89e8c4f6f891e9246766daa1b3ee70f7e6ed85a8598"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper_slab.json"
+hash = "1ed74f40a6a877f1369e20b673e6f9c6eaff8e32c2dba4727b389bf9d3f61b25"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper_stairs.json"
+hash = "7672a5bb6f973815b0c2f04a4c2ee2fbe1ce5a9a55ba938962b7eae18fb82542"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/optifine/emissive.properties"
+hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/alert.png"
+hash = "eba2f1d18740257d2fb0438d62ad6f3a23a4bb6331d13f380e04359fff816269"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/alert.png.mcmeta"
+hash = "9afb0a91efae1bdbdd02b6dde0476b4515943d32ec9258602a7729918e7c3199"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/alert_e.png"
+hash = "e2560b563b6a4df82c6bd3a92eb8f72561d400728d5f6464f84d5fd1a0b0814f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/alert_e.png.mcmeta"
+hash = "9afb0a91efae1bdbdd02b6dde0476b4515943d32ec9258602a7729918e7c3199"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/ancient_debris_side.png"
+hash = "e6e0dc35cc2007bbd14ec11ecb511ff6019fca98229fb8ec922c6ce46232c6e3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/ancient_debris_top.png"
+hash = "08d0126b1eebb4dfd128726664e2316f2a9bdd06ce65598c35ee1d215fed64fc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/bee_nest_front_filled_1.png"
+hash = "753975e756d70d17b1c70d7331cdbb067ee24b1afac4df0d2dbd5afa2a083ce4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/bee_nest_front_filled_2.png"
+hash = "fca60fcc32e04fb451436145b31ae2c83788fe1bf85efc0a4fc1e6c424d5d153"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/bee_nest_front_filled_3.png"
+hash = "3f2c5a73d8c56e346182ee59c2fccfadd3a635b519b94d44d7f7b8b1d9f164c5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/bee_nest_front_filled_4.png"
+hash = "16954a3776c7cdc56f3af11f976297da771d63e86cf62fa1748458c3e282434f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/beehive_front_filled_1.png"
+hash = "4b831d58ff4facc3560b1d74ee542be429b17fc02b128d2a5c8b0fda6f856e82"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/beehive_front_filled_2.png"
+hash = "ed58c3c75fa0e6b67056d3308148ed78b951f3771ba98188ad76f5565a4df2e0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/beehive_front_filled_3.png"
+hash = "770d89809e0e4d3426dc12842451ff70080eff23334cd9e6859f98e95a041fc4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/beehive_front_filled_4.png"
+hash = "72e5002144d690e39cbd0ddadff715ae523c51c8ccea4803bc417e69fba80648"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/budding_amethyst.png"
+hash = "c72b88786cc2eb01ba920657160c4370768a8db284e5a743de58839c6dd64f8e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/cauldron_side_level_0.png"
+hash = "ea1d810f2f44b62c1f8aff81d8901eb922f859db17af6ee4b95e38d61a256c59"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/cauldron_water.png"
+hash = "201ba673c2201c7020746a3f6e502efbeecb77ab7cb2d46f32fd3fa8abbde8c1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/cauldron_water.png.mcmeta"
+hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/coal_ore.png"
+hash = "d2051791bfd5d494df87640b1f0615c113dbf19f4a7abc47fe2094fda0b24058"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_0.png"
+hash = "8c401eec4b534cf7c09519cbad6850da36316e72379920c11ffff23c27f4bb2f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_1.png"
+hash = "bdb557489e1db06daec7f0ea88ecfb39ba58883ab36a9acce8794211d8c1a07a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_2.png"
+hash = "e4b224f892cda607212a0cc8d770b69603689d275fa72f23f773622decbaaee5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_3.png"
+hash = "9bf96addffa373699d9cb9b4bf3bd8e60255deda7bf281ca8949ae332e3a8832"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_4.png"
+hash = "72c7bab8f9c16414741679ffd5dfc3310b9128f28d0c3533ffbf771b6e2f3190"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_5.png"
+hash = "b69b42d35c781aabb86d711aea1d8b31c41bffcb6a84d47f0b2194fb263c1245"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_6.png"
+hash = "ebc6459ec7766301de10bdf99b0f16d5af21b66b8dadbdddef65dd6d7bd3f470"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_7.png"
+hash = "10bae115084d57491c1de309ee4e6eea03e31eec52c8cc3711c02036398bd492"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/composter_side_level_8.png"
+hash = "12af677625121dd0b5c575459e48e623904626d07097b25827f084c32b3082e9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/copper_ore.png"
+hash = "e37438be612e417419ea9c03ba1349d1077764939923b6bb3fd21d83449211dc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_coal_ore.png"
+hash = "44778588646dbbc942e642a33dfd6ea3287c0c55be0f38b1efbfcd3c86cadb8c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_copper_ore.png"
+hash = "84d1771130d160366fe83d919e30bba74ca4768b1e2e2861f559dfe866430001"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_diamond_ore.png"
+hash = "3e85402d8a04b90de2d247409d77b40aa0c9a3a1b589e6937760114e550702b7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_emerald_ore.png"
+hash = "7b8c1b08b048e16be11503b7cc555547968336cda4d9d983c282faf4ad7b2a22"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_gold_ore.png"
+hash = "b1e98e5f9ff2228935c30e0be19ae2a36d4856a2486cb65d111d370ec2bd64c7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_iron_ore.png"
+hash = "800604fcffd20e5acffa1c29ea8a14115c19a499eba330f5aa83e65e62de197d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_lapis_ore.png"
+hash = "67beb819ac38ace04a11ff5429e9dfb3e25b1f1f04ead58180f13ac14531a46d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_redstone_ore.png"
+hash = "ba8813bc92628b284ef5b9b80e7db96a9b3193422e571e7b4f0a7c6864bd043e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/deepslate_redstone_ore_off.png"
+hash = "d0b3f5cd404b2f2c8f281f8c548b1530a1f708a6cbc59bfd480cdb156d256071"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/diamond_ore.png"
+hash = "5dab6c0a42fb25c82ce6e82d245029cfd1e67d1432eb6e8f22dc58d176846b62"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/dispenser_back.png"
+hash = "d1b0b002a5d9a3c57b696c55e27e769b968f113d288b88df8356795769f1affd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/dispenser_side_l.png"
+hash = "ff59be768a2edda30361685b745e64c2feca6e23e1957ca4138bd2ed3c986280"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/dispenser_side_r.png"
+hash = "3b254caf5b3b1a714b73c92f80bab7b45a77e0e61bb08c17ee92ab25f2e7a1cb"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/dispenser_top.png"
+hash = "a43430ab074cefad407811d7b85c429f81a742081d1126346be4d129a492e9ef"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/emerald_ore.png"
+hash = "0da8cd31de0bdda23b7d735c00f4c2ff08ccb9a8b6fc22b1ecdfe945e6714c37"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/gilded_blackstone.png"
+hash = "1d2669a4d5ae722fe89f7faa79aab008bc74c872cbcd40bd4b7ad3802d6708c5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/gold_ore.png"
+hash = "fd85c7b019bfedce334d45887357b5d8846c0149b9eec2d94f74da04fd06eeec"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/hopper_inside_arrow.png"
+hash = "7628a957fb7680e82b8ab74c72b3e7fb759d0e84fdcd5d2c4d3c7aa39f032bb7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/hopper_outside_arrow.png"
+hash = "8d7549c7ad544add640352f93ccc2ed8ba00d3bd273c64f45b285fed2c340c07"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/iron_ore.png"
+hash = "837b273b1532a6b379922f356ec18aeec415b499162c2901434a1b811fcc3b72"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/kelp_age_25.png"
+hash = "460251370ede925623d33c92a6760418c1d397ad41eadd6f9c341e0df104b86e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/kelp_age_25.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lapis_ore.png"
+hash = "a445e8a97aaf74efdf046300442bb78b7f4ad8a54103307b4d574ff30f604574"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lava_cauldron_side.png"
+hash = "c77db42c594656c49d5f655bf925d6c8cbaf9d9cc0d74c5cfc77a4a00cf26811"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lava_cauldron_side.png.mcmeta"
+hash = "2e47b49f5a7faa2554aa99a14c35b169137eb55c0cc7d65fc820594163acfef9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lever_base.png"
+hash = "36894a0b40539d4581e1da4c94d527a2e3bda4245763317a171ad41eb1c11426"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lodestone_east.png"
+hash = "881881dd5089b8f79ac69b4fbb4bf7a81c7dc9b5e196f7d0c0b27826f499870b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lodestone_north.png"
+hash = "c582bad6db08b04e57a6d9a68f9c98e6bd9645d7e63c1e98a8e6e2ee6938dfab"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lodestone_south.png"
+hash = "2dbd05090679f160cceff5accdffcb857134df677ffe6ee572dc0e4df55f4eb5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/lodestone_west.png"
+hash = "c2a3c35fcc216b75c3c567bce746eb8717b53cb0aa8f75198c4b13bf7627e688"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/mask.png"
+hash = "f7b56c7ce49e32b38591c84b15330613f6e6c471e65e023604ba3d6643b96b24"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/nether_gold_ore.png"
+hash = "c8a6ac81abaacf3fc87282f76228ddd6730ec6d173b925b81501dbc8eae82546"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/nether_quartz_ore.png"
+hash = "27656ec75bbc80154e85c48c1c4730dbab76c3b52efdef94962606db691892ef"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/note_block_side.png"
+hash = "cfdae28fa8a7b2826c611d22b74e360ab25f1c3f0d5bed371792cbdaea347f41"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_0.png"
+hash = "2b72df31b87d90cdfe75131ea17621a01a33e9adbb3c4dd503e4da8d8142e155"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_1.png"
+hash = "257c3bcfd8ebe44126b6efbdbe13607c823183456b8cc0d865191bf94ba5cd94"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_10.png"
+hash = "81b22dad1d6444bbaffc1dafd10f0bce71ed64bdc028dcfd1c2992d18f6b3687"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_11.png"
+hash = "f5a8ecea16d3ef71284752b2c6ddb3059c05c05cb3a35ddc2fbba4b7c73bd0c7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_12.png"
+hash = "a953ac0fb1b4beaac524a558ed97beb8bd5626dfcfa221240cf129d788988a25"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_13.png"
+hash = "3322ee1783777080973b0a2219615a591ffe5d25d28ca6f31062bd8f043644dc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_14.png"
+hash = "639311b6b6fadfe33c5f4db727ee299568334ffd10d8650beae5cfb74adbc51a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_15.png"
+hash = "90bf193be2be66af8e30b228cc5598f671bf76b3b864339078956d653b881e13"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_16.png"
+hash = "9edf064dc58e0dc97d4157468718e6ee11aa7de35bf25571c9eb061979fff318"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_17.png"
+hash = "8f76a04ea4aeb7a609a5c716949ba03a4ab7c77165fb6c35577e68f9cd70ba55"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_18.png"
+hash = "dce0989539abd37f94c4094188f4a020b4b767fd787f311d712451e07d821686"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_19.png"
+hash = "cb067ccedb8c9c8e2d2e903b18bdb1c63262a6757ab9aca1df5e06772ae0c072"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_2.png"
+hash = "2d2f35db27b01e32d4c726fe1e9acd9f831b26b821b92fdb95529f3fd1e8a19c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_20.png"
+hash = "4971f46c053a544653fa78fa5e18c5ebd03ff94cccff74c74e39c80bc7f1823a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_21.png"
+hash = "415b86db873ad2e9c345a9332d5edfcab163687442aaba8e44e3a7651d1cfebc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_22.png"
+hash = "2be40162c82c0b7df0c587340400406fd26faee017f4ce96f1a13d17ffff23dc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_23.png"
+hash = "863eea044a5b6b7dcfb4f055fb23820f2e48bc72511f032e99763e77af450a64"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_24.png"
+hash = "2a91feaf49051e594178e516df0038ac461b7e8b6dd0aa9eff60e163f180be42"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_3.png"
+hash = "eb5d9c0afb621cb3308fee011831120793edd58264534c05cbfd13fa98d54d5f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_4.png"
+hash = "9fc6c57c7eaabcfa18e294a68429e5243751f0bef500fb5dbd01a4ae02416587"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_5.png"
+hash = "460a622251a8f811dae5c2470493ef798464ea8de7247c3487bcf9aba1366533"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_6.png"
+hash = "e8bd25c1d477805092a466a02728362563476d3e496a4bfa0064ccb4b188dc4a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_7.png"
+hash = "3483a85cb5dbaf779a028b31a1d84a8896dd5407f709089217f516c730d78378"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_8.png"
+hash = "a4235237f27b7f9f90b73a82d1ed303b7a8c6b97f9e16cf0244f21d719ab1c19"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_9.png"
+hash = "6f32bbc0e8cc2c95d67daafaa1231568e9c9b97322f592b81a3bec10291c8754"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_0.png"
+hash = "569804bba8091a57b87f750cf00914490c26f17e2acc741a9a714521ded6cd1f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_1.png"
+hash = "848f1955d8924d559e0940bf346908ade07a6f56bb13b9e25dd01119c312b6b9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_10.png"
+hash = "cbd98a69a2feb0d0917382ff902f9e61c2a4bd8cd297c6a03505422bc3f9f3b9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_11.png"
+hash = "c770a4b9bee78049896155e918f8f70fd93e7e294a08599bdf4e687faa6a6fed"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_12.png"
+hash = "24a3708586767dcb7e9bd38c4e39f1be6522e758fb6328099f07adb105a1a935"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_13.png"
+hash = "ea90f654d5fbd43146e9eefb3dd6cd5184b4fdd072ad20abb7e5f488eb1ac349"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_14.png"
+hash = "889d6d246eb05de467d9ce3715c9f813e3344d21f874bacccc7a1877a7f51ecd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_15.png"
+hash = "566bf07b961b01a1a151ae72a70f27f7bfad5e785f36ac48de7c1eb655d577cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_16.png"
+hash = "a6adba30cc379066e6d66163e7494bd0392ed43b3e3d83cb865be8102273936d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_17.png"
+hash = "546c7f6c6d55d316c46a95bf2fcd2d20fa7d10ded386c293a90d9ff930622e3f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_18.png"
+hash = "168242549f3c2ce5edf46bc4d8671e9aed3cb7506fe454c746575f04a1daa8f8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_19.png"
+hash = "0b99c2d54d8d540a496f416aad5701493f4c9c887600b0f46940736d2287e351"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_2.png"
+hash = "2cb16a54d51b7f490ba29ca4782ba744b1c6d2f440a50d84ba6b97ff444a24a5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_20.png"
+hash = "f7507844f7e5da19541da7155f94f9a1df633ea60ddc513c061103efa7155f96"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_21.png"
+hash = "2077849402a1a9ca6b961f15386dbb181733746f601063473aa7a9cc70381a75"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_22.png"
+hash = "3e6ce1145e6224077aabfb52794ac275263fbbeeb80a1bb88b159db1925019cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_23.png"
+hash = "962512c4eda7ca917a6e69787c315b0e048c140df35aac4f2c65fd6e8dfea24f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_24.png"
+hash = "9c10820d0ca7062d926e8c0174cf4dd3cc0540693219c4e1a3967d543d0bbba3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_3.png"
+hash = "321f6ac5d8ca31f444bcbe55ab5fb1c401435eb80fd9b270a4d4289dcaaf106f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_4.png"
+hash = "b3abb560f4e51e22f8300c5c7d39c27ba17c7579393ffdf799beb082c17af864"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_5.png"
+hash = "7c05f8cfd78f5e47f903c4f260e02b24b574d7600dcb1cb27a37c16589c171ac"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_6.png"
+hash = "34e6c2b239914a856650efcc22441fada11a3b013e172971e52df9d0db499f8a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_7.png"
+hash = "1d10497c4a24a614fbe055b6176d52f9eb45e3ada7c4d965fe2f0a1470fd614a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_8.png"
+hash = "e422cfa116906b50fb5b4ebd6c480d2b4d6233dfe332f3d24c3db3c22e0495dd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_9.png"
+hash = "0569fe3a0e6289a8f496e673eb707edaf053eda71f0fa98a54ac3d7398a334fc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_back.png"
+hash = "fba67e5afac02ffb66b715e0c1c54b157dd02f7c927bb80768a14abb739c5b7e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_back_on.png"
+hash = "11ba461422fabcff1bf67879b513086837516379d299e6e027d1594b6a44dfd9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_front_powered.png"
+hash = "4748e032606d87f7559b2f07c64f3034aab39a3821445ea7e1872ea83598235a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_side.png"
+hash = "721ccfb5cbf9b34646d90f7c0f2290a36404db11b1f6fe294152aaf55a3fb0d6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_side_powered.png"
+hash = "7db1854f195e3c83eca4b0f2378798b2d3d9c3f3e6f399f9f002c7a7756cacdf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_top.png"
+hash = "8ae4b1885740740cb1aa546284130d03104281751206d56ddba2622fd854efc0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_top_powered.png"
+hash = "00e0bce07e1599ddb19a09b60a2fc508495fa48bd8ce893da0df27bb58db3454"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/piston_bottom_sticky.png"
+hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/piston_side_sticky.png"
+hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/powder_snow_cauldron_side_level_1.png"
+hash = "e22a68c7d6b8505fb5b64f1c995ccd76f634343346ba6011505550b46fdbad95"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/powder_snow_cauldron_side_level_2.png"
+hash = "326ae6ce61b01da8f8d91bde9ec115e3727c5faf1023b9f4278baaf516970f8f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/powder_snow_cauldron_side_level_3.png"
+hash = "97e57d316bdf87016cd475453dca36a8d3091619d3d4e31eda394e3bf12617d9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_ore.png"
+hash = "2f9d819a33ac19f3632a15bbd4f320b105fb8fedf8374fb7e124852376ff6ffd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_ore_off.png"
+hash = "7150b7cc891f1994658abb0aa3bd4658ad187092c4f987aa624e0a22e81c1e5b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_00.png"
+hash = "774dde92a19fc846a85b1c6bf1ab11772a857debe7ce08d00d5968653b94227a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_01.png"
+hash = "0c6ae9a7e504139190d628593f8ace3d1a511a61bfaf16931254440559e795ce"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_02.png"
+hash = "cef57ff7b7e2ebd2d5d8d149eeab9152fd2d2ef1660a46614dae9865bb33f155"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_03.png"
+hash = "1b2a4e3ff28f2a5b270dcf4af58950d17ead1670d1dd2f6fd8a597ba480440ad"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_04.png"
+hash = "222342046241448cc3983998887092b69302c046e013d66811349a567a838821"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_05.png"
+hash = "b6dcddeccf57d445aa9f15ccdf8d9e4a9c9a09ca7084ac81aa9a0728a8bb76a7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_06.png"
+hash = "9fbef404ac14b937fdcaf2215074df30c675a55d0aede9607100847905fd0ead"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_07.png"
+hash = "6e780c6296bb99c32e1a2f945068590fc0e2783f153e1ee81a0148b311f170dc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_08.png"
+hash = "c189574ed8f93a3d65c626dfbf465daa1d8e3e2518cb4aef829842251b9fd23e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_09.png"
+hash = "305efc847dbb9abd486f474a11bab16e40c161faea4102678e4bcaa8d6ea4a36"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_10.png"
+hash = "5fc640193a4d18fc65ac5beda77e335e501f003390f9987876c094a26f403616"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_11.png"
+hash = "c5d19e41c1907f7454ca20e4edf47245e99173f10e2d7318cc9fe6ad92959bca"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_12.png"
+hash = "52d97717b0d96b460e5800ded1896929fbcc96f6fa4eb04e9a7099d15eabde09"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_13.png"
+hash = "751bb41812b01df0aa6dd4d80febb00d4ac9d1d3f08a27cdaa4e53a8780e6cff"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_14.png"
+hash = "5da3748f63136ced8ef3f3ea2ae615be4b44f5e1ff3a2555d2c9ee6b7e19082d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/redstone_power_level_15.png"
+hash = "64ba70aef29d8f14b219f921d6e539405725e239342c72fd0ccad2675d6972cd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_gravel_0.png"
+hash = "e60e26b95cd7e1f6efc5c5cce8df66b384246e284d893c224b5aacf8b47a8724"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_gravel_1.png"
+hash = "5ce1ba3db282b6e44907d188bec603dcc9b113a4d5f2355e0b0b6f8353054e81"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_gravel_2.png"
+hash = "eac4acef6ac593994137d6594eedc458361718d863cdff800079aed2d122a257"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_gravel_3.png"
+hash = "016eaea5e22ab506581fcde4ca583f4e0a260fb1323e5c81cf4424e3de2fc2b3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_sand_0.png"
+hash = "2777a8fcced02e875487f71c9e604c74a3239901f5e4ede907bf04b936dcbfe7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_sand_1.png"
+hash = "f245a321d6f724f5d1f1ccf8296f57de4a4751871f6afec2ae83ebce6c1aa449"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_sand_2.png"
+hash = "b27d87e1d82940b96522fe6fafe7c3877dcb337f278c5688b4935cde4565b267"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/suspicious_sand_3.png"
+hash = "d2ef04323f74fb04e03907ecb7b34588ad83dd7471e22ace2b9243f81a900e7b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/tripwire.png"
+hash = "756a341014d240731e8d3e29c9f7c95edae80369f30238f575800e73c9628b80"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_1.png"
+hash = "510bc69a8f72b6ef8efc1ef81b372e423ac74b3c1077f5bd68fe911435d2c02f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_1.png.mcmeta"
+hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_2.png"
+hash = "8a4dd3044052b7045c967fff05bd33530796405e57d3b2e507e6a4522c50d869"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_2.png.mcmeta"
+hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_3.png"
+hash = "d6f4d2237a0167683b5e707d36d578de49f2eaae6fca6f5bcf758dffdca9d3cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/water_cauldron_side_level_3.png.mcmeta"
+hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_block.png"
+hash = "11bfb4540fa408f4a2c27ee69996d7b275918291c9e51b4ee8d90348180e57ba"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_double1.png"
+hash = "2710ae636e285664b896411178d2569c1d1932da234536d81801b899c743345a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_double2.png"
+hash = "f36e94563be0afd68ec8f0ca379caa607874720d98192a9f6c1a5aee0bfb531d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_stairs1.png"
+hash = "4127b386d13a61d24611baa3c9b42b000afc1b896e18bb1eacfbc174c69a0eb1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_stairs2.png"
+hash = "974d5890bfe1e8b22b0a2dcc3b4b6b3d001d76d12f3cb887cd3c9504040fed6e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_cut_copper.png"
+hash = "24f7e6fff7202d96065f43b6718d87d418240eb712140acd6758a4f36012d9a8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper.png"
+hash = "c09a4a4865abb3ff0edea3dd0b743aad38c5760648debb9c0508dc4482ab63ee"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_double1.png"
+hash = "74f1526444893f324e09d28767c8e577882283d1f068bacb9d9399d6f81afc57"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_double2.png"
+hash = "a6aae025e9ddd9d70a0f93de922c96c8a24d4a06626c8de2e9edf8426ca7463c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_stairs1.png"
+hash = "7c45e6f022b6270aaaf724ab3a3eaf848ca9f5ae673cab00b92ba32b55b707f6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_stairs2.png"
+hash = "4177ca10340f351ee163b0c8f42c6778231e7090b99d8d08d04c2b8960399ba7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_cut_copper.png"
+hash = "ec45de0d976ed739219552caedf63b70a109e3afce98036b790b91d50fd16c99"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper.png"
+hash = "460bc57372cac45a89f585570ad4055156aac154729bdc7f1d8a77363ba27dff"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_double1.png"
+hash = "ac759d0ab96531cbaef33636c0b154d6816e6444e1ae62536ed8c0e549237a8f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_double2.png"
+hash = "cc3719865aa40b74f4e7cfa92d5b7273bb4c08bde25dd6e16d174ea5b5c46ef0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_stairs1.png"
+hash = "687b2a8261165532b8287071792993f6c008eaec601ad5fdfc6b702a9e5aa81e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_stairs2.png"
+hash = "7089f441ea0a129591aed05f528490f96550c81c744e0f414433027455d65343"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_cut_copper.png"
+hash = "a937649cb1e19dbf6de43798f2daa03c947776c3c2577aaf4d9d3f7faf755e00"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper.png"
+hash = "d47710808a70cd943ab03280932214790e5a3c9f519bba7df9e63995ddd3e2fe"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_double1.png"
+hash = "56977edaf8ef96a6aca01dad416993a255acf83795a07a2139569a2cb9aaacdf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_double2.png"
+hash = "fc20440308382a463711ac566f914c325f922a3a79f05f0d6e44b4b3b919911a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_stairs1.png"
+hash = "49d35817b31eafad88f3979ef750b49112fea44a25a9507835b182d9a46d151b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_stairs2.png"
+hash = "359b86fca65a7749b8d7a8749ab5769949a8880b0f7101a26cc8f32b60841bf8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_cut_copper.png"
+hash = "63c63a593ea23c8642c0f9ae133c139780a0e842031afffe4c32bcd40e4e5cd9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/creeper_banner_pattern.png"
+hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/flower_banner_pattern.png"
+hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/globe_banner_pattern.png"
+hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_chiseled_stone_bricks.png"
+hash = "594cfb998cbd1a7483e76f3ffbab625b6e15ebde6a8bcb2c2574516571c528fe"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_cobblestone.png"
+hash = "69d48c157775d0c235dfa528b739f300f2fb835ce203f886f7fd29e312fd8cd9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_cracked_stone_bricks.png"
+hash = "c9bdce7a533b98a5132a623e52ac9e714117883ebfe6c473eb723bddb49574e3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_deepslate.png"
+hash = "558d40b706394e483813d0f8fc64e94082f6e95174897cab8b0f6418e4e13746"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_deepslate_top.png"
+hash = "7db4cfcc25da32e22a95b6e6b21e45aedf50062cc16d9c2e6342e5754b0561ca"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_mossy_stone_bricks.png"
+hash = "87ba8e6dbc8e5a95f995a95e26f21baeb68b6d6168a68a8c91a512f74b84a1e2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_stone.png"
+hash = "b61f07ecd9320f42cc7d02a509b1eec537178e4ac0cdd9df09aaafea9fd5c28b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_stone_bricks.png"
+hash = "1285e7ace5956bc388479a0cad0198a082872e68b59daa339c816c3880cdc20f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/mojang_banner_pattern.png"
+hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/piglin_banner_pattern.png"
+hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/skull_banner_pattern.png"
+hash = "e6c97491810bf241dbfbf24e5a239517f286882a8e00bef6c739afe003bb731f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/misc/redstone.png"
+hash = "b323b822962c1932aa26bcb3962b05f014474c2ea87ab89770e59ee0d80d7710"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/pack.mcmeta"
+hash = "142fcebccddbf69177be50a6bd8a6ada60cdc5baf85e9a958700507963d99fd8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
+file = "resourcepacks/faithless.pw.toml"
+hash = "d3fecf8f7e59f506086a4849c3336ca58841112575ff6fdc1ae5f96d2de29b96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/font-glacial indifference 1.20/assets/minecraft/font/default.json"
+hash = "f7e09f471e6f2ba22a3919624fb060a5abc04b5a32b1f216268f487c502ca333"
+
+[[files]]
+file = "resourcepacks/font-glacial indifference 1.20/assets/minecraft/font/font.ttf"
+hash = "eddbd9e7a583f57d2bd1ef7b0e02a79f84e8816848abf21167cebd63f77cf3f3"
+
+[[files]]
+file = "resourcepacks/font-glacial indifference 1.20/license.txt"
+hash = "e4e37c9806a707ecc7480e07d11a4551752ab8e9089076e6bc40703238caf3da"
+
+[[files]]
+file = "resourcepacks/font-glacial indifference 1.20/pack.mcmeta"
+hash = "d98ae9b139b44897b67a1750641accb2d76503af5cf01f3173364cb3017736a1"
+
+[[files]]
+file = "resourcepacks/font-glacial indifference 1.20/pack.png"
+hash = "18bb7b35cbe5d93dd5a47abdddf3c088aa17320de608c9baefff341dabcb390f"
+
+[[files]]
+file = "resourcepacks/font-roboto bold 1.20/License.txt"
+hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
+
+[[files]]
+file = "resourcepacks/font-roboto bold 1.20/assets/minecraft/font/default.json"
+hash = "a84c94943926e6aff12aa6734d0c7e0c2fbc1e88b8e45e3178ce4dad6f73dd37"
+
+[[files]]
+file = "resourcepacks/font-roboto bold 1.20/assets/minecraft/font/font.ttf"
+hash = "7d0b991ee3e0be7af01ad7ea8cd2beea6c00a25e679a0226b6737f079aafff86"
+
+[[files]]
+file = "resourcepacks/font-roboto bold 1.20/pack.mcmeta"
+hash = "7a7c3de1176c31a33199c96ce17056dff5b9eafba22dd06c1c284d81b2a292a5"
+
+[[files]]
+file = "resourcepacks/font-roboto bold 1.20/pack.png"
+hash = "6d6cf4bb813cd1a90ae401ebbb9a553df917b04442ac57e00dce87c46376c13e"
