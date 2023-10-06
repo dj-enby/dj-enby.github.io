@@ -923,7 +923,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "538d82294b38e9e07c7424ae2363f643161ed9e6082c7bd421242ec672db66bb"
+hash = "bc125da2af00e14613ca7d6582bbfff0ce63632dac134da4e9cfcf2d724bd856"
 metafile = true
 
 [[files]]
@@ -937,14 +937,30 @@ hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
 metafile = true
 
 [[files]]
+file = "mods/itemscroller-fabric-1.20.2-0.20.0-nyan.6.jar"
+hash = "61a911cd3988ecdabaad4c42d979db082baea104b3ce78fb2992dbc8be572f4c"
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.20.2-0.15.3-nyan.6.jar"
+hash = "acc126b01f4b3fa14358e00295f0d416864605b13cb342ad73706822f9bef15e"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-1.20.2-0.16.2-nyan.6.jar"
+hash = "d0ff36a18712216317c5b056b28ea34b03a6faf2f79240a0885b081207a1c24d"
+
+[[files]]
+file = "mods/minihud-fabric-1.20.2-0.27.0-nyan.6.jar"
+hash = "6af3a18f5124d203595f7e5a817f4218a9dab24327dcc1fe736c31f09bc19162"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -962,8 +978,12 @@ hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo-fabric-1.20.2-0.17.1-nyan.6.jar"
+hash = "539a4c5e05f04e467a88f88efcd662b2d43c9966e2f1e7ec89ae8d5caee1d451"
+
+[[files]]
 file = "mods/yacl.pw.toml"
-hash = "d0f0615047135b96c0607279cd9a6c4575c471ac85e8b7f70592a4d7a20a4473"
+hash = "46d3f8c4c1bfc8f92858d7e405aed9d1a23e554a783f8977662cbeca06eda5f2"
 metafile = true
 
 [[files]]
