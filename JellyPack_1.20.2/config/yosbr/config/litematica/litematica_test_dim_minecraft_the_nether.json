@@ -2,9 +2,52 @@
   "selections": {
     "mode": "SIMPLE"
   },
-  "placements": {},
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\dj enby\\Desktop\\desktop\\MultiMC\\instances\\Jelly Pack-1.20.2-0.2.0\\.minecraft\\schematics\\misc\\blaze_farm_v1.litematic",
+        "name": "blaze farm v1",
+        "origin": [
+          124,
+          64,
+          -85
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "blaze farm v1",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                28
+              ],
+              "name": "blaze farm v1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
   "schematic_projects_manager": {},
-  "operation_mode": "AREA_SELECTION",
+  "operation_mode": "REPLACE_BLOCK",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -17,21 +60,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "enby cheapo iron farm2",
-    "current": "enby cheapo iron farm2",
+    "name": "warden switch nether",
+    "current": "warden switch nether",
     "boxes": [
       {
         "pos1": [
-          108,
-          45,
-          -56
+          -42,
+          128,
+          -70
         ],
         "pos2": [
-          108,
-          45,
-          -56
+          -39,
+          134,
+          -75
         ],
-        "name": "enby cheapo iron farm2"
+        "name": "warden switch nether"
       }
     ]
   },

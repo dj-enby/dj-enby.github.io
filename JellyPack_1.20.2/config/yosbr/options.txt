@@ -1,7 +1,6 @@
-version:3465
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","vanilla","high_contrast","programmer_art","file/font-glacial indifference 1.20","file/font-roboto bold 1.20","file/+fixes","file/+backgrounds","file/+fun","file/+quiet redstone \u0026 carts","file/+redstone \u0026 block helpers","file/Faithless16x.zip"]
+version:3578
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -27,11 +26,12 @@ fov:1.0
 screenEffectScale:0.5845070422535211
 fovEffectScale:0.3375446340011902
 darknessEffectScale:0.7464788732394366
-glintSpeed:0.6654929577464789
-glintStrength:0.6091549295774648
+glintSpeed:0.6408450704225352
+glintStrength:0.6443661971830986
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+narratorHotkey:true
+gamma:0.0
 renderDistance:14
 simulationDistance:8
 entityDistanceScaling:1.0
@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","file/font-glacial indifference 1.20","file/+fixes","file/+backgrounds"]
+resourcePacks:["vanilla","fabric","file/+backgrounds","file/+fixes","file/font-glacial indifference 1.20"]
 incompatibleResourcePacks:[]
 lastServer:auth.minecraftcapes.net
 lang:en_us
@@ -83,7 +83,6 @@ showAutosaveIndicator:true
 allowServerListing:false
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -120,13 +119,8 @@ key_key.hotbar.6:key.keyboard.z
 key_key.hotbar.7:key.keyboard.x
 key_key.hotbar.8:key.keyboard.c
 key_key.hotbar.9:key.keyboard.v
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.ok_zoomer.zoom:key.keyboard.g
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.f10
-key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.4105960264900662
+soundCategory_master:0.5
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5704225352112676
