@@ -426,7 +426,7 @@ hash = "2e3f794401567cfa1f00d0e4886000b65a357ed5550a4f0eb59c8c3c4356de25"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "95bd2a13225b72a156e82880694ab6178fba91127307594c248fb4394df6822b"
+hash = "eda7953404537feb2ffd6302b98cc408cda3fa3153705d1b743358e41563cff1"
 
 [[files]]
 file = "config/yosbr/saves/newstone.zip"
@@ -1202,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
+hash = "2b9e4dbe7305540ed0bac103f8ba47a36307a3a194dda91b5886a2caf4712d0a"
 metafile = true
 
 [[files]]

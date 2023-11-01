@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a41dbddd6d8d0500fe2dfaa5115ea56393ce8556372da24633ef681273f4dc3c"
+hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
 metafile = true
 
 [[files]]
