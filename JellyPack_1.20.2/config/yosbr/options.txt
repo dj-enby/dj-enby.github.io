@@ -83,6 +83,7 @@ showAutosaveIndicator:true
 allowServerListing:false
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
+debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -119,8 +120,12 @@ key_key.hotbar.6:key.keyboard.z
 key_key.hotbar.7:key.keyboard.x
 key_key.hotbar.8:key.keyboard.c
 key_key.hotbar.9:key.keyboard.v
+key_key.isometric-renders.area_select:key.keyboard.insert
 key_key.modmenu.open_menu:key.keyboard.unknown
-soundCategory_master:0.5
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+soundCategory_master:0.5033112582781457
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5704225352112676

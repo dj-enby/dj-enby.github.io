@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "REPLACE_BLOCK",
+  "operation_mode": "DELETE",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -17,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "warden switch feeder",
-    "current": "warden switch feeder",
+    "name": "fungus farmy stripped",
+    "current": "fungus farmy stripped",
     "boxes": [
       {
         "pos1": [
-          -310,
-          46,
-          -575
+          -143,
+          75,
+          -157
         ],
         "pos2": [
-          -322,
-          54,
-          -563
+          -150,
+          92,
+          -134
         ],
-        "name": "warden switch feeder"
+        "name": "fungus farmy stripped"
       }
     ]
   },

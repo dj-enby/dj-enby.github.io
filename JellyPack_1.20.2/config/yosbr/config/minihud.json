@@ -111,6 +111,7 @@
     "shulkerBoxPreview": true,
     "shulkerDisplayBgColor": false,
     "shulkerDisplayRequireShift": false,
+    "slimeChunkTopToPlayer": true,
     "sortLinesByLength": false,
     "sortLinesReversed": false,
     "structuresRenderThrough": false,
