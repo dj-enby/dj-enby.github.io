@@ -1082,12 +1082,12 @@ hash = "a4779caac3572de214f5ccbbf439ba243229f96e360606822c2d681e590e530e"
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "66112808be4535b813a5294d662c3b466b18eec2347460c0066ffb229717014f"
+hash = "deb58037aaf0f24cb4f44cbc4639ec8edbc4a3b6e11796ee8bf1b039bab07ca9"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+hash = "4139012bd3c8b3250a8ba603ea8c1f5c7a0286d75366d8d373688bd057c06259"
 metafile = true
 
 [[files]]
@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
+hash = "f1605f69e3019977913efcf87faef73fe78e241a3a90ddb3a8ca05f4c89311b2"
 metafile = true
 
 [[files]]
@@ -1122,27 +1122,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "b38c98a509f04f2721e0c030cb9e6410d42d266316767ce16a6b47656e8c407e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "ca2d3deec10906eae66c3d6511e310b8025e92f0979b6360aff1f2df55462cd2"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
+hash = "005c09fba7f8ce6e9966fc73914406e2a2b5e9179dbf4dfd82e8ea57ad9c5103"
 metafile = true
 
 [[files]]
 file = "mods/isometric-renders.pw.toml"
-hash = "e86596ad339551eb23b24aa762b8731ac3e4891c2bcdd8b5e4a1da481f72ba8e"
+hash = "bf30a2c165d7043d5704882b8ed06e27d1f5c33116bb2a59ada3c0b07b836518"
 metafile = true
 
 [[files]]
@@ -1172,32 +1172,32 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8f3f8c035ba4edc388e01cd895ab2f2c1ee04ee76d05271d9ad142dc1ed397f5"
+hash = "aca5fc9e7cfb211d4ba2b59a3c5063bfd1fd97506c81f894d7bf20072def3003"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+hash = "5cda5f9088650ebcccd99a7fb48f234115dc0a43a7c72b480d598a4986d0a613"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
+hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "9fabff6208086644b34566d9e8ba1ef992a581bbd9eb5067e4c057eb41129ab2"
+hash = "816705ee388c2da20f2a11c017a880d4514ea58b23f453fb5e201dc7400e0657"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "a9f4f363f18b90462ca362bbe0179a3150a801a960ff81044b7ad47aa468be73"
+hash = "6ab3906a52bc305c09261b0a13b7f1ad45d27b3d34e6a09e1ebe147b66fc8bc9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "2189db98aed03bc4516a7bef1aa2165a4495a8371b318b0285b59e6552faefcb"
 metafile = true
 
 [[files]]
@@ -5714,7 +5714,7 @@ hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "d3fecf8f7e59f506086a4849c3336ca58841112575ff6fdc1ae5f96d2de29b96"
+hash = "39882cd31c8381e059c6151877a6d3237197ebfc1432db35ae147e1459014469"
 metafile = true
 
 [[files]]
