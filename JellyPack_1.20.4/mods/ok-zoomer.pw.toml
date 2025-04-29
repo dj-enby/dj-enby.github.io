@@ -1,0 +1,13 @@
+name = "Ok Zoomer"
+filename = "OkZoomer-Quilt-7.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/IwYTho21/OkZoomer-Quilt-7.2.0.jar"
+hash-format = "sha512"
+hash = "4c6ed6587e915f8108a281960e83416cb7c3226bef265d02353354decc9a0231af1b9dc48d27133c7fa19faaeb0442f0604c180c2c46965cdec964ce54e1ccab"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "IwYTho21"

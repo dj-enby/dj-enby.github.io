@@ -1,0 +1,13 @@
+name = "Quilt Kotlin Libraries (QKL)"
+filename = "quilt-kotlin-libraries-4.0.0+kt.1.9.23+flk.1.10.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/daGMirHp/quilt-kotlin-libraries-4.0.0%2Bkt.1.9.23%2Bflk.1.10.19.jar"
+hash-format = "sha512"
+hash = "194343a974273c5d8bf7a6e56c3b516deca59f3d5ab6914669a0f23928ded94a4aa58cb1fc61af945df49a24c08809fddef1195578143634d7dd7cab6bc5b31f"
+
+[update]
+[update.modrinth]
+mod-id = "lwVhp9o5"
+version = "daGMirHp"

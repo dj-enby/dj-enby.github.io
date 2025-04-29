@@ -1,0 +1,25 @@
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	ItemStitchingFix
+	JappaObserver
+	JappaToasts
+	JappaStatsIcons
+	JappaSpecIcons
+	DripleafFixSmall
+	DripleafFixBig
+	IronBarsFix
+	SlimeParticleFix
+	BlazeFix
+	HoeFix
+	PingColorIndicator
+	LowerShield
+	ClearBannerPatterns
+	NoJavaEditionTitle
+	ClassicMinecraftLogo
+	NoBowlParticles
+	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles
+	ClassicMinecraftLogo+NoJavaEditionTitle

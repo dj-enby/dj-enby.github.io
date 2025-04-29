@@ -1,0 +1,13 @@
+name = "Isometric Renders"
+filename = "isometric-renders-0.4.7+1.20.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M0aimenU/versions/DB7fxOpa/isometric-renders-0.4.7%2B1.20.3.jar"
+hash-format = "sha512"
+hash = "a4207716c7b66f078e2f156b793382b09338ac52b1d3c994e783f27946c447158b10d602d1fbf72db083f50a070e48e4fd62e3ba1a6ffb4e2ec4d3630bcce71e"
+
+[update]
+[update.modrinth]
+mod-id = "M0aimenU"
+version = "DB7fxOpa"

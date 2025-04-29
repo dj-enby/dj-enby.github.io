@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "3a1b39745d6e65b510407cd0d9ae2c8c3c67805944356b31c0792ea9008b273d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "6b58736320004020868beee139c31e5cf2211b93163db99acbaf6c71fd2835b9"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "abc387a020c7ed360eae2841609ad0a69f0df06c668fbb27776e232bbc1c30d9"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "9fc882d2ab218aeb252cb5202ad0d679910db36cb0572bd196a54ade2b37027e"
+metafile = true
