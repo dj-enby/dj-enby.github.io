@@ -1250,7 +1250,7 @@ hash = "5830419a14cdae01806bc4c5e2b7a1fb6ce8ad9f8fe080caea99b1c38f0eff42"
 
 [[files]]
 file = "resourcepacks/+backgrounds/pack.mcmeta"
-hash = "f4e8577db97a546893b5406e38a68c9ed0fb66c80f1d7fdf9f9e6f365c3c4a3f"
+hash = "4ebfd817c8f30095c39861d09fccba73721e0d054cf291da5ebdafc93ff1a965"
 
 [[files]]
 file = "resourcepacks/+backgrounds/pack.png"
@@ -1258,7 +1258,11 @@ hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
 file = "resourcepacks/+fixes/Selected Packs.txt"
-hash = "58486247cad08ead3f3ba9092ae17cf129efc5b6161d5d0814575c1acd00f705"
+hash = "ea5aef46a88424e0660a6628069216ec2bd67b2d33223973d7daa44a6127e454"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/blockstates/soul_campfire.json"
+hash = "684cedf407862116651c48dc02da595533b95db4bc483632c222e01873cbc085"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/block/big_dripleaf_full_tilt.json"
@@ -1269,18 +1273,6 @@ file = "resourcepacks/+fixes/assets/minecraft/models/block/big_dripleaf_partial_
 hash = "7422778aac28029ab5fd911cbb50ec20d4aa7bac148b43bd2ce07a5fbd927afb"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_post_ends.json"
-hash = "f2546026b66a7d255798babcb3d49dcb457bb4147b85f78597e4a4191b00b305"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_side.json"
-hash = "97ae730d63d5352a55121db77454785b5d7e091071e7e6e4725087edc3d7c4f0"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/block/iron_bars_side_alt.json"
-hash = "6d2a1293dfce46007f439a5bedea02d6c6f58c3beb9b0574b02cc579062cc70d"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/block/small_dripleaf_bottom.json"
 hash = "de01c61bc85b6f513233bd2518b089690b41a21df6d8de37f3d837341cbeb586"
 
@@ -1289,68 +1281,20 @@ file = "resourcepacks/+fixes/assets/minecraft/models/block/small_dripleaf_top.js
 hash = "1580b73ac6843c061214cc9ac88691ad489f6dcc93560fc23b5c185fdb197c85"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_arrow.json"
-hash = "7b6b0d83a61906746a7660204703fa064688a46a73b4112be2607dcecb5c04f2"
+file = "resourcepacks/+fixes/assets/minecraft/models/block/soul_campfire.json"
+hash = "9125bc01ef8ab549bae42e355df91a8e07780a437782dea31e0601161a9310d6"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_bowl.json"
-hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_iron_nugget.json"
-hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_music_disc.json"
-hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_nether_sprouts.json"
-hash = "a2b56e5cfd7732cd0522c22ebf93a9000deb5a94a6350c841a7705016b6e510f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_nugget.json"
-hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_seeds1.json"
-hash = "28500479f250ce56b0b46e0a999caeb4c72df9dd19238a7f14950019f0c1bc8c"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/_parent_seeds2.json"
-hash = "fd22e45349c7ad733b81c21cc3f3c526caeeab5fa52dd7b7ff3eba6ff58c174b"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/acacia_button.json"
-hash = "d66f745787d7beaf347ad83dfcae1a8b660dc380f46276f470e698f73e18c62d"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/arrow.json"
-hash = "ba5610bfb0efc826b51bd0c17d544b2ccca9e8d8024f020401b756194a6aad5d"
+file = "resourcepacks/+fixes/assets/minecraft/models/block/soul_campfire_off.json"
+hash = "e9ee6074e69a13275486586877884da3cbee26ba7af3d3f5a88f65ad1ac1e19d"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/axe_display.json"
 hash = "26c8f01ac790519553d844a2ce47e27e89455cb57e7a7e084f5ddae989768974"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/beetroot_seeds.json"
-hash = "5d01da6ed3b6bb1185246b3363e395afe7a99abe0c009290498179a961cdabcc"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/beetroot_soup.json"
-hash = "ecb300a53d20f50eb62b1b5b76ec2b14790028a36682b2f420274781361ab29f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/birch_button.json"
-hash = "128b6b7e9afd44cf5fd25219232ec251cdb1f4cc81b83f79b8a7ed063bfb2df0"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/black_dye.json"
-hash = "d4870ab3384cca19cbec2cfda27b5c8cadc169d7be386931045cc70caec64db6"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/blue_dye.json"
-hash = "2db33c43dabda6e771e4277a254c09f5bd57ebe1d52858f152c8f7f2ec04057c"
+hash = "d4d9d81b56b2104522d19fb8d872650c207878d1d60ba8b4b08d9e782811ea80"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/bow.json"
@@ -1369,48 +1313,28 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/bow_pulling_2.json"
 hash = "a571690b32553e56b64e1c6669d50206e2e58243fb6159fd87fba86598a48dd0"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/bowl.json"
-hash = "cabd4b0622923241665a59e77e00e952c23549556e4df14c33d21e6ad3e60dbc"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/brown_dye.json"
-hash = "7441bb190595be098c2a4471e1a0648309b59f7b3234fac6a947af00e5d9f00a"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/crimson_button.json"
-hash = "73508b74a0725f1b2302370f5f44a97bb6367a1386e2206a015c8c93c7a76a70"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow.json"
 hash = "52f46b0f44521e4b2184ad3ea14dd8ba24cec0041204e7d3760529a40e98588a"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_arrow.json"
-hash = "c6d0bc72f9ab3d11aa70cdb6b8cab25fec27814d42851b4feb72b6a6b2ff6cb6"
+hash = "977710bd2df8c95c147bb991e499555fb2c163f817a2599a3930502ff7bd4258"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_firework.json"
-hash = "47be864488d35d6c3a690e9a92b88e230c1428569e1d9eeb63d77fa11f53184f"
+hash = "f649a3ba43e544b289610f8652276223ad3282fd0b2b3a10493b84d3140055c9"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_0.json"
-hash = "c7ede1c38a374dec09551cda92c77ceb19188748777f97ecbeb6ed225b9128b0"
+hash = "801736ba88ab7284c51cda73d94884dcefe5d0e7049fa8719ff9271c30fa1033"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_1.json"
-hash = "ae4df13fff178482ee55a164973f71a63e4cd6d257d4e8a5a11b0fe7544b4a23"
+hash = "915d361e310096f0e8b7122552062903c2223792166ab311faf99c41ccbfe2c2"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/crossbow_pulling_2.json"
-hash = "f049875e6cb1d684f1719ef04a4bd36c5b77ca109f8bf4408d9d8b89212f75f3"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/cyan_dye.json"
-hash = "bf3a84877c3f479e9b7dd523f985a919654a6aae4f8f8bd8e3a79c0d8daa11c4"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/dark_oak_button.json"
-hash = "692840903d829f9ad7d1751c718be6c0417ef62c07496a378b5f98158eddee52"
+hash = "a23ef8a35770b1ce1ea36d62187a8f8f2b4063c05f8dfc753014eaff8f209e24"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_axe.json"
@@ -1431,10 +1355,6 @@ hash = "71e21e408ef5bc6d7b2be80fc1a3b289d7b0c50c5cd184e43b695a60faade4f3"
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/diamond_sword.json"
 hash = "3615ff3b6e4e38737cd2f364394acecaed42462a1eaceb4b0ea457810baed6c0"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/disc_fragment_5.json"
-hash = "dcc294c90fd894efb1edef6c0d398219c4b559b52b4919739c9717f838fd35bb"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/firework_rocket.json"
@@ -1473,10 +1393,6 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/generic_sword.json"
 hash = "cb7ecd8a899d9edb4d74c5dd0fef8a2992956f39be1307d3f12fadc4d81662cf"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/gold_nugget.json"
-hash = "3bea3c9a02e8468850fe45ad5ed3b7584360098a754b2d0121c960c649bc8bfd"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_axe.json"
 hash = "1c5aba370318290c467e34c6b3d5ccada011f0ba00c6c2d68add9ad624020cbf"
 
@@ -1501,14 +1417,6 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/golden_sword.json"
 hash = "bf568798bf8699aa67ea3027886e19426f9bd5cceef7a45f3e0b83deaf2cfdc9"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/gray_dye.json"
-hash = "ff8ab9b93a630e89ac5af908138bf25cc293f305e33df69501a8edbfc421566f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/green_dye.json"
-hash = "de916cb4845c1a0badb6c5e6ea662fd858b96baa96518d62bed994248df662c9"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/hoe_display.json"
 hash = "ee4635fc1c7ddd905f3d3783acfbff6f5b54358f622f452c2bfce464d42f0345"
 
@@ -1519,10 +1427,6 @@ hash = "a078100c9bddec6ed2c78538a9ddbfe9345afda09aa9a1973ca43a2d86ae83da"
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_hoe.json"
 hash = "1a5e0641a8e3189faa81679cf44f3866a5acb6850f75e29411ea23a89bcf504a"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_nugget.json"
-hash = "55722d909138e0bf801bc379f9be2eef609285206d900334cc2e7544dc05bfba"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_pickaxe.json"
@@ -1537,96 +1441,8 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/iron_sword.json"
 hash = "c8fd17549e467a01b2c36dda5d861f27db078bf584674a808ac751f39114e484"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/jungle_button.json"
-hash = "40d6dae031190a147d762a7e141a67e960f937727c3895fb8c96d87cc2770bbc"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/light_blue_dye.json"
-hash = "577ce047fa273bfdc1a7d4db3b79551d27589353d788f4fe85ac89e5e2d90518"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/light_gray_dye.json"
-hash = "553f4fcf2fc9e0a613c40c449e72289d9da44e0f405fc9588c2b701f059ea94f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/lime_dye.json"
-hash = "fc427dd59509bbe8b424293d268a24a18f2d8ab404fbfe4fa819eac49140c968"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/magenta_dye.json"
-hash = "1297d114ca886af14408b62b01fb38a964e34463f5e2413c3af1c6fb1cef93fe"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/melon_seeds.json"
-hash = "87ecaf70a00c9b0d64acb166566de16f9f39a6202456c2bd61689e027ccada40"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/mushroom_stew.json"
-hash = "57e3d845b6987d4bfea0f48f159a2412d84e52f350706ef519b25cf6ebc4decc"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_11.json"
-hash = "fe5c049ec51cd49d500415839a34919ee49ca7a6287adf445b504a3fc7fdfab1"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_13.json"
-hash = "ff3cabd9bc2a7cabdbd406ace7b376b4362c03315f6c1cbe850b674c04eaa21f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_5.json"
-hash = "2272d37eddb007d1e02b64a958bd188fa33f834be10cac58b3210c11b272465f"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_blocks.json"
-hash = "e81496c23992887117a2a23248543f095a14c1f557b33c569187ef828e73af56"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_cat.json"
-hash = "fb276881b07d80447f26d566f2929d10bfd92daa65b339747cc8ad9906337135"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_chirp.json"
-hash = "062c131a55538595a58ca68c8e17a2228d95ccd8fbbad939b248de5ddfe51e17"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_far.json"
-hash = "4f1c2871b9eafac97c1a867353f7bde8614d253a7f93f2704383b8f371bf4320"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_mall.json"
-hash = "0d74aef32b85be5f37a602f0602caf79d602e4d4dcf287f5f11be5443eee9ebb"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_mellohi.json"
-hash = "35216eb034ee6ceee706a6c517302dab24b767c0f677ab5de7c9115bd1eec98d"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_pigstep.json"
-hash = "d900d43ecb667a2a72457bdb94430d4482ce5eb1f3c023be053bce5492503ff8"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_stal.json"
-hash = "191b8c4206442013f30e2a9b6e49a878a675b58a1aeb5587b5a3552904983538"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_strad.json"
-hash = "3098a1935a0a18067907198646b3ca42d531080700e01d35922f15ed1d0d81e3"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_wait.json"
-hash = "90d65c181934c6e47710c1dff89d115a5dac93afd824b3a179bb52db3f349117"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/music_disc_ward.json"
-hash = "308943a6b1397bf12a05ea686c4848bd8e2d812aaf13c62a4938df8a424c0cef"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/nether_sprouts.json"
-hash = "7168c91536922140ea317e431038862211933f6f9c81cbb2081ebcae4029934b"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/nether_wart.json"
-hash = "cd819efce2d1b3d055a1c8bf42471d30a9f38a19ef2df9b1cba41741f451db3b"
+hash = "b95a9f7b908a5ab601d96069f9e264abe77b58b255e602ca09753dd1fbc5215a"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_axe.json"
@@ -1649,44 +1465,12 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/netherite_sword.json"
 hash = "814bfcc4738468d212903506795aedf3cd2d29f84cea338b3a440551c05a6add"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/oak_button.json"
-hash = "0619a16f3393296580406b7eb848adc5a4a2712ffc52a5633f3ee2b14c6770ab"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/orange_dye.json"
-hash = "81fa47006b29a54654ea02c2efa8fbb3565f6b1bf3f0eec3000825a3e9d3269c"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/pickaxe_display.json"
 hash = "00ca38083ad030cd5266b2250cbb12eec95ecf9e3b3499fb0f9440a0c23b59b8"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/pink_dye.json"
-hash = "c8043157ab524ae0df4c7ba97513388f6696f583f56bcd1d0e6f93c9a9cfb4eb"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/polished_blackstone_button.json"
-hash = "4f0c17ab35209b5e96025aa181368c4a75c8642c6d6869a0da8262084e636707"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/pumpkin_seeds.json"
-hash = "90e301c95cb313009230202dc2ab7cc2704c6ca9627f3318938354e746c76767"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/purple_dye.json"
-hash = "4fe130c08034829826525bcb863b4cd53c44a6472ec5fc42aa07614435198a9a"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/rabbit_stew.json"
-hash = "48149e749259a53f6c07d26367d473d5e038e62fff090c530edb575de3f983a1"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/red_dye.json"
-hash = "0f2effd43aebbfbe408acd5a40270d98efd8bbf971e44f96844459850ccebbd9"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/scute.json"
-hash = "0ff298a7cc07cf5d06bd6453896d25546de0ac829cc8c156c47e39d2cca0a41b"
+hash = "d16388b49108c6aafdc917ff4742cbe57982eb89e341caded5db755dc9b499a0"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/shears.json"
@@ -1709,20 +1493,8 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/slime_ball.json"
 hash = "580b141e7bf99715be6340bf217e491224eb472af22fdee991ed19dd202be838"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/spectral_arrow.json"
-hash = "1a850d1fdeca34e4a26c0ddd58426d74377ccc0f4e89eaf9347e74ea9ed66415"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/spruce_button.json"
-hash = "925e528d731cbfb0da26f73ffed49b577314120c2e9413d292aea26064caf0c5"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_axe.json"
 hash = "db8c92518d645c22da8289c3e39b6833ae0ab6af96496faaba97e8b345f29156"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_button.json"
-hash = "9d9c1b0e346164fdec578cc8ac857586ac08ddb7a75c4e6ca91715a1664199ed"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_hoe.json"
@@ -1741,32 +1513,12 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/stone_sword.json"
 hash = "45bacd84c084543b63eeee68e86396a794aec3a0776629f0cdf9dce4c3592888"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/sunflower.json"
-hash = "8d494941d37202d99fb8276de3c252397752dbeede4d463a0571d7738067da5f"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/suspicious_stew.json"
-hash = "19a91bfa7e358029ff58f65473feaf0508553d22c89401b9eaef73514d5fa79f"
+hash = "f81c8dab1f1cebed3de0e6e4b579b23242be4f0a25f86cdf1e2d11c4f47f4e8f"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/sword_display.json"
 hash = "e4581e29d5af0229d2370ef0ff281e50919378ca4a43bf31181bfe62135cb8e5"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/tipped_arrow.json"
-hash = "2b04f2aa3783ed0a2adcda045b97dcc64c6fea92487eb70bdf670d7933c56466"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/warped_button.json"
-hash = "93e1491b6b63588bb53068969c04b96c68c2950849d5c4fc6f40d8a3758f30e1"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/wheat_seeds.json"
-hash = "fbbee09a71b05fa0d6a551e3c81d99adef278e878b3b158ae28623c5a4bf6bbd"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/white_dye.json"
-hash = "f88eb95c3c196bf0e944c1e0d1399a09de808fa20d257825f2e3a6bb6742780c"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_axe.json"
@@ -1789,10 +1541,6 @@ file = "resourcepacks/+fixes/assets/minecraft/models/item/wooden_sword.json"
 hash = "993a83842eb1f30bb11ed47bdecf2438e5bb4138c1c797e33932fe3ee65536ff"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/models/item/yellow_dye.json"
-hash = "698d057ad439b74ed3a0c4e23d5639d713b5cbadd9110b19434db943ba12c71c"
-
-[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/block/big_dripleaf_stem_full_tilt.png"
 hash = "a4e710278d638189da1b0d531277b99d8b224d0bc2342f6aaa6ee99a5e2e7c8d"
 
@@ -1801,24 +1549,92 @@ file = "resourcepacks/+fixes/assets/minecraft/textures/block/big_dripleaf_stem_p
 hash = "5d88d86c7f1774ce81c5a81827d6b8d8d02aedcb2a4a5718966e50816b9eac23"
 
 [[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/cactus_bottom.png"
+hash = "125d5b8da35d51ce6b45d3757fdc7615d514414a8577990da48185a090a1a24e"
+
+[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/block/observer_top.png"
 hash = "8929b8464ef265936fc9647cf913cd831c655aada098f87092e65051a9909135"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/soul_campfire_log.png"
+hash = "bdc3fbc56ebb3bac2a3377e5b5b74f4e9e3339090ce446092b666a188f823ddf"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/soul_campfire_log_lit.png"
+hash = "6a8ceab676bb02c519f31823dd4eb9a022cbb91fa97d2889659c5655b4172fbd"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/block/soul_campfire_log_lit.png.mcmeta"
+hash = "4df0a0cf1fbc9319ebe93ad90d934f50e997a99216340d41ea95c175ec26bcba"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/entity/blaze.png"
 hash = "153bbc1df6bb4e00c13747440dc95f60bf1c3420d52710d736cdf8c9dda1888e"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/gui/container/stats_icons.png"
-hash = "c47c21946c9d4670b770cd1a5cb1c6e3da1f9cf4504f288ba789a2c41fd302bf"
+file = "resourcepacks/+fixes/assets/minecraft/textures/entity/decorated_pot/decorated_pot_side.png"
+hash = "9c234801f32b1827a2eeed426639fb20d5e20cefa678e810eb9448ce7da2ceaa"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/gui/icons.png"
-hash = "199fa23b663d3b313b684150869101e54f8abd3fa5e572619db1bee52b71e819"
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/icon/ping_1.png"
+hash = "e7ac261c5d93fa43d4e2d8ef4d0aa653a9b72c5371cee4a690419ce9f0c6975e"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/gui/spectator_widgets.png"
-hash = "1c24d56cb88dd799ca0a6ca60953d8b778537881cd2b6ae37afeb19f455f93a2"
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/icon/ping_2.png"
+hash = "87741455b14402467ef10c22ab7c71bed60f3f721c4997a3109c821bb5ede844"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/icon/ping_3.png"
+hash = "75bdac38b2ee03f65aaf80353fb470060cee01c39a405a65d3350d3df59f386c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/icon/ping_4.png"
+hash = "86620c55540565b5757571d4b5374ac4b4a96bca71084f0568b3495be96f2ee9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/icon/ping_5.png"
+hash = "2cf7bc87a1f04389f4dfbd376a00b64d28f7ed37f13df5d33c051137425cc1e6"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/server_list/ping_1.png"
+hash = "e7ac261c5d93fa43d4e2d8ef4d0aa653a9b72c5371cee4a690419ce9f0c6975e"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/server_list/ping_2.png"
+hash = "87741455b14402467ef10c22ab7c71bed60f3f721c4997a3109c821bb5ede844"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/server_list/ping_3.png"
+hash = "75bdac38b2ee03f65aaf80353fb470060cee01c39a405a65d3350d3df59f386c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/server_list/ping_4.png"
+hash = "86620c55540565b5757571d4b5374ac4b4a96bca71084f0568b3495be96f2ee9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/server_list/ping_5.png"
+hash = "2cf7bc87a1f04389f4dfbd376a00b64d28f7ed37f13df5d33c051137425cc1e6"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/spectator/close.png"
+hash = "06210b5bdcfb68aa180dc44f48d68f982e52fb6c32822cb71febb0f200b37aec"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/spectator/teleport_to_player.png"
+hash = "24087bd8d7e2fd68884f79e9e46ee494a6bd73318c273d920274d6780d88a613"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/spectator/teleport_to_team.png"
+hash = "c41a23090ada1b53dba7ee6cb00d3ee9e240e3b1318627a119c026e93261aa14"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/statistics/block_mined.png"
+hash = "cd4cc1ed73c6d2f02bab9b0e11b246dfe4a4f993697c3ece11ded29dff44263f"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/gui/sprites/statistics/item_broken.png"
+hash = "2c799f7c53db0e482926bba95549be0e1f57c87cdb160c84388fdd5b6f0b2e28"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/gui/title/edition.png"
@@ -1833,48 +1649,44 @@ file = "resourcepacks/+fixes/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "d317cb82a19ffb79b06893dace76eebb292fb30cca20ab38b1265ea9ddeb7a57"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/gui/toasts.png"
-hash = "379b6f252db9d467dc91194a0c475415c1ef909b8ec9f5d0ce5bc492ba7ce59e"
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/creeper_banner_pattern.png"
+hash = "8d0d81b5b752d1555cdf3e243d9bd61a9e662e82ccdab42067ba78698fb26dee"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/item/creeper_banner_pattern.png"
-hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/flow_banner_pattern.png"
+hash = "820ad28d20423b757456cad1bf94eda8daf30026ad733d565f5ffc93ec4b9d9b"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/flower_banner_pattern.png"
-hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
+hash = "6854cdd8bfe3ca73bf56b8cc82b75ee8104b726a4856161f2dcabb2196943f05"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/globe_banner_pattern.png"
-hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
+hash = "8c3ed69b58e17e0ab1ffd62dd714bafaa06b181425c7c46e13a1350a8122cfec"
 
 [[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/item/hoe.png"
-hash = "aa82263a2b39bf4ce20df4418b2c2026afa5b2337141255bba836647e233ce0e"
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/guster_banner_pattern.png"
+hash = "bf6945f97f00abef4f08c79dbe6e0b9d7515eddc27c374f5a397ac8a3d89a702"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe.png"
-hash = "dcc874d79f395b2e21805a33c1ce037f9596cb3935ae42baa970b0ffc1dba05f"
+hash = "92e1ff22503e81280d351fa2c476f8569385cb463b34401999ffe18ae66a0609"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/mojang_banner_pattern.png"
-hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
+hash = "92759f2618d9cb3beb98c266a0563ed7586428a78f6bf3a8d61e09325d0e632d"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/piglin_banner_pattern.png"
-hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
-
-[[files]]
-file = "resourcepacks/+fixes/assets/minecraft/textures/item/rabbit_stew.png"
-hash = "a2ae15be2aaff5703fe12059622dbfb78aa881a2a63e160bc837a9957091b4c5"
+hash = "2f426f4631bcbcb1b834b088c797e574847bf5599900b6334be5583bfd9206ae"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/skull_banner_pattern.png"
-hash = "e6c97491810bf241dbfbf24e5a239517f286882a8e00bef6c739afe003bb731f"
+hash = "c7b94cfb03cb2a27104f3fefe1d88a67d9fb59540537994d22452dcad71cf96c"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe.png"
-hash = "04ce5364b2484f732752cae168268234ed3188d92c2ff20f2a36f976088fd51c"
+hash = "e310de2fa61d3e99cc010ab6ea9fe4b760ec4e8d3ba815e2e19dd783ea3e6e58"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/transparent.png"
@@ -1882,15 +1694,15 @@ hash = "7694413e6875b0a1982b7eefe6fcc82201a6e1d44351bdf7560529e6d5976aa9"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/wooden_hoe.png"
-hash = "229fdbe0830c283d001ef4b95d4b6f9cba30c87a4913ee59055955c2d87c90fc"
+hash = "291dd98d87322c83a74c8a8d8aab1e1f586b77c4fad0f54168bb14cf79d3c578"
 
 [[files]]
 file = "resourcepacks/+fixes/pack.mcmeta"
-hash = "f4e8577db97a546893b5406e38a68c9ed0fb66c80f1d7fdf9f9e6f365c3c4a3f"
+hash = "c5a38463d6678a71784448645f0316ae8ef1631bae48676987caf323ad90e471"
 
 [[files]]
 file = "resourcepacks/+fixes/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+hash = "87b6db20328271063a186547f6399097fed323a8ed1864f872d7b72f3340f82d"
 
 [[files]]
 file = "resourcepacks/+fun/Selected Packs.txt"
