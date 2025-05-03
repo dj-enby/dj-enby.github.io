@@ -1,12 +1,15 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
+	HoeFix
+	PingColorIndicator
+	ClearBannerPatterns
+	LowerShield
 	ItemStitchingFix
 	JappaObserver
 	DripleafFixSmall
 	DripleafFixBig
 	CactusBottomFix
-	HoeFix
 	NoBowlParticles
 	BlazeFix
 	SoulSoilSoulCampfire
@@ -14,9 +17,6 @@ Packs:
 	JappaStatsIcons
 	JappaSpecIcons
 	ConsistentDecorPot
-	LowerShield
-	ClearBannerPatterns
-	PingColorIndicator
 	NoJavaEditionTitle
 	ClassicMinecraftLogo
 

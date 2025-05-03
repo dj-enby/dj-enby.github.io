@@ -2,8 +2,8 @@
 	"credit": "Created by Stridey",
 	"textures": {
 		"top": "#top",
-		"bottom": "#bottom",
-		"particle": "#bottom"
+		"particle": "#bottom",
+		"bottom": "#bottom"
 	},
 	"elements": [
 		{
@@ -35,7 +35,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -90, 0],
-			"translation": [-1.25, -6.75, 2.75],
+			"translation": [-1.5, -6.75, 2.75],
 			"scale": [0.6, 0.6, 0.5]
 		},
 		"thirdperson_lefthand": {
@@ -55,7 +55,7 @@
 		},
 		"ground": {
 			"translation": [0, 2.5, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"scale": [0.2, 0.2, 0.2]
 		},
 		"gui": {
 			"rotation": [15, -135, 0],
