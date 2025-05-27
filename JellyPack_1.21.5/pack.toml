@@ -1,12 +1,12 @@
 name = "jelly pack"
 author = "dj enby"
-version = "1.21.5-0.1"
+version = "1.21.5-0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b43605cf404f347cec2090ac26cd09ffa2ad7538156694126e85ce648022fd56"
+hash = "ff2e82b9cc5413b7ba446ae7f3d90deccff443d0ab199d6d48e46c60cd7ffa0e"
 
 [versions]
 fabric = "0.16.14"

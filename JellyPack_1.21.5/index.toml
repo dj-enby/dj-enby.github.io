@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "97947febb0df8ed3c2e419e0bf8cb8ad2aae0ffee225bf2a2ee337a5b9401fa6"
+hash = "2049b19e9e60ae9e341754c2ef3fb15a918737c6d937eac643900bf5580b1f43"
 metafile = true
 
 [[files]]
@@ -1096,8 +1096,18 @@ hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "d1f561a89e7a4c5d98b6cbb25088ea2ad56ca1cff60118f2076912f49f8cfed3"
 metafile = true
 
 [[files]]
@@ -1112,12 +1122,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
+hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -1127,12 +1137,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "ed4a6d6ce0ff64b4a0298fe4be0fdd8db85e5889d53c0ff487739e55f85df2ab"
+hash = "b8711f751c6a37aecf9f13a2ccc2daab2de76670fc5aeaa2c8aa91d0fd133b9b"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c28270c5094622e397e0c3b63a6bbea8f4728f13131dcbb57092cb8248716d54"
+hash = "22b248a849cce73c435ae42d18930a54c597bff231ed75a4e4df595a90cde20b"
 metafile = true
 
 [[files]]
@@ -1142,12 +1152,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "5a37ce08c65a93e7b4299631b5544c590a6c69028071e9ce06eef57c4f434555"
+hash = "6def8bc95e2fa2cb7de9dd48c1531d5e761ac528f0034dba9e72f072e4d8cc4c"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "72f88706e6540c9feb5e429db69eb63a1c26ead1e60a656f780f2305a45ab872"
+hash = "0bbd1c8202c200df4035e48613cd54ebcd1f8e2510ce71aa510955c3842efca4"
 metafile = true
 
 [[files]]
@@ -1172,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "0fd6c8359e03e12cc7e38118f7f3446a40d5a01b42043a4ac75a67bec3669369"
+hash = "3c79199e4f8a8221ae7095f45a83655fa3baebb59e4cab3d2544be52d1b29df6"
 metafile = true
 
 [[files]]
@@ -1187,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "b81951c3a84a39e148433adf2c4d721a004d6ede7c103f0d3d0f44bee7e0e3ff"
+hash = "77bd1906c36bb69d572f003c69d3e83a95e0b75dd7779fc36935888152288ef8"
 metafile = true
 
 [[files]]
@@ -1201,12 +1211,8 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "pack.old.toml"
-hash = "5d0c3abb4111fdfa0b51c814f2435a89f1e7a5c1740577091887d6981841e616"
-
-[[files]]
 file = "resourcepacks/+backgrounds/Selected Packs.txt"
-hash = "2fb994ccc104ac93519c88a1b6402b45c1b7a28627888a6213e659964b552d1c"
+hash = "ac2b19de903aa7c07f4cc646f165b124c4cb93caa580d6465a99fc591e5103de"
 
 [[files]]
 file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/footer_separator.png"
@@ -1221,8 +1227,44 @@ file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/light_dirt_back
 hash = "b872bb5f00173d7041cf7cebea7917fe957a7dd5c1b7679e0258c3a0f1fbe447"
 
 [[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/menu_background.png"
+hash = "b872bb5f00173d7041cf7cebea7917fe957a7dd5c1b7679e0258c3a0f1fbe447"
+
+[[files]]
 file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/options_background.png"
 hash = "c6ca9c6ea6e8b9dec8a6b17c8ebbf4802494ba8f2816873ea795377e2eca3fc5"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab.png"
+hash = "3b615fd10ec02841b2a2cef57c66d5391f08a4557518e1a35cefe3c8e796ddd6"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png"
+hash = "42503c5d312e48b6ce5bb3c1f9455618c0b7385f46fc55ff7d47e16c523201fa"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_selected.png"
+hash = "5bce8a848193253818fe5fd8913bd1c8329c53f0de59d228853b5676de8b0640"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png"
+hash = "b751c8470b6d41705b2c5fd2354d33be0b26c50a9610b5fca5e8f04b1d7a1077"
+
+[[files]]
+file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta"
+hash = "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b"
 
 [[files]]
 file = "resourcepacks/+backgrounds/assets/minecraft/textures/gui/tab_button.png"
@@ -1254,15 +1296,15 @@ hash = "5830419a14cdae01806bc4c5e2b7a1fb6ce8ad9f8fe080caea99b1c38f0eff42"
 
 [[files]]
 file = "resourcepacks/+backgrounds/pack.mcmeta"
-hash = "4ebfd817c8f30095c39861d09fccba73721e0d054cf291da5ebdafc93ff1a965"
+hash = "f9b26a643d417b5fe1b2ebb6a09d0b66253265a0009d7f4a5e145bc93288229f"
 
 [[files]]
 file = "resourcepacks/+backgrounds/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "resourcepacks/+fixes/Selected Packs.txt"
-hash = "ea5aef46a88424e0660a6628069216ec2bd67b2d33223973d7daa44a6127e454"
+hash = "9c33dc669f14455866a827b5239b257e8ca1ceab28af10e38df7f32e830a9993"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/blockstates/soul_campfire.json"
@@ -1482,7 +1524,7 @@ hash = "01db25de75755ebbadd417a222cf83f4427971f6ce4ffcbdea4cc205aeb3cfc9"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/shield.json"
-hash = "fcaca194cf7629c99e38e740ac3b82f086c380554a243d1eb9e7a26033b0cfae"
+hash = "abc29a1bde160d053b8099aeb51dd775cfa1c4ba07aae98705f1a651f938562a"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/models/item/shield_blocking.json"
@@ -1677,6 +1719,18 @@ file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe.png"
 hash = "92e1ff22503e81280d351fa2c476f8569385cb463b34401999ffe18ae66a0609"
 
 [[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe_02.png"
+hash = "0482c35297cee39694b51966c4596e01b58fbaa02d0e9a0d3b62766b35a5a0b0"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe_03.png"
+hash = "2fdb9f1de050c4ebaf683681196f83de2d9e3aad80069bb2e27a173db864dc85"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/iron_hoe_04.png"
+hash = "4c5876444b360c64d0a753b688572b778f855efce46ff7efb5fb1b343f02c579"
+
+[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/mojang_banner_pattern.png"
 hash = "92759f2618d9cb3beb98c266a0563ed7586428a78f6bf3a8d61e09325d0e632d"
 
@@ -1693,8 +1747,32 @@ file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe.png"
 hash = "e310de2fa61d3e99cc010ab6ea9fe4b760ec4e8d3ba815e2e19dd783ea3e6e58"
 
 [[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe_02.png"
+hash = "6cb67b0da7da3ebbc8f7666be43c4871a2ab5ba421f68350fa359fe51c30e37c"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe_03.png"
+hash = "d430dbf5e638cfb7f0dae31d3ecaf57f0a117aa975aa6b35c5b38ee7be257c6a"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/stone_hoe_04.png"
+hash = "ce757dd332c11c0c03ace1954bfc11d9a625b0c096a3b26d74a5180edac8434f"
+
+[[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/transparent.png"
 hash = "7694413e6875b0a1982b7eefe6fcc82201a6e1d44351bdf7560529e6d5976aa9"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/wood_hoe_02.png"
+hash = "7cae959cef7628cacf74108a0169c8dadc0314f54976427835e5c1655181a871"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/wood_hoe_03.png"
+hash = "bf26a9faccb1097719c415cc2f1fd948a3e34bb83f19f489ab85c4dddcaf8e80"
+
+[[files]]
+file = "resourcepacks/+fixes/assets/minecraft/textures/item/wood_hoe_04.png"
+hash = "ba8a90f7b6eb8a201099154a79bcda54746550e1996cf79ba307881c957608b2"
 
 [[files]]
 file = "resourcepacks/+fixes/assets/minecraft/textures/item/wooden_hoe.png"
@@ -1702,19 +1780,19 @@ hash = "291dd98d87322c83a74c8a8d8aab1e1f586b77c4fad0f54168bb14cf79d3c578"
 
 [[files]]
 file = "resourcepacks/+fixes/pack.mcmeta"
-hash = "c5a38463d6678a71784448645f0316ae8ef1631bae48676987caf323ad90e471"
+hash = "0b15fb899d4a1c62703b6b1678e662f9bd7ada755252abe5bbcc0bb46cebd397"
 
 [[files]]
 file = "resourcepacks/+fixes/pack.png"
-hash = "87b6db20328271063a186547f6399097fed323a8ed1864f872d7b72f3340f82d"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "resourcepacks/+fun/Selected Packs.txt"
-hash = "c6977b56a5567941739a002a8bf88cdbaf7626bd63f7d4f4bf5d233adcd83e05"
+hash = "21530375172aea7a6bdf407e93f66d8c212872ec3920890741713bb30cadba88"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/atlases/blocks.json"
-hash = "0bc639fd6d196cc9d21cd3a381c3a1dfc33a7ca7e8beac99c571c2ab0fcce184"
+hash = "21c1f6474336ae0a239497bdfa89a2a0609b578bc54af9956eb4056dcb02f88e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/blockstates/brown_mushroom.json"
@@ -1741,20 +1819,24 @@ file = "resourcepacks/+fun/assets/minecraft/blockstates/warped_fungus.json"
 hash = "a2dacd5a320626044a85e3b91544c04cae5498ac6a15b10d14f89a469d827423"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/items/slime_spawn_egg.json"
+hash = "82f27e45b702619adc9e988e2ff9a3daf0f13bb7500cb8a97d29c7b71eb34db3"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_au.json"
-hash = "e7692020eec8bb7a314af9f5a8618f62c3df3eaee9ee1c991c4764cd2e4fad65"
+hash = "367297082d3c4e8c2c2b1350292aa607abad557d98cde6be12badcb4bb94431e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_ca.json"
-hash = "e7692020eec8bb7a314af9f5a8618f62c3df3eaee9ee1c991c4764cd2e4fad65"
+hash = "367297082d3c4e8c2c2b1350292aa607abad557d98cde6be12badcb4bb94431e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_gb.json"
-hash = "09aade2b50d56b5bfc8e27e74274eaca397b065a433546129d9cf0741ffc7447"
+hash = "5e48224b887cc919499e8a995a9ff54850c1986f2613309e0d1f2d047141393a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_nz.json"
-hash = "e7692020eec8bb7a314af9f5a8618f62c3df3eaee9ee1c991c4764cd2e4fad65"
+hash = "367297082d3c4e8c2c2b1350292aa607abad557d98cde6be12badcb4bb94431e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_pt.json"
@@ -1762,15 +1844,15 @@ hash = "d633657b0624645cce7a7ac9e48cf29359331ac3880f0a47798c5eac391e2d57"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_ud.json"
-hash = "57c3c9b645d54cd232beaef05e8a3f9bb5b290ed902813c840aebeebb783a854"
+hash = "20004cb987ec5623afc337ad3a4ad896ebd6467cd4972a7e99bb9d7d838ae586"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/lang/en_us.json"
-hash = "f4677a4e9f7cdd777bc339f0bdfbfedb2c628c6b5d7697021f2eff9ecb4b3145"
+hash = "15e25e588b631d2fee4b920f2ec1ad33a4677c6cc2761a5ac53dda8c389b5ffd"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_bottom_left.json"
-hash = "477b17348639170c56f2ad143bdc60fc9f6a7d0028c173337d5332d44dc8bcea"
+hash = "5a611b0b9697c60f01f519d059ae10f580f39127dabb38ca96b2a40dbe6efd68"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_bottom_left_open.json"
@@ -1778,7 +1860,7 @@ hash = "a8a886b6e0c915f38cd7bf05d6727e577d079c504094ca1bc024300751e452ae"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_bottom_right.json"
-hash = "1fe65fc88ac272a9967ab229395eb9afc1c83b0f7fc78a6bb748b9814410d4e5"
+hash = "775683d7c660295a096e07f264e40d70f68635a7048d2f6f9d3147debf806733"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_bottom_right_open.json"
@@ -1786,7 +1868,7 @@ hash = "c9da77cb6ba976855cb5168e3250870bdcfb55705c9f83c861f2a265decfd667"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_top_left.json"
-hash = "03712b6dc14abcfc8e6c90730d628f59ca1737d2c9a87ba95a06e07e2248f152"
+hash = "0c3f66664c51fa46bbcd6ddd7c6f3bc49b10ddf387c17bd487ba6ce620747704"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_top_left_open.json"
@@ -1794,7 +1876,7 @@ hash = "46ecbd88f032785f916dcf19cb93d3ca2b445a8496b8ac5ad98996aafafa2658"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_top_right.json"
-hash = "dfda41ee995e521aa86a60e682354462eccb73b374e84dfb86a2d11ed9150e69"
+hash = "948f83b688c518c1ed97fb2ca029c25c3a2917ad64d1f03d93ed8ae42e8536ef"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_door_top_right_open.json"
@@ -1802,15 +1884,15 @@ hash = "2151d531c594c6ac69d5cb002215ea35b55d6052b6206dc39c4ac2a4facf86cd"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_trapdoor_bottom.json"
-hash = "e04756e1c8a625d822bf05b537f88da65fcd88d6ea954ea076978c00be0b2800"
+hash = "47b182ecb29fcf63c882f8f401d303da1c1ee74ab9189e7af00302b8f47d44f9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_trapdoor_open.json"
-hash = "2465bb66a330b01b70c3c366699f764993b4f683024e41ef519d2021a1b3a94e"
+hash = "194170c423c0ebff27e70618cd003102836fa68898680660fe5955f2e24adbd5"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/acacia_trapdoor_top.json"
-hash = "7bf042892458fe83c80317a20f33e02b58a908daa4966ddba89906c3e892509f"
+hash = "66746138daf70791d43c1c36881708ed11eb6b449093e4427aa06aee83156092"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/activator_rail.json"
@@ -1842,7 +1924,7 @@ hash = "0393ff918706778bff13055adbea48124ebd46ecca144fbf69b33ec5058710e7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_bottom_left.json"
-hash = "78134b90a139cd2956e2815c5d64727a0d3636f7d31cf70f11a16e8e2001ee34"
+hash = "e4d475997f1ea46e26558cf39731238f6b0e5b5a1a3403a84e40c9586bee2596"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_bottom_left_open.json"
@@ -1850,7 +1932,7 @@ hash = "74a26b7c745636360d84b4c2b71e1d7859bd2fe995f11e4ea24fe30e49ae629b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_bottom_right.json"
-hash = "d378b349cebd124fa31f94bd5553bfff44608eb649a27f1eb30d8b73d87ca825"
+hash = "4b9c1830880a3065c32506d0b60cf68aea37f798543a8491100fffce35cca25d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_bottom_right_open.json"
@@ -1858,7 +1940,7 @@ hash = "3e27d312f003d35b41d589d55949e9e1d259646577625095f63a0fcf570b9c44"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_top_left.json"
-hash = "881f3b13cc48677f7d87a35853a4da79236eaf61801f3ab308006736a06f5f06"
+hash = "7278a228536415894021387f9beb656017f9ba0642395a3579bad52374ee9081"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_top_left_open.json"
@@ -1866,7 +1948,7 @@ hash = "a23698531f82b1043aad62c6cfe7d43dde2251ab0933dcdcf3460aca3f9613b7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_top_right.json"
-hash = "513c139857217f594c02bad75a2d13de849222d9e2c168a1207ff5053b611d5a"
+hash = "44d19ba421505e52670ee2e9b12936902acf324d43ef1182dc57f7d6a10395b9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_door_top_right_open.json"
@@ -1874,19 +1956,19 @@ hash = "96d197a9a8203c3866f06e071e2ea2ade77afefe7103e0ce6dbef6b45076789b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_trapdoor_bottom.json"
-hash = "0f2b98dc49f77e30c42ff97412c17353c642180d5af822aecd904e95b98c3ed1"
+hash = "c5a5ee389e4e0db012179ea8e8465c8ed5757e1be2a6754f90b73ca9996d82ee"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_trapdoor_open.json"
-hash = "386799d8d3e4635585c56225cf1345dad747732a43a2a089b32928a8599bb86a"
+hash = "231ab2570bb372bd07c22fc8447ae37f34a2afd72bd31c01d7ee1edb6391ed88"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/bamboo_trapdoor_top.json"
-hash = "9bee676f800042706c86abc4a8a01c23255548bd4ea0fdb00771ceca7b6631a1"
+hash = "5ac76943409ca922df70557a5bfafa2fe4c43e9b310c97faa5b3dd1dfbe0d770"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_bottom_left.json"
-hash = "1830a6587bc35bf19e22d2a5886ef28b165fc3ea7b3bd126b59eb9b11b8d98ef"
+hash = "b16671f7d48a966a28ee3d23d830757dec9e3d821c0f3f2d5ddf93bd209584b4"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_bottom_left_open.json"
@@ -1894,7 +1976,7 @@ hash = "141bc478964036baa12fd9984b0a9e0c9f979a018d6ed5a1300515dad8cd3403"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_bottom_right.json"
-hash = "16cd3d29d1b5ce51a1cfa87917fe2a1c5a289cc9f94a2dbcc55cac7d8e04d86b"
+hash = "79359ec61cd8add91e3491e0b2df21f381fe6f25cb1298f9b3db48f06eeeaade"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_bottom_right_open.json"
@@ -1902,7 +1984,7 @@ hash = "ed82f3bb6724fb2a43567d193bcb55373f92eee0eb71cd2ef732f2d2d1acf322"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_top_left.json"
-hash = "fd54cda547c875f6a008f2ec268403ce7da04b6a2b745ec86952c454c5a13542"
+hash = "504185150409956c290ca3850c741beee26cc28639350b48f78a69b933a4d2b5"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_top_left_open.json"
@@ -1910,7 +1992,7 @@ hash = "45b3b3a271b721d01c2ec425ecdb89e1a5630009132108a2c92eeffaaa91ce4d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_top_right.json"
-hash = "44d330e36fa35cf78343085df19e774cc37faa700766d038970c5dc0353869db"
+hash = "8c6e40ae5227c814f71209b172efb73bd0ea84e6e9f20dcb8f9913e3777798ba"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_door_top_right_open.json"
@@ -1918,15 +2000,15 @@ hash = "6a530e2e8071f1e5a634131dab1d0d146c3b3b7236ec50bc5e21f029f7367845"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_trapdoor_bottom.json"
-hash = "1c917605540238b5862d6ac41d4e4cf1630706ca7465c7647d3547f470ae3a56"
+hash = "b44dbacc59547b4b0ba7eb58660ebc37222cec464debed4e76c025ddff4adb2e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_trapdoor_open.json"
-hash = "564932b636a8e9f2c1cf1de51b31e71534618ec508fe268c7eeb3b81ec582ce7"
+hash = "119f18f1a878193309a2e9033dd5ac22d8cd6ab09b215d71452e7a8a32dd8394"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/birch_trapdoor_top.json"
-hash = "6179925b5ed97a82fb5d36249058ac246712309396e66639bdf703eba747a746"
+hash = "240f7de8e219937c775d9b8dfa1a738d810bed9665231ce0f8d1481783e47e58"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/block_higher.json"
@@ -1954,7 +2036,7 @@ hash = "e2141a3d0ab356041f9cc2a46f3b8c0a849c6ef1be5627ede448c1868c60a335"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_bottom_left.json"
-hash = "ad8060c74a5ac6affc30c86612cc8c1925464c5824360f2ff0476a73ed4fae1f"
+hash = "7633e914fa2f67186ad2c19a9d9be60a9e9b6dbf3694b05de5fb8d1075327855"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_bottom_left_open.json"
@@ -1962,7 +2044,7 @@ hash = "0878af02d369a8f5e26ae0a41e647e7b8250db13453a06dae19c3519305af4fb"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_bottom_right.json"
-hash = "afb9c17a8e0289cbdc4d769c86f4581152ef37bd06f168228912fffa4c185ad2"
+hash = "be4360aaca88889bc9c1c8b4036705a1dc10008d8bec627e835f277560d93383"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_bottom_right_open.json"
@@ -1970,7 +2052,7 @@ hash = "8b68fd068b102eba209370898c6a23d3d93d3300b627195a9ea2eb4e8e0aab9f"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_top_left.json"
-hash = "0e86e927a2d8c811414127a8087c5176046a57dcd578cc8887afca4548f813ed"
+hash = "efd2ee5daebb172bfd8442449ef4568479fe27951a0c7ad8d02ac552b930c90f"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_top_left_open.json"
@@ -1978,7 +2060,7 @@ hash = "6129ff64c14d02b9faa8719ab206508dd54534b51b3adb7d4dc089a883c74b18"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_top_right.json"
-hash = "996ce9c2b501d373e9238f415930b6a818afecb11df82508ced918d5956b0214"
+hash = "3526f469b0c8f1892721c0dd904d98e64cdab0fed39868bde6e8f70d1be7493a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_door_top_right_open.json"
@@ -1986,15 +2068,15 @@ hash = "f8200aee2fb5ca4990862330a776d2ff3130c4de7635f2514e1ed39f6fef4821"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_trapdoor_bottom.json"
-hash = "7fc7260b53e579868a25e21f72060260cb41dac1027b74c83eb5f4e69a61b205"
+hash = "bcf3ce544125cb2ded63b708f603e5e47c63c76ac6ae27b8ebd30bffff26a18d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_trapdoor_open.json"
-hash = "b7e99ecaf4a2b8b5a72b73887be0e53ac5e4eaacacd01941fe9bc8fb71a8dcb9"
+hash = "b22106a8995c896ac6ea4f1fdb3ccd1ef1516d38697f8acd3dbffe356f56eb07"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/cherry_trapdoor_top.json"
-hash = "700f269f25c254a060f28203343342472a60439d94027e1e941b1921724315a5"
+hash = "04d875a83c517304c3efb1a6715d37d1aa135b3fb3e3f8a1213484434c2bfec2"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/chiseled_bookshelf.json"
@@ -2057,8 +2139,52 @@ file = "resourcepacks/+fun/assets/minecraft/models/block/comparator_inventory.js
 hash = "d15892f28cf64e1ecb4d5751037495c221fca17dd25cb8671dd57f87e3f60a87"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_bottom_left.json"
+hash = "d5f41a5d0037a9c540d2175700b39e3e17f71ef21b9c4872498001fc54b8c754"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_bottom_left_open.json"
+hash = "2b3bf6e417c84565874de51d2b3516afb91e212189970862070732aba91943db"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_bottom_right.json"
+hash = "294d53232c637d50df28198de5d0f24924404be73089af0fdd9ebcb5843e776b"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_bottom_right_open.json"
+hash = "94d92dca104f25d083f853b9cddaf640f3d319abc5a7080afb7d4aec1834f5a8"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_top_left.json"
+hash = "2aa9dfb36781751971ed78e5f1e8ca28e2314b047f4f1b1fa752762e7ba84140"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_top_left_open.json"
+hash = "0f28035de1777fd1ea61386dc71969907f2196e32e736560c91cb2ad0f01e2ac"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_top_right.json"
+hash = "1503f551e785ddb50c831903bab5469c19c82515f71eb3d54fd1bd3a21cef09f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_door_top_right_open.json"
+hash = "5c2b31e51c5c50062ca824da3e5e602276673e22d91c35176cb62329a000bb92"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_trapdoor_bottom.json"
+hash = "231a39957c8c74d084bfc253df79f1e16891796c347c704ea971b0f0e094deb7"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_trapdoor_open.json"
+hash = "9874f111d563265caff937b47dcbac6209fedd7e17b6c26a64295287f845abff"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/copper_trapdoor_top.json"
+hash = "1f09c2eb8e64f9055e3bb86a0b34f5fea90ea30738bdde66e5eba5a4b4bf1edc"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_bottom_left.json"
-hash = "6974a2f28fad40b520a2163eb0882bbcc08ffeb8732dc580b43f35f16e196b9c"
+hash = "6fb6dd3f48e2363299b28b17466dfacbb880dbe95a27276d00e08ed63614db06"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_bottom_left_open.json"
@@ -2066,7 +2192,7 @@ hash = "9368318e76652b8ba84ff1cdbb2046effb7b1fd0bd9975995fe6f4aa4a9cf001"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_bottom_right.json"
-hash = "38f82f356d5acaafd3905682d730b89ec563dc543227e27334930fc15c9184a6"
+hash = "502c4d9f9ec2c578a1068b42444ec1e0572da76c6614066cfd659bae2e6878ee"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_bottom_right_open.json"
@@ -2074,7 +2200,7 @@ hash = "a7b98a2f50761cd7fd4b0373e2ff240c4d9af8fe83d92c68561e1ffdbc6fd438"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_top_left.json"
-hash = "71fef04eb2f30fe66166b2b91ca832538930ef56327f0167030c44dcf6db1ce3"
+hash = "e91edfcb0102b40fb743a84f8f01b2ff1fdf75cc45af477b44a4f4442a40ba3d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_top_left_open.json"
@@ -2082,7 +2208,7 @@ hash = "6a24966bef5e835c3181fb5f7ef604ccb4963210ff0c11dc78f1ade2e388cf4f"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_top_right.json"
-hash = "e55710b3bd696ea3e2ca831c4cb49bb8b6c4cd294958d6beeef799ba3199af56"
+hash = "1bd2a4a760898c5b5d000bb14476c224aa1582ec9767a80574c26035ed46a616"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_door_top_right_open.json"
@@ -2098,19 +2224,19 @@ hash = "e2932d317e8067a9ce6f2e677c62043dee12bb15bffa303c0e2f09aaab730ea1"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_trapdoor_bottom.json"
-hash = "2c3f239d8e793cb941a0e1d4db0082a8e211db878fbb2351b1f36d2259d0b763"
+hash = "e87fa1ffac1d7874762ac1740d691e3857c5f4042680652030f166e513313dab"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_trapdoor_open.json"
-hash = "5728b893dca3853abb52874f0edc379a32f9289c9aa45c9c05812fd96b75b7f1"
+hash = "9fd5a52dcebabda7f8bdbf2498f2ef327dba7b65a7b1d53fc7b224b4e26463fe"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/crimson_trapdoor_top.json"
-hash = "bafbf3266296e856934b60d38b1079b9a6a1e1f104d0558ccc258ced5f938af3"
+hash = "9826f067bdee922d58bffb87928f45d2df0050402c85c178069ca54cffa9f6eb"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_bottom_left.json"
-hash = "2b9b29d1046aec3f736604b956ce6f0e2983f9b18590c242be552a9813a56367"
+hash = "6d17773069c2e373b18461e59f15b399d2c95b35350b41ed706bff406ebcd237"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_bottom_left_open.json"
@@ -2118,7 +2244,7 @@ hash = "792b0930b6dd204ae6185772b0021ddcfeb71bd162cf5ac040496ab5dbff55ee"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_bottom_right.json"
-hash = "32a80482d3870f68c58c0978465ef072f7e054e9b0525f8c0d1a80fa4970f8b0"
+hash = "6e66b33f26eacd10869dd1a8425036f919d08ba0613a3d128d7b16d469030d8b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_bottom_right_open.json"
@@ -2126,7 +2252,7 @@ hash = "89997412696fe72d0d4fbdc3754168fcd7cf232c1ec46940e310bb2976699ee7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_top_left.json"
-hash = "89bfe8af9110f2469f1b25afd5c3e7d562ddccd407b989b2ecca08ce2bc0cd93"
+hash = "20626d1a17cab3e368253d56daaf2fb1bf2f0f5c36abcd70c6ce909147cd9d52"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_top_left_open.json"
@@ -2134,7 +2260,7 @@ hash = "908792c03b38ab9d6729388fb35fa4ca0a6a2ffea3e4dfb4a2091fa5da366fdd"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_top_right.json"
-hash = "78d9f11311228f08a9184e59c4b702fae620742335dd7c3d3ea56bc917f8061b"
+hash = "6c9744391b0f74c5e262c54049dc822fd813031d28455cf8274d32f7bf86f3b6"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_door_top_right_open.json"
@@ -2142,15 +2268,15 @@ hash = "714e200064a29ca1fb6921ecbdcce15b1a1f2e8b83e086717788b541890ff67a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_trapdoor_bottom.json"
-hash = "cfeb6572eb8c0fe03fb18b98c06fdd6b383c3cefa0b839955672fd3f4190b97d"
+hash = "5e55abb95e41c615f24a4c4682894951b31029d73b924fa8aa1e9011ea9c7c96"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_trapdoor_open.json"
-hash = "402fe5e47a58ea1f2731f561c1802e74e21357a76f84516e9ccfd685ab8ffeb1"
+hash = "ecf586a8ce4cc1e3b416a5f534892b35d34ac53d2ec77c9298d864453b4cd40b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/dark_oak_trapdoor_top.json"
-hash = "297fbfe9edc6e42b23fb7de9aa3c9031bfcbb6fe564a2b68a6942a18636bb7bd"
+hash = "22fca3e7026581979a8adedb0d65323af4dd7ea70840c82741ceb3850279b439"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/detector_rail.json"
@@ -2175,6 +2301,50 @@ hash = "7a8a41a0462662b3506ab6e81b95602f16fd217f3d695a1244ca9a1fe9fb33b4"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/detector_rail_raised_sw.json"
 hash = "7912e723f6f7064577eafe5bef61e87767e14cfd5654bce48ec433e255e96d0d"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_bottom_left.json"
+hash = "24b58381bdc3cd86f93fe6d2a7bf3338ce27bf007b25cd9da128cb4bff8c4853"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_bottom_left_open.json"
+hash = "6b78872c2fc6078d6c51f60c7ccd5db86f0dae393d4c6d7c93856dff7d752d27"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_bottom_right.json"
+hash = "53efa21bd369c1b419788e696690d9dc691f51538c6bd427e3b37e153ae0d732"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_bottom_right_open.json"
+hash = "406c728326288e85a947a0cba02a9b53f9b55fe702f1d9287d99f8317dd9881c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_top_left.json"
+hash = "482a18f63d4fb97a93f035e1fe54b23882666d59377f6b7b8f1adf9a968cc97e"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_top_left_open.json"
+hash = "db51006ba178cf50894a5480e55c486c35c7d7b01d04160e55bfb2ed3215a98d"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_top_right.json"
+hash = "e8f2018950a79fcfe29bca02dca1b2de02c07b077d9896859bd47b5fa931c4fa"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_door_top_right_open.json"
+hash = "6af4a32996519993a18c88fc905ebfbf7f167c43f47e2dfc0f0c84ac84e5a99c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_trapdoor_bottom.json"
+hash = "64b635e628991ae898b3dce9fa83095b5982aaaea8fd4eecf59758c91ed5c98d"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_trapdoor_open.json"
+hash = "eb0f49854c968c9bb7503fe538896efc3b0f2044abbbd41cb6253b87763b3ca8"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/exposed_copper_trapdoor_top.json"
+hash = "dec329b0faa56697d38f3a1d6e62048ad30e9a3eebee41baa6f1488087813f74"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/glow_lichen.json"
@@ -2206,7 +2376,7 @@ hash = "cb6baf2ff8c0ce6d0383725df93cd88d3d8f3ead6819de4750d834a369476624"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_bottom_left.json"
-hash = "fba3ed9bd417bd1525788c6cd16fc60746300bb568dd87cd379b6394051d0e42"
+hash = "543cb2217600a77a78dcb006b7e1ccf47ed516f1daaf6601405c5cb849e8e721"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_bottom_left_open.json"
@@ -2214,7 +2384,7 @@ hash = "41f7800e3fcd390244c805f30210b44a131065c8e3fc2f7f4d4db483b62f6f38"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_bottom_right.json"
-hash = "37b88b86dbd70cdc4304eaa9d7a72dd77581a9f30bde680a486fdb863b2b0422"
+hash = "75d90276e52630878396889bf95bd166895161b67559429c20f085332e3c8491"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_bottom_right_open.json"
@@ -2222,7 +2392,7 @@ hash = "678f8a8e824bd460300a245435e2d23346df4f48f73d168f7e869de173187011"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_top_left.json"
-hash = "af1e7de654e58a4a31d0191aa84ecbe3866cac8d9cde25f3ff55167d60cc11ba"
+hash = "7863d3c78de24c5b654c292fe2a73fa8e3ab51e449a8514505960983fc6c458a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_top_left_open.json"
@@ -2230,7 +2400,7 @@ hash = "14b6eed4a1e3233b291cf4d5f13b5d363710fd02390b90b420fd4d40cb5f0c1e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_top_right.json"
-hash = "9d60d2828f1b03b133ef26642d5af24c87cb8b4026d22e0fbc5c40cd0bd90e49"
+hash = "96868e171dc5e81ba8ea28c43b51ea74bb29f0f01c4ec0aa7be48574f06501ef"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_door_top_right_open.json"
@@ -2238,19 +2408,19 @@ hash = "e36d91c1bd332ffc62b94819a2ac3f4cf2518062671969a2c820c4e4c29fbc41"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_trapdoor_bottom.json"
-hash = "77766f07aa25e82b1ae17046c8b0fd71d5d6ec0fdf946239a750ba62a51c72bb"
+hash = "dac37387acbac70a0f9ec5595d84fe1f024beef391f57a5dc417f2428fc78706"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_trapdoor_open.json"
-hash = "d7a5d13ebdc0dc6e074a85a4891a1b741d0a8ad6c7824bcd4b1b94d75d539890"
+hash = "cabc6c62ca630aea718aec7346f960cbd2f81fe15038c2ca604540401017053b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/iron_trapdoor_top.json"
-hash = "f8e74fc3dcc1e7a9aee5ccdc4a99266f5dc901022ddb842085b1600702aca501"
+hash = "450f22e1a398037e11518134436256b4d2d51ff1066d9b4e73f916876c91c7c7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_bottom_left.json"
-hash = "0c0599ce16c161655626dd1e6f2e096bdf6e68eeadb5e2257a5ca714c2603e69"
+hash = "59b56441221ab5ef33f24c71558e0a2ba2c525bc698f8631e53ee1e31174f4da"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_bottom_left_open.json"
@@ -2258,7 +2428,7 @@ hash = "c9dddd4fd091445015e07d1d3cff3792dfd76c1164ac53dda153ea503ff376b3"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_bottom_right.json"
-hash = "2eaa3bf021f9de428c1cef2650e5de50614b7aec67b242f62a3020411c70fc3a"
+hash = "1eed1f3e476ce700901c532df8691d167d3c2901341e63fffc3063f8213f55ad"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_bottom_right_open.json"
@@ -2266,7 +2436,7 @@ hash = "92385c57c2fe44da42b447d7c9cf0b6104859c5dadaa19b5f4080d1416ad994c"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_top_left.json"
-hash = "a1e9d539a3847e8a940f9718f59322e5bcfc4ada8f906a8681f17991dcde171c"
+hash = "9d5f8a34ef612a18b2cf7006985248a4eeb5ca77590c4008ce389f995fdffe3c"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_top_left_open.json"
@@ -2274,7 +2444,7 @@ hash = "e98a4954250f6637cdeffabc151d8e48549ba572aff363bf6261bc24c1ff20ed"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_top_right.json"
-hash = "ef3360f29ab8351fb6cbed17bb2c75a31628c77924b6ebf6044469d32b05788c"
+hash = "ab6a6f3f3925fb5164763340fb7b6afbc7ac07486fa63da9e22cfc0048ddae5d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_door_top_right_open.json"
@@ -2282,15 +2452,15 @@ hash = "5b80e0fa00bddeceb484d8487d344fbc47d9e6a84dfe0982de8e57c3952f1074"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_trapdoor_bottom.json"
-hash = "8d13e2e0bcd7e527087bdfcebfc67ad5449a75fb77fc2c9833f8fecfc878495f"
+hash = "0e76f29ab23894e35aa3b0cfb1dda667ddd7595b7980e2904126e08aea08b73a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_trapdoor_open.json"
-hash = "83fc6fa056b2e67300fad1e23f37361a6d792d1615f6fbb69c9e8674abcbad14"
+hash = "93c5d68c9d9552b72d0a70f54791a7e31f957b56ded8485be35d716e462b6fb7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/jungle_trapdoor_top.json"
-hash = "5f4ffe8b23d4b0053128f65ff30d2200c7604e61cd2a7d732e32a5bbbc77221c"
+hash = "b95198ebf602f06090ec2f703d667053b61c8ea7477397e9628181b71eac65d2"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/ladder.json"
@@ -2310,7 +2480,7 @@ hash = "ebd4039ac9672543a6e4b88cdee6a1b098e1393747c249638422178f9a4d9137"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_bottom_left.json"
-hash = "06b4a00b729a7f38a754332a8a15815197d3b9fc2ee92abb9b0a8b9d4c611a78"
+hash = "1923e2a21eac392e28147536b20b7ec51f870eea87d6aee4c988b8db45d31911"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_bottom_left_open.json"
@@ -2318,7 +2488,7 @@ hash = "84060b9f5f2969ac4ee1e6e2a456ff139997d89b020c45fd589fed993da32820"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_bottom_right.json"
-hash = "9c54639893f497f96a77b320ac30fbe5c1df3d1a928e554e44f91e0ca7634c3b"
+hash = "9d0c04790e7126b7654b6ed694c2be83149b2a8991b618ee96de3a7c5c1907a9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_bottom_right_open.json"
@@ -2326,7 +2496,7 @@ hash = "71df07cfe2a755fa47e8c3d9dde74899895fce66e4850958c5f553b8d57d044e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_top_left.json"
-hash = "0319dd885e4f015d4edb2775c2f6c3b35642ad3e2c4984166721c419b4575453"
+hash = "32a0beb6846b029cc8fe512484e6437ecdafc2fed94dd415c35f19093e61ec58"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_top_left_open.json"
@@ -2334,7 +2504,7 @@ hash = "4116088c8b4ec91e0cfcbdb7493188dbd01f40c0e826ed39a784387a4fb6cb1b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_top_right.json"
-hash = "1fb8f57d875709ad43da8e4bf5a59449a7fe5eff258da862af6ccb3b4808b202"
+hash = "4329d7775395defcc8d22da4fffa6d1558b31b2ed8c84736c5e6e46247d44eba"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_door_top_right_open.json"
@@ -2342,15 +2512,15 @@ hash = "88e5b76937e337a85d80536b67d28376602d91ea1c26df3d4baca2ec357c37b3"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_trapdoor_bottom.json"
-hash = "003c7b4440cc4f923fb1cbcc5e0558d8b160adb5fbdc0261f25b035cf7699cce"
+hash = "6fd5b46249f22d5dfbf5e2f0ec7968893b121e98fb82e36ede4a9bd1fbc029b0"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_trapdoor_open.json"
-hash = "eb6af5e884ae8c3573984b12cc18f0b5278c1953983021fc377d1405ef347a49"
+hash = "fc3e146619eeb092fd025ef778f577edce3e203acb2b7c2a7d80daa3e9fbc1db"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/mangrove_trapdoor_top.json"
-hash = "0d3923a24c68a0b767556626037cf8389fb28f9bfc87c9d08fde2a481c9b8c3c"
+hash = "732e41efe529c5e17cf44cd5b96904084c7db57782b7eef7558ccbb4a0a6cc95"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/medium_amethyst_bud.json"
@@ -2358,7 +2528,7 @@ hash = "58205ad8491c101242f4f20a5942db84a9a883c6ddcf4efd4ce3fc2cb036845e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_bottom_left.json"
-hash = "42673e97655c135c3ad775985a2ec281df7a08f66f6bfcec2782b74c12202338"
+hash = "814fca3eb1ccc318ddab7848313d3a1c00a914a2934732be749265b885349379"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_bottom_left_open.json"
@@ -2366,7 +2536,7 @@ hash = "bec47bf91f2d974922d1e17d3c63eaa69df9830b8b66d07ac60f5db3ccc4e25e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_bottom_right.json"
-hash = "ece9b0de585792709cc9ab04752afd8bcd91a1266e1b2eb9f046078ce69b9b40"
+hash = "f6f5bf4a16db87433c51e9878eaffd3e25b1aae72fcc62e6404f8a349cbe79c6"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_bottom_right_open.json"
@@ -2374,7 +2544,7 @@ hash = "a969886d119de8407893812181c3138e7ad20fd9501574bf5d8fe8b9d9685fe5"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_top_left.json"
-hash = "13d9043994e9aaea104a8fc532be8d4308d2c9589e0a24227e905b32aeb080f2"
+hash = "ebc71926d40e817fc47b60313ecb9de760c95a2bf1ca9478fcab8f5d86a34fbb"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_top_left_open.json"
@@ -2382,7 +2552,7 @@ hash = "33989dcbc8fddc01342b08b2d4a6640fc9343ee5307172e07751647f137268cb"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_top_right.json"
-hash = "5bcf2d80b38283a96e1a4a382341d73c28994b42649e7c3390595883058a38e8"
+hash = "380f00e5166119f3c63a301641b4e067e5a7fff51912ac34a2cb2742dd0266aa"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_door_top_right_open.json"
@@ -2390,15 +2560,103 @@ hash = "af8beacf99cb17dbc19e34a60e66d07985e890e6c3a99b64a7e000e878af85da"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_trapdoor_bottom.json"
-hash = "95ce1246a45ff613a067fe7965fd87da85db0dddd5fb0c6ed178508985d47ef7"
+hash = "3427e18b3ca49dcf79fc340e3e4458eee5043ac1bc7b62c2cdab9bad203a7876"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_trapdoor_open.json"
-hash = "33dd09422adf30474c0e066da9076bae564f4b682f1e52ae7c6b47b774c124dd"
+hash = "9c74970ee39751c0812a6074bf0fb744bf4f28547676f930ea46ca0ca14797db"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/oak_trapdoor_top.json"
-hash = "05e2a5e0a86f4ebdf8b9db84c37399b59f09ea827a69a8d75bb4d0ca7cc95e96"
+hash = "1a395f3b0b053d40c8f71beff2215f42f9c13e50d37e97ddd3c6c2215cf8d1eb"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_bottom_left.json"
+hash = "eb746fbf2837b1eb443569edd61de79d09c6ebb1983a7459ebdaeb3bff4bd7ee"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_bottom_left_open.json"
+hash = "372dc7d389420fb690062a218793cacfa1e05631ba61040af41f153056b8d912"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_bottom_right.json"
+hash = "e1e80b53292dd7dbd8dcc290101972bcc617bd548d907538f2a99ca61ce02475"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_bottom_right_open.json"
+hash = "005aabd46b738d84efac1fd9e7e946670d6f4d38b27cf49502641b8048b6cccc"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_top_left.json"
+hash = "64ee7e0a1fb318b98dfe5c64a76a487210bbab6411c27d59f566cca98ebeaa75"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_top_left_open.json"
+hash = "e19eb6c5c2be562d861856752bf8bf0197417baa951196cf0e3f202f29dc2af0"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_top_right.json"
+hash = "4074d3e83db4170e4ada403a55e26c2bc07355635f30a1bfd0c78d620fed0a33"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_door_top_right_open.json"
+hash = "d3d23fc5840f1dfdea8f30591d73e2f2716fe38c6a5c7fd173f2df8946911b17"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_trapdoor_bottom.json"
+hash = "5912c3bfacaf154c5614d58b3eb64ed967683480bfc018dfb4666bff2bf3751a"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_trapdoor_open.json"
+hash = "6f14a0c842360e1b51066823c8cc1e8ca1c6a4db475a77074d28cc4b9ddee2cb"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/oxidized_copper_trapdoor_top.json"
+hash = "ff991b760b1550cd42d945b96aec257bb2df491e9fe0c35b7486fded825a1ce1"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_bottom_left.json"
+hash = "3b3d69e38f89ef0c8bd6801f424c2cdcfe4bd0b188b6c315a5f34660de81475d"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_bottom_left_open.json"
+hash = "89bd4445a69cc398762fb3ef6226acb0e3f3410f30f3cf76726e5fc929138b13"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_bottom_right.json"
+hash = "6f2d101d4b238aa98000c1c91699314526e1d50af6b52f293938061efbf58c68"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_bottom_right_open.json"
+hash = "1d7e424ad03d9b11d78cde1cbdd0a081a2884ebcdc2418f859ccf90f19cab6af"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_top_left.json"
+hash = "85cd97a6be76bd54bc168323cccac0334b44f722850198dacc3f4875a79db007"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_top_left_open.json"
+hash = "1778ade70ff6d2432e97c96affbf5d4f5bb67788d5670578b5e6b02a770173d3"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_top_right.json"
+hash = "b655be8a7cd8afd45bf545a3c6f4b24fb2577d52f93a267625b815e77834b53b"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_door_top_right_open.json"
+hash = "498e8f8aedde9a2ea7cf11a095d11b5252310bfebf49c25f8841964abbac4a62"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_trapdoor_bottom.json"
+hash = "27d9628142498f389e82b9dcb841d750ccfb6600b24958f4247bc93fd47cc35a"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_trapdoor_open.json"
+hash = "08dc8012e294bd7abc54f89e9eb22967fdb67261830a183f2199873dc5ff9acb"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/pale_oak_trapdoor_top.json"
+hash = "cc2a663ea5688318735e01c2a062d6732af930e6fa3c8b2be7cdd0ef01118c51"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/piston_head.json"
@@ -2410,7 +2668,7 @@ hash = "5d3b6caf3eb04e30f1b04fd640f55be103126ebeecbccedfb8b089ba9423cd11"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone.json"
-hash = "f6edfdb4fe5f65fc315ce64e54d9f9abecbc266a3ac446026f9a3289534c0c5b"
+hash = "34d1ba1a6d9505fe3224fa7f4a2637f09b4c73b0c9d2120a922635cab9fc7c9e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_down_base.json"
@@ -2418,7 +2676,7 @@ hash = "e5319deebb39e77ac5e4bf00c60a288953616fe8c8dc882c8ca73904411aceb8"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_down_frustum.json"
-hash = "6ca6ef6d3f9eebb6c87871a88332429ed9ce5dfec39b3154baf4299e8bba00bc"
+hash = "2034b5a9ee10e81870bdbd36486a0c3dcae9ba2b848c51c7acf4d00cf3a4e389"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_down_middle.json"
@@ -2426,31 +2684,31 @@ hash = "1f7e958ad34b193678428608109d7192fa59e29d2a02d915a863b28501cf0e1f"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_down_tip.json"
-hash = "0df92b8b6053f40d198a8d76dbe7e008eb7f8cbd417c543faac29dbc53efb1f3"
+hash = "c0b25ef0b267cbc091dcf8b9f78f17f6d62993044b0bcd2b9342e85434faae16"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_down_tip_merge.json"
-hash = "79232437e77399d4f53c2a55bb197250cb9682429ce88775c7ce59384be4917c"
+hash = "147960d8b0849657c85317be4ce223d55e1da1a3ba72c10b2ebd4fc24b6a6be9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_up_base.json"
-hash = "42092ed8a50d6deea2221e27e5013645e52196d5569cc010366867e8191e36e5"
+hash = "4b7c78efea34d48ef9567ff48bdde1948068ea3f0555bce063155843c37e6551"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_up_frustum.json"
-hash = "24d1a77187efd8d946b39777422eef27827b52d10711dcbb20f6e9a1a43e7eef"
+hash = "ce2509d60e382f8bff9c0512a57c81b2620a1b2ec04c78157c4eb5f2bf0b7b7c"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_up_middle.json"
-hash = "7621f78308d9fbcaf317d20adb743b87fe0a84cb066a7d939910ed8735fd99ec"
+hash = "477eddb63fa3fe0cac430f9ae50a5054ccbaa661b4c5b2d77de26347af45c7b8"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_up_tip.json"
-hash = "f6edfdb4fe5f65fc315ce64e54d9f9abecbc266a3ac446026f9a3289534c0c5b"
+hash = "34d1ba1a6d9505fe3224fa7f4a2637f09b4c73b0c9d2120a922635cab9fc7c9e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/pointed_dripstone_up_tip_merge.json"
-hash = "6316505ce4fdda83e304f8c096aee47ca05100fb28776cc249f5a2e52fe51787"
+hash = "cf0655b442ff154d811b7fb5ccba9515a4600aeea436dfbc97b2a3eb8597ded8"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/potted_brown_mushroom.json"
@@ -2542,7 +2800,7 @@ hash = "5b419f2b4868edd9a60e6da37d237228055152488a853a64a985d37cc055e6c8"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_bottom_left.json"
-hash = "11c67b01dcd17f0540e82dd3d9a192bb7ac16e4f7b5924ca5cdea7da00c4af9e"
+hash = "d55d85d194e7a5b92e3468a04cfc6cdff209126ed8458b0cc25fd62fe56f50d0"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_bottom_left_open.json"
@@ -2550,7 +2808,7 @@ hash = "114121730711bac525aa98d1844f40260d2714367fc278297bf5710e10c1f940"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_bottom_right.json"
-hash = "9e15fff224495bac7300e05424340fdf2c0680f0c7842614c1fca8cb831c5338"
+hash = "88d5aacd56ea7493062afd82ae2cc1ebd1e9db1b9d9f776e8b9e3e61f39091b2"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_bottom_right_open.json"
@@ -2558,7 +2816,7 @@ hash = "9b527ca6322d473871fc9eec86d96011b0201c3d502bec76e042c92df1f517b9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_top_left.json"
-hash = "3f7f46c5a15894c7b52ceb000e1cd77aa8c7ef3048fc8c40023b900ef6a3fa9c"
+hash = "f00f518a1ae5b4878d28d32739344617d223f3f108e4b8704d4cb606479e3429"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_top_left_open.json"
@@ -2566,7 +2824,7 @@ hash = "66492860a96d58bd3cb756a8dbc0135a0041ef06a0a2dc3cd705435ca88c10b6"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_top_right.json"
-hash = "1f5b6ce707b636af1c963e854e0f364adfb4f011aa0d19ce882c34edae3033e2"
+hash = "48f506ee89c87e8225d25e23af803a92b30d36812c7a6ab0251657c79760a68a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_door_top_right_open.json"
@@ -2574,15 +2832,15 @@ hash = "f4d5738d17a1cb32ae85b58a74ed16e66888232f0445e4fb92d7968055240961"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_trapdoor_bottom.json"
-hash = "6aabc7eaa23252a03ba921f151d0680164d57cdeb25b18cdf432f0f9837df269"
+hash = "fe6b9a7fe7a438adcff84dbbf03aaaf994b289d562f97d805d34b419952799b4"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_trapdoor_open.json"
-hash = "4aa7f18bf44e6c9039c6bf7bbcc6ac3dfbcf71c2771b4980f1c905121fd44baf"
+hash = "7ec65eb346de8f1d8c9543343b21eb0d2081640af469043ccf2727ef718c87ca"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/spruce_trapdoor_top.json"
-hash = "fee9b644d6f8ee9e88b281cd29368be274003e56c3d88e64e64f0442087f1d7b"
+hash = "4bcd5bca00ec4d2814d167036f3f17cf0baa31c0d711d7b9a0e451b0fce94149"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/stonecutter.json"
@@ -2606,7 +2864,7 @@ hash = "da7729606c01efb7cbbb2d68f9342a42f699e60771b2dd5302364931e0d25a1b"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_bottom_left.json"
-hash = "d5f372b8f963f856e3ccbb4f003b5f78b703538b341d69277ef5a7dda8ea4ee2"
+hash = "d201cf9143f391055df04cc450e92f9d935373c9412d36c091373565466df0a1"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_bottom_left_open.json"
@@ -2614,7 +2872,7 @@ hash = "bb8336dc33a82f975ec89b9b36b2e638420482e96886649808b3b7c0e65fe244"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_bottom_right.json"
-hash = "5588492fbc0e5c38b633b197a7e87f8b9667ffbcd440ca6107f310263677001e"
+hash = "32106f445871ee29dfa80426300ea8ddabeb003336b835c0e5b1c392955840a9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_bottom_right_open.json"
@@ -2622,7 +2880,7 @@ hash = "15208970ccb01ab9dfa0405e55f171ee318a9b77d79733e2baa94769b161e5ed"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_top_left.json"
-hash = "df19f77b5673cdc9d57da409526decc639e447c319210cf7e288399ab0cae748"
+hash = "ea4ff2b0e9642d2dfa5e8235211ffcec74a6c7d862247b169842950987fc615e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_top_left_open.json"
@@ -2630,7 +2888,7 @@ hash = "a5661cd056bc9aa76c71be6734b9b2f78e8c5c709d1cba6de0d55a00f871afe7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_top_right.json"
-hash = "e7291656010b7cd2ee6c4128c84e9972c7681251e2739a1251c35e163db86880"
+hash = "21988e064c334d197b199982a80372abc8982b5331b249a27127861cda373212"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_door_top_right_open.json"
@@ -2646,15 +2904,59 @@ hash = "4844963b2deb681abf97a39dce18876521c04509600de2cc2769c10806ca1558"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_trapdoor_bottom.json"
-hash = "e02f1e6c59460e210f26d00ba6b812a880b66456f63d9176027c71f0f556ff1b"
+hash = "fdbc241c5780d8778adf026e586b92fb556ee2526f94760e4be790210f3b53ea"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_trapdoor_open.json"
-hash = "73afdd55420f15e0fb9aabc4dde2d019d1d50537b868a121b5cea4d907b2235a"
+hash = "fb598c9aad28bf2b15f2fdb45b65298e4aca55c6f49a51573ba8624bed6d1982"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/block/warped_trapdoor_top.json"
-hash = "3d53fdf5e4af0c6abe78bb07d8d27809badca3bad0b43cca0faf5e74aacb5b29"
+hash = "6ac2d43e472b7da028de461ccc54994d3a2b3d8546f559a49f43940e89248ed4"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_bottom_left.json"
+hash = "b6c3e0e1340fbe87f80e730b2d8576ebd98272f8f90d265ef08f0096b22d137e"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_bottom_left_open.json"
+hash = "4e6154df2ec166075c4efc39cd7a72ad95576e5d94fe87b1b8c550e189fc9ec3"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_bottom_right.json"
+hash = "80ab0212d23c8ed3f66333436fac061dd790fe4139c42922513a82130bdac036"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_bottom_right_open.json"
+hash = "d315bbdf60b9e1a59e62be2181d0e5713ed642147721e567cc4e2afc7c567e56"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_top_left.json"
+hash = "b90a1d15d17538ec0e3fed9f7aedfc80a674b64479c58dbf80d40805de54f40e"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_top_left_open.json"
+hash = "c627be068f301f09f5a3f6383371baae968ab8c456b7dcfd6f78c6e5db937139"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_top_right.json"
+hash = "75e81fcbec7ff4283fbfceb89deefc5a4ad82fb67c7ec032c4bb1cc74db62331"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_door_top_right_open.json"
+hash = "5f5171b0ee5d20a54b79f7288102bd20942578a9109bcf5b7be9b856e355b666"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_trapdoor_bottom.json"
+hash = "bc7424b0d5d5b591249364897b863d08cd84d7442bae631e6411bb86f0df3e91"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_trapdoor_open.json"
+hash = "294152a63f825ff0ac7d456abe4a05f6116a2e16f7a8b16f4220a4df8c9f29d3"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/block/weathered_copper_trapdoor_top.json"
+hash = "b1f51d8c2801c40646321a239a8c3a5f28c9a8daffbfcdd04a1beb3025944a7d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/acacia_boat.json"
@@ -2666,7 +2968,7 @@ hash = "c6f4bd3054f20fe196c2d0773cabe7b1809d45cba030b7f7196dc751b91ad235"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/acacia_door.json"
-hash = "1b48f996286b62e47a6f02a2758084222aa8cf4d8c01b2d7df6125e53509d27b"
+hash = "2e8eeec80d48e889fa6b27f30c93fe1164d59e5f9863bb95dbdd4ca52b6daa57"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/acacia_hanging_sign.json"
@@ -2685,12 +2987,20 @@ file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo.json"
 hash = "ad9956855a9d51bae6bafa4e00554f5f0969ef78d008ea32f5a13da5986bf96a"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo_chest_raft.json"
+hash = "569aada62bed3afc717502bd3d28d2505961f5d89522d0d10632f483987c8311"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo_door.json"
-hash = "e98075258a48f9a762cd3f9e4e64d6437303c9da521c8655d849f16c66bdf001"
+hash = "5047f21e19f0950ef32ca4526e116a38917417a759ccfa904557b4a907041645"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo_hanging_sign.json"
 hash = "17f3cfa643769da4c2cf17aef87a61795340842c70fbd2473fb0458a6e83a9d9"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo_raft.json"
+hash = "ed85949d48ea2815fac8e8b6ef7ccee704a304c55d24da1dcb5046e25f290053"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/bamboo_sign.json"
@@ -2710,7 +3020,7 @@ hash = "a1705f5e5bedaa655563eff17c0c0ccb59103c45b92498d80d1e78012078517e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/birch_door.json"
-hash = "0b16ea0bfcfe7c955dee72ed2c403537e7b75901f5c0d6070586f5f6da8d89e7"
+hash = "791f0ee69e67fc7947eb97bdd45b435d16c677c6f2a2d2bc56f9489e11326256"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/birch_hanging_sign.json"
@@ -2738,7 +3048,7 @@ hash = "ea4f8f32eb7b4f461076b70fe965175b8172fa2550ba3fab74c44d10b1918c3a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/boat.json"
-hash = "e9e78ed187d5529e7f2918ce7a1a3116925db92bdbddcb4ac97d5b8421b3dd9b"
+hash = "238bd31047b8e76f42bb1dd5317519318b8779b239843b07c89364bf6b3c367f"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/brewing_stand.json"
@@ -2773,8 +3083,16 @@ file = "resourcepacks/+fun/assets/minecraft/models/item/cauldron.json"
 hash = "c9143ce8a620fa4dc92850ea1d867df22a1891f7c3c895333c80c4b917166d70"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/cherry_boat.json"
+hash = "24e63ccd44cd5bcc991b1e34956b8c0816177972c082ecf75a91ebfe5e162b60"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/cherry_chest_boat.json"
+hash = "6c860c2cc02eb49da0f51235fd730578cab67e8beffd395d7aa3040ecf869cb8"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/cherry_door.json"
-hash = "8bba5a750a9d5846baf102fabb3d7722231e67884c66579622135ac7db50e3eb"
+hash = "815da881f344a95907af5e2ccfe5a3963141484c594bdfd6635c3cfb3165f730"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/cherry_hanging_sign.json"
@@ -2786,7 +3104,7 @@ hash = "0b0cf5fe14529ba1f1d241ecd563ca01687e9790d46c50403ebb3148c6dd36de"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/chest_boat.json"
-hash = "bb7a8108142954b559b601d94b514100e2dd502101a301dc62113231d9ee14a8"
+hash = "79466ba01375b956f5cf401e52b3b88de8b349e97fd6b02a10036c42ee313d31"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/chest_minecart.json"
@@ -2805,8 +3123,12 @@ file = "resourcepacks/+fun/assets/minecraft/models/item/comparator.json"
 hash = "49f413ff440dfff951b2a26384ecd7c40f7c30103b4a70578795e04b62cb388c"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/copper_door.json"
+hash = "8b8233b438ef62a9f38037f326f222e81b201a8e59bc318d93ab164e3dea6ea2"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/crimson_door.json"
-hash = "8b76cd54d38388009611d5e3aafe83118dfe4209f812107d6d6b1c21fc0a6bfa"
+hash = "ea71a1fabb9305a176bfd3be74e5255f68347d8aab3fca2ee1d6c6b9f1ca4c94"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/crimson_fungus.json"
@@ -2838,7 +3160,7 @@ hash = "126b8af014443324069bd4e3a9bad2467b04989112b80150f9c778fda83caf7c"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/dark_oak_door.json"
-hash = "fc0f5c31e7573a245c92e1817701621a74fa7fa1d90e0502d18b1688936e2a8d"
+hash = "54910398a3c489fbedc759caaf6389e2c62abc076063d326fff651c613b95337"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/dark_oak_hanging_sign.json"
@@ -2850,7 +3172,11 @@ hash = "30a159337c0c547a06d1f9be53b9ee03ce086b7bf5ea99db66140db4b50496c9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/door.json"
-hash = "ceeb730ad348637d4ded37f7ee37be236d31c2a653f16772cde5e6fd25365b9d"
+hash = "568e161c2c8f9da042ba28b080ba9eee6cabc57132aeaacf25896012f0f85531"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/exposed_copper_door.json"
+hash = "e476e9ad71306c6b864da0f3c24c0820c3f198fa53cf86233317275d97622677"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/flower_pot.json"
@@ -2890,7 +3216,7 @@ hash = "8d18c688f2f8908431951c1a9b9951c34436cda32294f74521d17e43bc322a56"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/iron_door.json"
-hash = "a025c9257b5873a4d0bb9f5a1e15d705954f3c210bd336147e016a19ced915cc"
+hash = "00b70d0a29cba66a43483429c96f48f1b1ea395e2f2ad31eea09edcba6803e65"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/jungle_boat.json"
@@ -2902,7 +3228,7 @@ hash = "8135c06225811e63c6f96dcef017108f80668c03bbad56a7c66ba3a0a937d498"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/jungle_door.json"
-hash = "e7ae643bd9d08e69974ce4d741d8b03bd43c999053024cce874dedce76c6cc78"
+hash = "2807f861bac0897539ad4795eeda6183aa9c69402091e587ea8f4e74f486f1e7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/jungle_hanging_sign.json"
@@ -2966,7 +3292,7 @@ hash = "f6bd1d0893afe7e2423e7bf012733ce4ac8f4b4b0823a2fef86f643c8c7b7c4a"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/mangrove_door.json"
-hash = "c27b44fb0119de50b4f7bf4698fc0261da5dec9ac8cf06dafc2c6e40e1180b71"
+hash = "76fd2f39677743c1f7ee6db9c3358daa155f56ec30b1bc4aa6993ffabbf0da7d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/mangrove_hanging_sign.json"
@@ -2994,7 +3320,7 @@ hash = "17630fa42b13b16a50ea83bbbe6a0e32fa80a1472b305f875442d7c7ef130a2d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/oak_door.json"
-hash = "faf97efaa0a0090cbeba6b62dd01b4133bcc4096feabe45363064cad86ad752a"
+hash = "2e69b285b638241a6df008afb55d8695992b709d3c126ece736583af4c35f1d3"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/oak_hanging_sign.json"
@@ -3011,6 +3337,30 @@ hash = "24266d9f8bcd4c9e0c776b34102927942572cecc538aa7f195be53be42edd771"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/orange_candle.json"
 hash = "0a909d0996d5cbb09b3d83db51aff5d21e64a71a88e6c0298423485beb896502"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/oxidized_copper_door.json"
+hash = "755f3174781f9fa27887b308bfbddde0f9791a1b90e3731e893dfdb9064c4347"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/pale_oak_boat.json"
+hash = "f0fb77af07fa2c9ed4b28a5781538cbdc917fcdd986c1bbf0241e1a22589ef49"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/pale_oak_chest_boat.json"
+hash = "3bc68f1dcec587a913cd89ee2510b94ee61835186fb8939111fdf481c4c65178"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/pale_oak_door.json"
+hash = "2f636301348ed28b934d92fe537658fc2e821e447bf372c43c3932478217ee37"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/pale_oak_hanging_sign.json"
+hash = "bf8d5b1ff4e433e4dcd32fa771d8f2465d8b78fd6470804cab14ebb14da5d9bf"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/pale_oak_sign.json"
+hash = "cdc90994b38f933a286ef0d92bfd29dc0edeeac1621e53e62bade251bdcb689e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/pink_bed.json"
@@ -3094,7 +3444,7 @@ hash = "2bc56dce9e1e11b93b9995704eb14719965344dd022014764b86f7860b463771"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/spruce_door.json"
-hash = "6001be83a78cbceb48e28c80e57944bc689270d872ffbf86e861ff106ec09d1e"
+hash = "6d4e9ba2de3d79b36e8420ea1549a8cdbf3d1be64abe3a3e0e8d23b1c63bf9a7"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/spruce_hanging_sign.json"
@@ -3130,7 +3480,7 @@ hash = "4136f8d8a148b8b92fb73a5a496239d6e6ae98a3d10073b7238f5d259c431bb6"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/warped_door.json"
-hash = "120090eecdab73f7497d408732db90a485fae1402eb002892b02e88787ae5d90"
+hash = "cd5fbe6fbc6a551a8d855d59bbd113f41a76b541464e594d2f62e80bfaeb65d4"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/warped_fungus.json"
@@ -3143,6 +3493,10 @@ hash = "6a5bcb8fe3d710616109e61e77d16a2e9e6f8c6fa54311ef7db5e04829e5dfab"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/warped_sign.json"
 hash = "9a9e47271216e714d3db2cc9265a3e407e6f5ce1986008e88ee0421f9e9f0fba"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/models/item/weathered_copper_door.json"
+hash = "62827dadda177c070878f7b2f5db947541e52755e3b457bca2cc5d36ddc0af48"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/models/item/white_bed.json"
@@ -3161,6 +3515,10 @@ file = "resourcepacks/+fun/assets/minecraft/models/item/yellow_candle.json"
 hash = "53db9263e4b788706cc2c203eb2eb53f817fd19f1f94dfbef5b6ed1eefbc1553"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/optifine/cem/hanging_sign.jem"
+hash = "6c838d3278a205eb83984f59b7c700fbea97f0266acb7ec39b32fdecd84404d4"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/shaders/core/position.fsh"
 hash = "fdc15237dbbce2611bc55b72d95824358d98a616b26a289c21deb6888c9518bf"
 
@@ -3170,15 +3528,19 @@ hash = "3112dbb0f0e142da2a26948d8e833622f7df869b1bcae1f440525810e8cafd78"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/shaders/core/position.vsh"
-hash = "f4e0ec84586d4d67821d615bd2705740efd4d4f4aaa47096d54df09eeba71498"
+hash = "24f8175669e11cde6ede607a4f624049ab5643280cf748bc993ef6cb3f2deaf9"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/shaders/core/position_color.fsh"
-hash = "a75ac7a197001b8e3e29aa0b71f8cf52415b12a08e517bd599d13e1d69fa72f8"
+file = "resourcepacks/+fun/assets/minecraft/shaders/core/rendertype_gui_overlay.fsh"
+hash = "0d4b40adba83bc5251ea7e02a2f6466775b4a5d33f084eb501eb9561bd2a6efb"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/shaders/core/position_color.vsh"
-hash = "4cc7f944c0f042c242b15915622962e1ac5660c8d0d3c29cdbf6d3d1fe616cb3"
+file = "resourcepacks/+fun/assets/minecraft/shaders/core/rendertype_gui_overlay.vsh"
+hash = "8780ab3f91291aaeba1f745851db4d0580e9f5524054693e04610fa7f1308299"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/acacia_door_sides.png"
+hash = "69c38f73f8cb2f68d2fdff625b091344ddd86546f2ce3e1a8a327a4de87bf5dc"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/acacia_fixes.png"
@@ -3187,6 +3549,10 @@ hash = "9d33060b3fc031fb2afbd64ccc2e0097bf79916b027a88d18ff75765aca116a8"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/acacia_log_top.png"
 hash = "0bd7670e60a506053154134813e352b181c63ca7ba38be09bd53ea7b49c1100c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/acacia_trapdoor_sides.png"
+hash = "b3387fffbedb5786ccaecf06e857ca57350b9b2c3ba44b851f497ce5c94e87a2"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/amethyst_cluster_dfx.png"
@@ -3209,12 +3575,32 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/ancient_debris_top.pn
 hash = "2e47b49f5a7faa2554aa99a14c35b169137eb55c0cc7d65fc820594163acfef9"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/block/bamboo_door_fixes.png"
+file = "resourcepacks/+fun/assets/minecraft/textures/block/bamboo_door_blank.png"
 hash = "63ec0338755460afa8fcffa87e15f8123f5c240cf29218ca5d40b5f8b6c72931"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/bamboo_door_sides.png"
+hash = "91e2de16b42b6b0feaef810dd53859a8d52eb34e7a6c150e0e63f9f6b905f7e8"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/birch_door_sides.png"
+hash = "1b283df7c520b42836ba5f9ecd4679f12204409755991971f73e060080181e26"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/birch_log_top.png"
 hash = "11fe56825427b9562a81085d7f7b88bc3844b024bfaaaee020e6ad6a00c8f939"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/birch_trapdoor_sides.png"
+hash = "fc0492ba158826073a83e0729b27c6e4480483e581e866b77c1927d2c0bcdd34"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/black_shulker_box.png"
+hash = "28efdb20639c9544a2926fbff791a57662cef3f363057928c6f93abdaed11ba2"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/blue_shulker_box.png"
+hash = "fb3f4137c2268dc5db08a406b27e3ebc9cf18bca4e45a0b1e68d258592b48bad"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/bookshelf.png"
@@ -3229,16 +3615,28 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/brown_mushroom_dfx.pn
 hash = "c3356162c96088207f838c606a2e0e1ae52a0edfd4ba7ea8fb657956d77a41cf"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/brown_shulker_box.png"
+hash = "326f003327a7257ea02b46282a2cfea056555141ef4c88f64027eb87aa2ff4f7"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/cherry_door_blank.png"
 hash = "8a453e41614ae68d4b22e3a68ad32bb9e851010b06c3882992c91eb6c5080320"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/cherry_door_handle.png"
-hash = "562899563397e9358d365fceb76fc1cb6fd4f345ab155fa10b43a15e3a404387"
+hash = "90fcb86eb9c19c5560f8ca41dcbc21b37308c5d768cff9db0168671f3e1c63c0"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/cherry_door_sides.png"
+hash = "b3bf4e3b70e94a114f5aefc95cd87130d3615e046eebfaea858e7288e60cada1"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/cherry_log_top.png"
 hash = "9f0457241f2cc58bee773cd28b7a16a9326273699d943232a36850678b1879ff"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/cherry_trapdoor_sides.png"
+hash = "d7664380a4a62071737d457b768ca90f248095a1406c271d5acc69c448f12972"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/chiseled_bookshelf_book_ends.png"
@@ -3249,8 +3647,24 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/coal_ore.png"
 hash = "53ac8c160de5df63aed22b2bccfb8d7b88106f0c290b8d2434b62cf43e665752"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/copper_door_blank.png"
+hash = "fa90996cce92a707e0e9ee649831b653190a36290ce9a75b229dd8ffbe4294d9"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/copper_door_handle.png"
+hash = "71a1e394a40c99a3ecfc33874f727065ad254a06ee9994a7969ed5e3eb6a8868"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/copper_door_sides.png"
+hash = "be3681951ef9fa0d877e366a4b4e74d06dd5b73a9988708c3658b3324d80fffb"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/copper_ore.png"
 hash = "b79ee2a97635af134b9ca6622e8cb793bbb0b5a955bae7258bfde6ae65d60032"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/crimson_door_sides.png"
+hash = "8d7989e93e679a12af7802aceb8b87a1dd12cece43ad5f03ab6c68d74aa0046d"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/crimson_fungus_dfx.png"
@@ -3265,12 +3679,28 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/crimson_stem_top.png"
 hash = "cf475929b449e7b46460ed74bdff230979cb0780c265987945481a2a030ed57a"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/crimson_trapdoor_sides.png"
+hash = "75de88d70140d482f006b959c9f4ffe4c883698644cae86726c0307a9e300342"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/crying_obsidian.png"
 hash = "78830292d3b7180c8ef6dc36418f3d6a1b74516f00c4422ed995f90ef383421d"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/cyan_shulker_box.png"
+hash = "ac4715779965c78410f6c78ea6649496ad5acdbac680bac278af33889acbe772"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/dark_oak_door_sides.png"
+hash = "d9c5e055e845ff6cd6e88c5f994dbc6c6a9d2156ba3a5e78fab3d1f2e9141d9e"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/dark_oak_log_top.png"
 hash = "78bd264b19dbe134ada005878828912ee5e2f8b66a63404c1d0f942d4b6f1136"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/dark_oak_trapdoor_sides.png"
+hash = "41964dd31ce2f25caae26d76456bb7a4d4049ff87ed9d816de3b98e9a5cdaae1"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/deepslate_coal_ore.png"
@@ -3321,32 +3751,84 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/enchanting_table_side
 hash = "c0d34e48d4b86c8fb8eb59db3b1d19b8fd6e981aeacc2fe68d33307e1388a312"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/block/gilded_blackstone.png"
-hash = "5b07e1fa616cbe03b9e21b2cd6bf02eca5983225269fb69d3c37b196323061d3"
+file = "resourcepacks/+fun/assets/minecraft/textures/block/exposed_copper_door_blank.png"
+hash = "d8ecd6e0ef2b17ca6dce83c700e8bb742b81b2cc5e295bfa29a2cf934e86c071"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/block/glow_lichen.png"
-hash = "e2454a93bb6e6fa728943210eefa893480a010470a571d6cb80f4f8a95852781"
+file = "resourcepacks/+fun/assets/minecraft/textures/block/exposed_copper_door_sides.png"
+hash = "77b0af25c5d36f65d83e7a45af6fa0bdb8562e91e5fcf15db9f3b7ab03bf431c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/gilded_blackstone.png"
+hash = "5b07e1fa616cbe03b9e21b2cd6bf02eca5983225269fb69d3c37b196323061d3"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/gold_ore.png"
 hash = "58e4526b8cc0283f7c045fa0e1842e6f389bd2215f9b76e072501b592014328a"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/gray_shulker_box.png"
+hash = "b48772eb374f5822fa63f6d2e94a4169a1a812e736fb52f225c9e12deab089ff"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/green_shulker_box.png"
+hash = "e56399a419b9884d72905c3dbb0749fc9ffda3431246abc292b377e773f72b3f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/iron_door_sides.png"
+hash = "8b06305a764e9011f89d6d6c9978d79b1505fac1912cfa6cd0396032c3f9d70b"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/iron_ore.png"
 hash = "3e331c8969447f4ce17a5110fc8ec53447776ea11ffd59c27d34cea23ac30a6f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/iron_trapdoor_sides.png"
+hash = "171f0750de0c860e374dd0777ea3a9be4af76b7579fab9c4bca1714e0a8a90fe"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/jungle_door_sides.png"
+hash = "d9be461cead0114a19b9dd7a679cdce4f2cd5c70cb76dc3c092844011a6497e8"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/jungle_log_top.png"
 hash = "d01e1c46ccaad6664718d4e627c90e99d82a94a6e0c1da3ff778c160ba0c739e"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/jungle_trapdoor_sides.png"
+hash = "6a9c138765c10a256d9e896e0b7654b338e3088bb1487ff9f0b3a95ba6c2a981"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/lapis_ore.png"
 hash = "8b24c62d696530b2028b9242bb42352a80df5b1e327573d73052f7b15e1baeb3"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/light_blue_shulker_box.png"
+hash = "95a014abdf19401b301e8ed5797759ab943048c9e98f70cc54bc7884a626fcd8"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/light_gray_shulker_box.png"
+hash = "c3f0fd2df34faf7f3f96b7eeec58c6004e411306a44c57b4fb5495d5863f3ddd"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/lime_shulker_box.png"
+hash = "5c77379e4ca491a02ab6356d296b344f22f8717e358fd20a9cdec6b65ecbf35f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/magenta_shulker_box.png"
+hash = "69495828bc8617f09cf1b2c392b078a72c9d10de5075615598c149d5ec33f35a"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/mangrove_door_sides.png"
+hash = "9eba524a9a079296a0b3c175d858575e5eebdc76a4640e485e3b805b741e3822"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/mangrove_log_top.png"
 hash = "d3a06dcfca6fbf113ca3d084d3799a3ba9f41e08c881eb3d4bb44c68440ae740"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/mangrove_trapdoor_sides.png"
+hash = "205feada912b95ff27b88a9ec2485a8a87b7b1b2513b6ae2c6c856d0e804897e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/nether_gold_ore.png"
@@ -3357,12 +3839,52 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/nether_quartz_ore.png
 hash = "51fa63b4d8c0d79d8b8e4e10670aae8edcb4d1402fcc84b02c41310b21ae370f"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/oak_door_sides.png"
+hash = "bae691a4da1d411f0bf85d9c20184aca0439183d6ea3222abbcf50faa7e0e78d"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/oak_log_top.png"
 hash = "75a28ca6091d51b4d4e8b75013adb3507c2265508f36a3330262d76876cae0c2"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/oak_trapdoor_sides.png"
+hash = "fcbb0d080196e3ed5fa4e9493e763403f3c96befe1dc991f284d30c989e9cdf3"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/obsidian.png"
 hash = "5456fc99dd15a43e01fc34535ed6dff316795878fe3313fd2b2c2fd86511d5e9"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/orange_shulker_box.png"
+hash = "dc85a9e8d4ac4ecf364c76d27cca64fb87a00977b8005a165b78ab25d6703520"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/oxidized_copper_door_blank.png"
+hash = "e348d1715ab8e37b226b32d05c1d9b85796cc13181465c055cdf94bd596a4cb5"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/oxidized_copper_door_sides.png"
+hash = "fdce9a537e6c684935e9b22595003f499555c7f114ce135ce0d2ecf815599f20"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/pale_oak_door_bottom_blank.png"
+hash = "16fb52e67f357814719f8902a40f414ba885d3f8a052e273362279f0cd3f9c9c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/pale_oak_door_fixes.png"
+hash = "8a7830aa282331bbd5be5f2fac8275e6ab736bc8f4dfb07bb93640dde7b4399f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/pale_oak_door_sides.png"
+hash = "63db04be9130b4a02bcf960ebc258b793d954aee65bcd0b5faf332ebbc49d152"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/pale_oak_door_top_blank.png"
+hash = "e342d535e536a6bf062462bf90cf0cfa76dec1bee8de99f5f92d84dec323acf9"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/pink_shulker_box.png"
+hash = "5d55f60948c832b0a3babeafaa88eca656d0594edc23622de03db4842eba5bb5"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/piston_arm.png"
@@ -3393,8 +3915,16 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/pointed_dripstone_tip
 hash = "004a1cc5da70d5f4f281d77d3265a1671568e0f5cdb901035ecb83e0cf5038c4"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/purple_shulker_box.png"
+hash = "61c9d933ac90e74c0839bb468694d2a2373421da474d4cc5da418e127b42da6c"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/red_mushroom_dfx.png"
 hash = "a5cf040b6acff74cdc67b6ae19b32fe65deba83cc6c1e0c26afafa7b95752857"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/red_shulker_box.png"
+hash = "8b5cbeb2a9cb47a02b5357b98d4fb38af803293963f3fb0f0e605164585b17cf"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/redstone_ore.png"
@@ -3441,6 +3971,10 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/slime_block.png"
 hash = "2c0bad09dcfc2e608a33c809e283eba2859c860f16ec98e92c1a34fc264b4072"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/spruce_door_sides.png"
+hash = "866a0456bfd90dcbcf639076027b02d2a51cc062293857d332fb832e8b8ce887"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/spruce_log_top.png"
 hash = "cb418b7492c57fccd25506ae13a894630ccf12a011b316abce67ba4005e82291"
 
@@ -3478,7 +4012,7 @@ hash = "07cc4e491b69b24c3874be866869d3bf9304c079dd25601697f7082575dfce61"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/stripped_mangrove_log_top.png"
-hash = "43e9f9f7da128bdca9bbb42caf96c0196988966ea2ffddca3eceaecb70ad9f40"
+hash = "01585e4b5fe27adc5eabe987341411f15e9a9e235f6f487e06fb97a801912c02"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/stripped_oak_log_top.png"
@@ -3493,12 +4027,36 @@ file = "resourcepacks/+fun/assets/minecraft/textures/block/stripped_warped_stem_
 hash = "f8ba8d472a80866c2ae42e32fb60f6b57c6107d512cb3c3870e1a7fc31492757"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/warped_door_sides.png"
+hash = "82ed4ed1135505fc427fb141dda3dcd4a39e2009ec192c25960d29e81da1ffb5"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/warped_fungus_dfx.png"
 hash = "ff66d6176edf2b0b289472a3859d75c2823159420bc8bd570314865e796af1e9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/block/warped_stem_top.png"
 hash = "541d76803ff01a91526cb12ec5beb2aa170dabc7a45a7d014c712af955c4c281"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/warped_trapdoor_sides.png"
+hash = "0370f0402852b1275235637a88e6fc7bac9edea14c9403d285e75fa97ad8d8d6"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/weathered_copper_door_blank.png"
+hash = "ef94c8e83d2ce0fafa802d80f3a8a6ada2ea531ad5b7d42c816f80e06f3dc4d0"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/weathered_copper_door_sides.png"
+hash = "1f3a9c149e4ac66df235bcb199e44dbc2237ee2c9e117da287098cc743a1d034"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/white_shulker_box.png"
+hash = "b3011b0a0becca7825f8c23c0e70bef7bbb882d2445c38229be1d7b457f1a3a5"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/block/yellow_shulker_box.png"
+hash = "db71618f9426bd6ab835ffe683825aae780dd2646505c1510791b36e671bf0d1"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/axolotl/axolotl_blue.png"
@@ -3519,6 +4077,30 @@ hash = "91c5a1bf7a7c5deae2427d7792b3b0e0d917bc43db5dc325d357c205c0db5445"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/bee/bee_nectar.png"
 hash = "dc034281b565323adf6f67931b41c69ad1e56920e5cb54a900bdb3f55d75d682"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/equipment/humanoid/gold.png"
+hash = "9ed6b26f16c21f6c1a6b21581888ae2bd3a93436008a0ddccb0e9fff36c37a86"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/equipment/humanoid/leather_overlay.png"
+hash = "136c3eac790d9908fb2e7d0fda3259dbd41da67d890b29a4ed1e5032421fb9be"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/equipment/humanoid_leggings/leather_overlay.png"
+hash = "136c3eac790d9908fb2e7d0fda3259dbd41da67d890b29a4ed1e5032421fb9be"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/illager/evoker.png"
+hash = "49d6509d17d27a7c575c0dab642560e014812446c4203ef197b9e1fae9c1ffb5"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/illager/illusioner.png"
+hash = "5454d27d86f0c89aa8917bc719a20ff635c78077368b607ab39621128f95e84b"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/illager/pillager.png"
+hash = "f7f8661bf4c90ef762c0d45b12a91007b5144b962c36258d983ad722b2efaed5"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
@@ -3557,6 +4139,10 @@ file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_ligh
 hash = "bfc35b387f90a22d77e2e404c7a8bde5367c7f57cf42d49efd5f022a6d68591b"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_light_gray.png"
+hash = "f23c7d4ffc62a510c22755fa1bbc10684d7eb72c7e5c2f3966b31df36c4151f4"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_lime.png"
 hash = "2445ca4602f4831bac1ac4a2952881b20779d85b31d9800641172fcb5dc691cd"
 
@@ -3573,12 +4159,12 @@ file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_pink
 hash = "2ce18360a0496871b86030cd72671d8732ce619f02b1b4a163315032d5d4a750"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_red.png"
-hash = "188b077dbaba76465e12a0b1140de1e8a2e529ce7a522fd6c61245ab22807a36"
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_purple.png"
+hash = "87dc4ed0ce9476f75ffcb965bba972e26a9c25d3b3e31e8a0f12085afaca3e80"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_silver.png"
-hash = "f23c7d4ffc62a510c22755fa1bbc10684d7eb72c7e5c2f3966b31df36c4151f4"
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_red.png"
+hash = "188b077dbaba76465e12a0b1140de1e8a2e529ce7a522fd6c61245ab22807a36"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_white.png"
@@ -3587,6 +4173,54 @@ hash = "27f5a4e1c670744aa815ec1d5e241386c3cd4bb36223c1460878006e3a686a08"
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/shulker/shulker_yellow.png"
 hash = "fde2db68fc530d9d5e19a5e7ef7001cbbaa7bab03ccc551cf97d1e9241b18711"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/acacia.png"
+hash = "f689b34f1344de700cae3fc0181f6fa08854098df0a784be209311f44a057759"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/bamboo.png"
+hash = "862c6c4031d2f795c85727e860a12c12856aa77526fff46b7a79a0672951db36"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/birch.png"
+hash = "65d23e59ae15b3e406e67d00186778e46dbd8fa834b78b5dd14c9940f8ef8690"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/cherry.png"
+hash = "09e92e85aec3450e96473e5782ff56e2300dbaced7057372cc649dd7786fdec2"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/crimson.png"
+hash = "68fa72f011290a418cdeeba7249eed9f6b27a2bf3f9d280ea1ed80f9880cdd1b"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/dark_oak.png"
+hash = "8371ab132c4c0c46669848777849aab12e0fa33e0dd15a788ef89dd47c87f89a"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/jungle.png"
+hash = "60e5bacddc72fd7a087171f2ec0adcc33f06b18386836998f14f5315dd57fe6f"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/mangrove.png"
+hash = "675c2d86cab290b99b7261c8530061a313df15f86b6936a4dcfd63e1cb6be93c"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/oak.png"
+hash = "5c838d9670610d92e7680b15749fbe33ab8a5530a3248b39b1c8325fef955cfc"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/pale_oak.png"
+hash = "97bdf6090798289777e71f6bff51a709d093c3ec3a4edfb5bbfd53bf391d1446"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/spruce.png"
+hash = "3554298220c03661b8b78b529b7b1ab9ceeee629ffe75a491fa9de963c95a443"
+
+[[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/signs/hanging/warped.png"
+hash = "03aac60e684490a646f204249c773c7c0769f0843fb0c4b5d9f92a4b15b14f6e"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/entity/slime/slime.png"
@@ -3601,7 +4235,7 @@ file = "resourcepacks/+fun/assets/minecraft/textures/entity/villager/villager.pn
 hash = "41ac031fc55a6a45339739473da7227ff6ae342ff6d8fdfa0e6e3a0ddd5d6139"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/entity/villager/wandering_trader.png"
+file = "resourcepacks/+fun/assets/minecraft/textures/entity/wandering_trader.png"
 hash = "5f0ca4b196ff42dfc9dcd59b8e1610b89873788ecda1619022752d66d66efca2"
 
 [[files]]
@@ -3621,8 +4255,8 @@ file = "resourcepacks/+fun/assets/minecraft/textures/environment/sun.png"
 hash = "53c1a66f72b64863aa89715a5d42328b7f03f9a39fcb55784093f8d3cbb0ef76"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/gui/icons.png"
-hash = "c6f1d3962d60cca9eee2845c0ec192c4a78e7bd319512b8c69e86160c96b96c4"
+file = "resourcepacks/+fun/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
+hash = "85210a9ae6112fab18f80bac5d592bfd4628a5b8173953b52c6814f5245309c9"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -3657,20 +4291,16 @@ file = "resourcepacks/+fun/assets/minecraft/textures/item/black_bed.png"
 hash = "e04fa131e5df7b68f4b4b044a75dce5f49f17d7490b413ddbec81acda8a7037d"
 
 [[files]]
+file = "resourcepacks/+fun/assets/minecraft/textures/item/blue_axolotl_bucket.png"
+hash = "8063a1a2babd1fa8884780f928c09d8d44cebf3327a06d3626702091cf948c66"
+
+[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/item/blue_bed.png"
 hash = "1552d8751cab691f151e9097473763ec8c951b03e17cb45302dfed5486f0df53"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/item/brown_bed.png"
 hash = "90b3fe8a3b216f3586b86afe00f8145bf8f2a9f45c459ee346e071b435e4148e"
-
-[[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/item/campfire.png"
-hash = "00adbd0874e61ef51ad45398fabb6cfa47cc5f4fea616d6da080cb3abcb75288"
-
-[[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/item/campfire.png.mcmeta"
-hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/item/cyan_bed.png"
@@ -3789,14 +4419,6 @@ file = "resourcepacks/+fun/assets/minecraft/textures/item/slime_spawn_egg.png"
 hash = "e6fdb1477c2bd6913163c8dbc3dca01944b160ee0e96409604c13bffd517ceed"
 
 [[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/item/soul_campfire.png"
-hash = "b2cb2b0c693a03748c992981d7ffd36c85d898cc5415079fe143e188039f3690"
-
-[[files]]
-file = "resourcepacks/+fun/assets/minecraft/textures/item/soul_campfire.png.mcmeta"
-hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
-
-[[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/item/totem_of_undying.png"
 hash = "018c8c4d1940ea15756513584c39aa0a3b5b33643ff655a0ec4055ef8315ab85"
 
@@ -3822,7 +4444,7 @@ hash = "136c3eac790d9908fb2e7d0fda3259dbd41da67d890b29a4ed1e5032421fb9be"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
-hash = "07f2c47fe92a165adbf0f8c75eee4c2470bd411b9acb99e99b6ef1d909e8174f"
+hash = "a0c37b3cc32d08ad678d674286c88b670e1e609fe8ea21b0d57a5ab784eedd3c"
 
 [[files]]
 file = "resourcepacks/+fun/assets/minecraft/textures/models/armor/netherite_layer_1.png"
@@ -3937,216 +4559,132 @@ file = "resourcepacks/+fun/assets/minecraft/textures/particle/sga_z.png"
 hash = "f71badb4543fa60f49bafcd8aa897429b80e0f702aa461d2351ef8c02315b455"
 
 [[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/models/item/redstone_torch.json"
+hash = "807c2b4802d2933a80066bdfe112ac5ec16448724eb29bf16e833a45ae665599"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/position.fsh"
+hash = "fdc15237dbbce2611bc55b72d95824358d98a616b26a289c21deb6888c9518bf"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/position.json"
+hash = "dca7378f58be8662f38a542653d24982eca27ffabd6d3792b895b61fa0bbf813"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/position.vsh"
+hash = "24f8175669e11cde6ede607a4f624049ab5643280cf748bc993ef6cb3f2deaf9"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/rendertype_gui_overlay.fsh"
+hash = "0d4b40adba83bc5251ea7e02a2f6466775b4a5d33f084eb501eb9561bd2a6efb"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/rendertype_gui_overlay.json"
+hash = "6e7fe7dad41f9dabb6e69cd3d733dda5f68273f1ca152de403b3ad506f22b64a"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_42/assets/minecraft/shaders/core/rendertype_gui_overlay.vsh"
+hash = "8780ab3f91291aaeba1f745851db4d0580e9f5524054693e04610fa7f1308299"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/black_bed.json"
+hash = "3f087718470896ddf25119936f950b03ea6b5e620c9a15efb443411bf905af13"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/blue_bed.json"
+hash = "17802a61f84d76175240ef5e02b67b773d8c412ed4fcad1fdea6be5976a39f70"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/brown_bed.json"
+hash = "9faa5cbd06f4e3094b6f5ba65691172696d956dec3bbf1b37726e2c04a6cad44"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/cyan_bed.json"
+hash = "87e9b2259a2ef05a99f0a5eef3b23502c0321bbd83123a8c516982ea573e9d1d"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/gray_bed.json"
+hash = "f5f0806065368bddd589ae9298146eebd8369c45c94637aec4bcb06accdcbbbd"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/green_bed.json"
+hash = "78881b4ece21bd87b82bd5549cc7105727a52f3f87f20c8129d932d4471ae6c7"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/light_blue_bed.json"
+hash = "3c4e1d590f488fdc1c554d5515e0c559b1ff80812250cc6b20888874776c0381"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/light_gray_bed.json"
+hash = "b403c5835f8abd636b5668343b437212a084ac79b04922877778a807e39525f7"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/lime_bed.json"
+hash = "185da26821fc119eef1c14c56133dfc099574f3714f6ddd347d99202280e56b1"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/magenta_bed.json"
+hash = "b10232f2592e773dedd329a8f7f3f9f27b6784d21c0ff01912fe2e037872171f"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/orange_bed.json"
+hash = "cd460aac7de1840a599712429b8e2b62b080cd8f94e9cf8138d7fa8ff2fc013e"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/pink_bed.json"
+hash = "626fb0847457a136c228e0be7a10d6a9bb0cc6f1ac56f33273e8fb9afbceb96a"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/purple_bed.json"
+hash = "6517e5512f14a39fc205ddf94978ff8ba127790840317015645c2fdb64cfd15d"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/red_bed.json"
+hash = "18264804a6c60a52b1303d519c0cba649123c8fee33a134a62f540704cb4bdce"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/white_bed.json"
+hash = "6dad5a317fbbbfbdf476ba907c1e06a2d5305a3077f790d2add1485f97d16cd7"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/items/yellow_bed.json"
+hash = "70f4a460c6b94d2f5a5b4e309316e085d4ae7556c0e262ca01adbd4a6a2c3aa9"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/textures/block/pale_oak_log_top.png"
+hash = "cbf181411f0f0b9f38aebb23fd43c4f6d1d994b8016f0f74d4cdbd7dbb4be870"
+
+[[files]]
+file = "resourcepacks/+fun/overlay_46/assets/minecraft/textures/block/stripped_pale_oak_log_top.png"
+hash = "f9e43fe17805a8275a9fdd4bbf36e932ed0d3f689206e05db318c49a096d9b89"
+
+[[files]]
 file = "resourcepacks/+fun/pack.mcmeta"
-hash = "f4e8577db97a546893b5406e38a68c9ed0fb66c80f1d7fdf9f9e6f365c3c4a3f"
+hash = "5196eb2dfcb114bc3418029f4ab291b8280013c4c18d1f5e27c2b5c420e65744"
 
 [[files]]
 file = "resourcepacks/+fun/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "resourcepacks/+quiet redstone & carts/Selected Packs.txt"
-hash = "720cbf910bf4cd81bdb8a231dce5cb4f7b49b2a9772217660cce30ef1b89b56a"
+hash = "961a5bdf811e86b44db37d2ccfe452e91e77e5c263e1c93b763658dfdd16c22c"
 
 [[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break1.ogg"
-hash = "42ef6dc9d31e1ee07f67e2eb8f07e68cf95f38e69f50e55e9de6c13426150f31"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break2.ogg"
-hash = "d8db835322ac8e34585f4679f4f8f9254e5475d6dea4a377b8ebdb8d13b14939"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break3.ogg"
-hash = "96db6e0f465f457d6bb67d49e6a68acf3b8cdf90b421fc5c559d832f7d7014dd"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break4.ogg"
-hash = "1a07f63b4620d6f6d17966e9d5a196fa14b81ff6808da797412ce06a48a8dea5"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/break5.ogg"
-hash = "fd8adb6320d6a8de7c86b777796a647c062f47e610c79a3aed828437e670213d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place1.ogg"
-hash = "8107b128f681027aee71886d9880d998ef3380de5fa9e7d8c804741d61693bff"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place2.ogg"
-hash = "17a32af9968c38a6fe1f8352d63434f89c9fe36fc1e82df74be4e60e04c6737d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place3.ogg"
-hash = "78068e6cfdd8ea9e5a57789783f20ae9b70fed4365e1b18da0018c5997408d9a"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place4.ogg"
-hash = "bb4f5a9e95424ff0da68283e9f5cfd6b0012fb8570bb3e4e41b4c64ccae2911d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/place5.ogg"
-hash = "d22f12918b63c1dc0129c0d9aa07ef083b985198c7676f3db94bf13b37d9b853"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking1.ogg"
-hash = "efe20a9fcd7dfc593917ba1639b0ed4e5515e7063c5f49fd00d5082b01308d9d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking2.ogg"
-hash = "fe2e5a47b97aed10d8c4c3e25921a510ccbacc4c3a2b747169aef45e0fb221a9"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking3.ogg"
-hash = "2c3b1a4ddf2278b001630db66375f519d1e9241fabc3f3e6963e209f7786aab2"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking4.ogg"
-hash = "3423d1a256a12c335b6b9f3cbe56b4d395ed4fe1c1a2af2f2405ab3bdf247e2b"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking5.ogg"
-hash = "765a9f2d6f8017911cbcfb5746b192887094ab6b4cddfd6dc33891deb6d2a1a0"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking6.ogg"
-hash = "82ff045a0312f6d8e68c01234ea19b2046364e2257fe1c6035612bad5afbf7bf"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop1.ogg"
-hash = "680b583271d615855b9e813f4609ed346e30a011a5e6512d1746664ae9e77ac3"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop2.ogg"
-hash = "f1f83d848a481aee7b52e0d96b8f8ae2a75e4c7424b4cf460ca9e5cc11a62d27"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop3.ogg"
-hash = "34f9f823c9b423ba6abe846619727c5b1426de5ba175dd81f1fc7df1e5799b22"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop4.ogg"
-hash = "0ae8e48b126baf053aa211a8d2dbacf30c5aeee0757d297993fe55dd71eac1e5"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_sensor/sculk_clicking_stop5.ogg"
-hash = "6c0a6ae5a6f054e9f9def19a7226f6006815948280a9a3b7b255e50fcb5ee289"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break1.ogg"
-hash = "4764d11211f2d399138a602cd9d606f72e7f7bdb1e08617b3005da57bc1f1867"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break2.ogg"
-hash = "24eaa22eccdb675fd3b78c9bd2281dee545756d712f62e8713916c0910f3cefa"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break3.ogg"
-hash = "86742faa906a7766ac020f352d95a6ccb7e06072db9b0f027c1b5470dc2f63ce"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break4.ogg"
-hash = "0032b1259a3314b45c8b738470b6ca3caef7f838b125a54e1562042bf586f316"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break5.ogg"
-hash = "a8a3bcbb0c344a22789600a2d539fc74add9f7608e01c30b4fedd347e0b915d9"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/break6.ogg"
-hash = "9e1af019a825b67290ccc12bdb70a75a6c4d43a9f75c0269d9cf983948e4cb68"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place1.ogg"
-hash = "a38163fa0d6eaea62682720aa8eaf7b59a566c4612e417b3372cd2c3b6e93e31"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place2.ogg"
-hash = "17f03eed9c850efcb2f91a2cb6ff88a118538d78cc397a47d8e4a5fca28a0904"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place3.ogg"
-hash = "7ad12348d2bdd351d427702524bf649c8b9f2fb99d83f5c36efc0cc330a6f92f"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place4.ogg"
-hash = "c4522ad95c1ff823c40cda3ff73fe3c0d28d00ec89123d69ecd46d6f317db305"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/place5.ogg"
-hash = "fc37e7fd2efe1aa08e9a1b34d09d80afb18009ead6822435690d670df37762d6"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek1.ogg"
-hash = "812552a693c30dcfcde9c7e56a3712985d4b20e7fddba3c222e74cb05eb4f1a0"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek2.ogg"
-hash = "09d0642fdd9c408c6a47a01fc6e8f8d3750cd6c4b4f2d3e6dd392a22dce016ec"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek3.ogg"
-hash = "dc8cc7803519f4d42d33cd2ad96e1070bf7acc991b2cc6a1ea8c10a13ec7d888"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek4.ogg"
-hash = "4896316d0627790ff2727cee7695b2a5bcbfbccae280df9a33472250aa4ad96e"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/block/sculk_shrieker/shriek5.ogg"
-hash = "f37f147990fef8629832069a3eabfb8185dbce77f67b4f2da0db490e630cfdf3"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/liquid/water.ogg"
-hash = "cb6fe432a2766ec9c38c6533d64ac6872580dc27739196d7a178e26d2646ba79"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/minecart/base.ogg"
-hash = "d81eb47da9aab7543784d787c4657a4bdbbb80d47d7a768d3afbae476507b485"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/minecart/inside.ogg"
-hash = "09bd03c3c25e0b00292634d3a0a86e857115c4bf890dcb48a6609e70174a1ebb"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/click.ogg"
-hash = "87b50e37f51099629a899e8e9d25f0c4acc2f0b7d5c54713635bb515fdd2c16d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode1.ogg"
-hash = "7ab35ba1858d017297a3d635373be34a23e1c716f7ff26fb7e9ff7f044888f4d"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode2.ogg"
-hash = "31a3f27796682e402ae9e4de9b8ffa0b7ff8e3cac607e37fba72f0e091e9d0a6"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode3.ogg"
-hash = "c7342b102512d2b5a097c3dee4fb0a8c322ff1c22ed58e1e696036b30108e8f9"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/random/explode4.ogg"
-hash = "9e3eb23612d78e122178587e8759a508617418365f7ac3cd2b091d7850b08d9c"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/tile/piston/in.ogg"
-hash = "d573644fe1a7d31afc21e444db737bb05be6b734c81bfbbd927f580433ffce0f"
-
-[[files]]
-file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds/tile/piston/out.ogg"
-hash = "98795c70866bd3e3f076a91d49b89d465d78641ea062c87fe74cbfb2a00d65ea"
+file = "resourcepacks/+quiet redstone & carts/assets/minecraft/sounds.json"
+hash = "4cd590ae5d08f191cd82d7646115fae4d9dd248dfa03de2822e3f848b8d94264"
 
 [[files]]
 file = "resourcepacks/+quiet redstone & carts/pack.mcmeta"
-hash = "f4e8577db97a546893b5406e38a68c9ed0fb66c80f1d7fdf9f9e6f365c3c4a3f"
+hash = "8f8786f6c0a650634ab736c46825325ea5a40d534d37108c78a0b8f82c829945"
 
 [[files]]
 file = "resourcepacks/+quiet redstone & carts/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/Selected Packs.txt"
-hash = "63679cdb1df34521d3582878f19670cb4566f55cb9ff75e03a47a255681c8dbe"
+hash = "4672c914045058e900e8e338fe249dcbe2f4f8b02587db76e5fa46b8504330c3"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/amethyst_cluster.json"
@@ -4170,7 +4708,7 @@ hash = "4a1f54813c31d6cd8a75d8eae551ca7e11a0142043bacb985dd67b9a93ac8c47"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/note_block.json"
-hash = "5d7015bb2f9e9a4da3897c594269ce3f59e09b331e1d8a4b12a85ca840129b7f"
+hash = "6be78a3e157a15e143ef0ea0b773f4fcf654cb67c56f0045a48479eaf954ea7d"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/blockstates/powder_snow_cauldron.json"
@@ -4194,23 +4732,23 @@ hash = "aaf276a4c1b9f3cf9f6d48d2a8e582fdb0ce5a4c76e23fdf4e5bdb5648e6c584"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_au.json"
-hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+hash = "11305839d332313b04330a6598b0171b2d53bfec849d9c332028b06f06850491"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_ca.json"
-hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+hash = "11305839d332313b04330a6598b0171b2d53bfec849d9c332028b06f06850491"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_gb.json"
-hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+hash = "11305839d332313b04330a6598b0171b2d53bfec849d9c332028b06f06850491"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_nz.json"
-hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+hash = "11305839d332313b04330a6598b0171b2d53bfec849d9c332028b06f06850491"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/lang/en_us.json"
-hash = "5fa3b215ac709c42967066b914d2e925c883395371ef094214eed6d619168a4b"
+hash = "11305839d332313b04330a6598b0171b2d53bfec849d9c332028b06f06850491"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/aged_crop.json"
@@ -4338,7 +4876,7 @@ hash = "12e50246ff3b1260c2bb1f33497480a257861c580cc826d1e8944cedfec9f9d2"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/hopper_side.json"
-hash = "078470299c8ce97eb03dbdad67029df3a0f4c3efb4dffcdc3b7c2f38c6ac6661"
+hash = "295f82fdbb7ca16a94ed701fa7a89189ec14d9cd9b121522f841c33fd1218628"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/kelp_age_25.json"
@@ -4365,112 +4903,112 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/ne
 hash = "cb574e780ea784eae82cfc1d80e4898da5594fae23e093ca92928029dda6148c"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/0.json"
-hash = "df13390235415618f2a936bf1f1c9eee91e626570af354c26d18a050d124d678"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_0.json"
+hash = "ee5cdd34d13db80dba0137ac297032dbb4a4156851eaf106f76c0d3bacd66a3f"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/1.json"
-hash = "36264ac2b8db36f9d881e4c28d4662db0dadedcfa6c9591207fcf91591f108c4"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_1.json"
+hash = "ed6f8380abaf3df946302c9a56be6f1453d00fd63e121e830406eafcd033c28f"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/10.json"
-hash = "d59cf62a13c4e7ad33bb6c1d35332eab7954889b6806f53fa40ac6077bc06c2d"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_10.json"
+hash = "01a9e47f92b1d3aa1776040a5dbb310aa6b003d139331bee25c9279c11bfaf72"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/11.json"
-hash = "b1bb0b0b5d4ee08543e870d59a706d1bc5cfbd48eb873c3e3fc78dae06c52dc1"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_11.json"
+hash = "45704a4b6316747244911b00e34c671ef457802e971eb19df000ed428b70fd3e"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/12.json"
-hash = "c68d397d7d03ededdaa15ea6e4f6ed8aeca6f532fc9e82619425a1f0deb778d4"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_12.json"
+hash = "f915baee7167d47519b10796ab9b59864201676e3376568827e5069e88452d72"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/13.json"
-hash = "4ec89831e82c75089dbb0df81b223a2a77e08edfeb0a20ab4364a7135098bc6c"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_13.json"
+hash = "d60b1e91fe99746e25ed32c14fcb2b3efb8ff1f5bbd62834b916cdf4f66fcbe9"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/14.json"
-hash = "88bebfcead1b641aca37b3d32631ea9ebf22493fa757f2f4209dce7b39dfb7de"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_14.json"
+hash = "75359b3feed5835237e7913ff7e294b92443e41658e1c435720129aceed983c6"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/15.json"
-hash = "29fdd57cd215ea617ac5e76321a7e9c3db34b13186fe35cebc261a04683ce396"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_15.json"
+hash = "0085744e1282f6c6ace4cb8d06fcc57eba6234333d4d71275c68b82905ebf2e5"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/16.json"
-hash = "e865cca9a679f2cfeb382495784b4331883175032001d457ad067695c483b3ef"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_16.json"
+hash = "1093fa648839e1ab2880eeb2ab70901fbf06d9e82490710f55c0a960db9dac3e"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/17.json"
-hash = "a16e9c9bc94e13ece447bb7b18638c5d59c8a3cee662e2df0abf3e404c1965dc"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_17.json"
+hash = "efbd3bb4f5aeaf8bf307c32ab4954980ecd1b8d3b4e2a3d5ebfef93b4cbda041"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/18.json"
-hash = "6bb2ea78980ece063f862c4ad307341d3b7c5fb70331a52b0c60c76e7150e7c8"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_18.json"
+hash = "53dbc5a120db8383ea3023963b4ec08436dc516f4abaea63bcd0bf3c5ef7f97f"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/19.json"
-hash = "e62786d996b386414e43e4f162efbbf9ae541ccd964fa8a18b06506509c763e9"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_19.json"
+hash = "3e6401a20972a97fa6f7408f90541534bd23efc8848596e3c9bca9213a63781d"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/2.json"
-hash = "6cd7583610429e0c939a1f000c31ef15b2052ed3bd283a6ea23134ef52f797d9"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_2.json"
+hash = "b8e254a8b6cfbc4068e1152b737cc9b927d44a18016c1319dbfa74f2a3b164a0"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/20.json"
-hash = "5ba428286533a5cf908fd4be29e418512cb2c1a72a4f3a898a4368c0f55c508c"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_20.json"
+hash = "df8c2251be0f26082c1b54d65e79e0a7319f95bec7e67bb463be8acf78ab92c7"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/21.json"
-hash = "215acf4cc1ea0b8650f8d0c42b2a52191eea84bbf3b6328ed9388fc4c959d1c9"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_21.json"
+hash = "63074bc8ec5e35d9f8677b27fcae36c77129b525d6503fdcd8a3096e48583066"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/22.json"
-hash = "824e4e63aae6c92889928b48efe1f4e4fe7cce9d58ab81e85a5a585739344761"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_22.json"
+hash = "0f2ccb64206e1327f543285e899d098f7eb190e725cb72c8cefb7d04394c293b"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/23.json"
-hash = "fa508dabb6857012e3596992a0b9fcd1863a8ae6d15d4c1234640d1339294b0a"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_23.json"
+hash = "8690b15228cd77d42deaf06caffd513ca15200a72209f9698ace8a52c0a34b92"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/24.json"
-hash = "9fffb069552b99ae6a2541ccb30e611f53f5a72ea02e2a726400390ff1963eeb"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_24.json"
+hash = "5f62908f229de81700880661b9352fd8562c5705579a494895f0fb9e6d8b218b"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/3.json"
-hash = "ad4497ffa318f6482b8c238c30a27f8482bcb6975568e7e4cd94eef1f9d236ea"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_3.json"
+hash = "b1d78c8c2df345ed71e748fbfe015171efda772bf13b2342518e4af81302e877"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/4.json"
-hash = "95e4c02fb3509e249762f5e25c4a8b4a1492cb2127dc1a4bb590a058e44c94c0"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_4.json"
+hash = "69cc3a6a3f757b34286e3d3a4e23f58ba7627bf6d70fecf44465a6fdcc01d2ee"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/5.json"
-hash = "ee4d26563532c6c2290d7f98a5730e6f164b7b76d86f76ef12204ebf02938bbf"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_5.json"
+hash = "eaafdc9a4e951c8735b95f3a6229505b2aa7b19495f76fedac03682557b45e98"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/6.json"
-hash = "0a31c115a59f1280f1626eb1b73522e22d5dcea6cc016737bbd4635f36f65a64"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_6.json"
+hash = "a90b579fd5445dddcac22ff30709a2d3be76ae699b366b5f043e2ad0bdc9ae55"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/7.json"
-hash = "33ab4d8539a86d11a6b437d53b0e952aa82de0494dfe3075ef28be11d0eaf732"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_7.json"
+hash = "8aedb06927fe77f82b786572ef25de8bd0ce69efa9cede62af4adc88975650dc"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/8.json"
-hash = "489fb14ad0995eb18617ef70848b754eef5b92df96f54e35563917838d6868c7"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_8.json"
+hash = "b7b43bdacfbafbc93a27db44ce878e5b4baf22a21958db7207e6abd038ebd760"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block/block/9.json"
-hash = "57cde52f674c75c691c95a7c510cba9e12ffb2a4ec175b31ba9c31c3cae41668"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/note_block_9.json"
+hash = "480f46f2fad6a10e978cee24024cdd3f24598c2f30518b8d52da52280fd8455c"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/observer.json"
-hash = "045a4a0a5eb23ae5f20caec2489b5b2cc38d93ac3f99c91cf1b98989395f6835"
+hash = "5f3445b6bda3ef1a4e2d6b9773d005ef578a93ee6acc454f5e55969500e82a77"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/observer_on.json"
-hash = "8c6560432e5995ace577afc2409af1d8d620d9b73aeba06c9f908e925e651b98"
+hash = "4168c62052cdec17d4725fd7e0a1e1e075418fe7d5c63420017e4c1f53382413"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/piston_head_short_sticky.json"
@@ -4581,6 +5119,10 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/sw
 hash = "337d10ea981e42e477795ec88358d52aa1f40d1d4ffb8c9ce736db7f8d2d1c88"
 
 [[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/template_note_block.json"
+hash = "81a2b20e057a1528fe590d784da591cf83923e5d8756250be0c00796386c30f2"
+
+[[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/block/template_redstone_power_level.json"
 hash = "4d78933e2f347fe1f4032f025781362aa85d9bde95fc2df7f0bfa3fc768f7134"
 
@@ -4633,6 +5175,10 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/inf
 hash = "829235da3256c8e75a0bf4a458a19444be8b14fb7e04e8e717babfc17884578d"
 
 [[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/note_block.json"
+hash = "a1a2dd87e760b44762cbbce506f2c54d2657ab46b8c91a918de5b9a814b02c07"
+
+[[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/redstone_ore.json"
 hash = "b83a6891dff0476e793c06919d75fc7c0f9be7a024dea493eec38b110af0b3bc"
 
@@ -4641,72 +5187,152 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/sti
 hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
 
 [[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_chiseled_copper.json"
+hash = "7247e87c1fd4d26da15007c2835e136bfa7a30f01cd930f30d321214c9ea942f"
+
+[[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_block.json"
-hash = "b1a5c4a22451aa607f1da9df83add72ca01d28973d775c2adcd0ef7fe933a34a"
+hash = "6d0c41e65d615a85f0440017e18ed51e8b8dd5ef09c923f361fcc076958159d7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_bulb.json"
+hash = "5a5836f2970071993cf9b8c3fe940ebb9bf482aa9ab885543c0753f2684b9356"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_door.json"
+hash = "3b4646f08101f71f42e57a0957613960b694682cda39dec091032c90bbd9361d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_grate.json"
+hash = "364e6e7b136ab982bdfab95fc20748e93796ea6bda60cf40a7166b3c0a626ad7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_copper_trapdoor.json"
+hash = "f610b2dcd5a3cd69bcd54032aba251b6dd659ffcb689237d0bf278df201db999"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper.json"
-hash = "26a044d12efa19ca9a254da6947cc3f953aa3ab2253a45c914b47db14a9c00f7"
+hash = "62591b9d9c65ad762ca94822d33c6b1d501740d2de8e08323b38a99f199a81af"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper_slab.json"
-hash = "9af80d1bf33a83bfe2abb0073467b897c604175a49d436716b316a88a37eb474"
+hash = "40f0699158b727ae36a5c0a1f43bc80957015374d983a6588f5c05f5e0197ea6"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_cut_copper_stairs.json"
-hash = "600d59a48b272256bfa6465fe7a6e09b430ffefb2a25ac76067f77e64e179be4"
+hash = "8360b589a06c83db6f77987d811d8c2fe34b120e5ae593d609c6c82ecf807409"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_chiseled_copper.json"
+hash = "0d5a3b8e028a35ff42057c330878e3f3684e22209ebdf75a13547c80c259812f"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper.json"
-hash = "3179a38d1a7cfc33ca950525a2fc2f0cc683efa3271e3f55ee8eba36a3e65b9e"
+hash = "d16ab399011eb9669b8c51b6aac6e2bd5a3318de23bcc7d5cd1569dbcf710613"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper_bulb.json"
+hash = "4c7a47a1f287d69e927cc5f3ad7e234a00d2ee25ec55f918f2af4abc39f91981"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper_door.json"
+hash = "408ad1e0917583d28859db565dfe7ef2773e2cf4c7534583fe29d6a58ed3ddee"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper_grate.json"
+hash = "a328e6973f4340c7eb6f2ce1725f12099ae59e84c43d2c529a3d4b50788685a0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_copper_trapdoor.json"
+hash = "ddd8e8cc8bdce3f533d7c4068268ac7170a159c4cace6322d27d1ec5542d0b6b"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper.json"
-hash = "37fe1403e34fc816ffaa1a8e4b0d050e6540f9cbb39c35dabd022721a458beb1"
+hash = "806b25e3dea967f8ba927988df4126d9d9d4834f1368ba70aa36293899688519"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper_slab.json"
-hash = "0a2d324bc8133471fa829216b7dc844705424f330011dd6460f8987de3455239"
+hash = "af2ab4c8e81df41984852e12861ca3da342258cb73b795bca95e179e91721a1f"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_exposed_cut_copper_stairs.json"
-hash = "aa42c441a998b2b0842638000f2ad4aeaf1efb3094218baf975bac25beff9477"
+hash = "b57f683ac3a9e9891fcffaa3d09d5ea1266b99c4228e58b8419e0ca0de796c0d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_chiseled_copper.json"
+hash = "0000ee97c7b14ea5ea0af217f0667fa2b292fa839795bc0b55c997cc3b3e57e1"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper.json"
-hash = "def2bc4d7374b52d56d44c17906e6f87926c14eaae615dd3fe7044bc231cd660"
+hash = "0766152e1365c9322ae1f0497d00fdae9a3713d7b9a978e1586990bf20ca6f77"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper_bulb.json"
+hash = "ae8d2fa128d25a74ceb950c4d175ddb285c41da5e0168d01ad104a548b5db5eb"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper_door.json"
+hash = "488eb1452b6b23e81adb417322271717a38168b44a0ebb81b8eb4cffcf61032e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper_grate.json"
+hash = "131a1b091670065d620264c2c94d0c72db4213f1184fc73bf2aa4df128ba4b1b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_copper_trapdoor.json"
+hash = "a9ddd25961789b0e14ccbb83dbec4909213b7b587d0cdbe9f5e4cc9b2d839d02"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper.json"
-hash = "6f59b1367899bf40dbf462ac05f61fcde648cf914377b2bfa844191f3a6c412c"
+hash = "3a500b8e9be1b3541fa7aa4ecdd826e7bf401b012ac6379994033f0927edbdf1"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper_slab.json"
-hash = "cc5210e56a5624ea6b4c34d66714e483612d4cd0d11f5b822d01fd80e07206ac"
+hash = "35b04a2d7df8b7fff9c4638bc0bcb6a850f601cb5635c5cd4fe10d4d7a0b9a5c"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_oxidized_cut_copper_stairs.json"
-hash = "046eb93d30bf21dcc6dac7bcbe8481dc6ffa44d974b3c47f5444e2160f160f90"
+hash = "e93a1d9e507037861efd4b6cc17f93eca588d26f819a823aaef4a8b9cb0fdbe5"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_stairs.json"
 hash = "1e7d02fe76f7d0d52a3951bb350188ddc86c72355b329ae11ee0a8b74e6c55e6"
 
 [[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_chiseled_copper.json"
+hash = "06c4a64c998ff92740f42d58c8e42eba51949c4cafd53ff371007532c94ff127"
+
+[[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper.json"
-hash = "c24a6c19f197e8c9775fc23bf1a049989c703aed055ae02e6c89eb7f8adc2ab5"
+hash = "471c5e4196242115bb1d11691ad8a6b70b1231c7ad958577d1cca5c08e2760fd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper_bulb.json"
+hash = "2157f753d2c589c72d1fab7c3ce394e6c46278a1b986b3738add13761e41ed8d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper_door.json"
+hash = "f5a08886f9aedbcb4f7442143aa8d7bb330895a90837aeb0b8f4edd7c7ac0a2e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper_grate.json"
+hash = "4da964fc3078365ad1165fef3d731c6705cafb0597c88d98e62d8e2ed97ca236"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_copper_trapdoor.json"
+hash = "29f72d201be025f1bbb394836e21a4c2e783982ca33c24d68894346f0a42c14f"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper.json"
-hash = "ac4b4c07453bb2539320f89e8c4f6f891e9246766daa1b3ee70f7e6ed85a8598"
+hash = "f3261d7ad1e4459f81c4b048251a59e050637282f65fe441d6c56ccabfce3675"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper_slab.json"
-hash = "1ed74f40a6a877f1369e20b673e6f9c6eaff8e32c2dba4727b389bf9d3f61b25"
+hash = "1e079992e622255934359324c79754952120c92f89b8f03fb2301999dc9f0d5f"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/models/item/waxed_weathered_cut_copper_stairs.json"
-hash = "7672a5bb6f973815b0c2f04a4c2ee2fbe1ce5a9a55ba938962b7eae18fb82542"
+hash = "80153deaf8b49a38ef272b4ef1cc791a3573f909998628a414340c1ee7ca6b9a"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/optifine/emissive.properties"
@@ -4961,208 +5587,108 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/
 hash = "27656ec75bbc80154e85c48c1c4730dbab76c3b52efdef94962606db691892ef"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/note_block_side.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_side.png"
 hash = "cfdae28fa8a7b2826c611d22b74e360ab25f1c3f0d5bed371792cbdaea347f41"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_0.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_0.png"
 hash = "2b72df31b87d90cdfe75131ea17621a01a33e9adbb3c4dd503e4da8d8142e155"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_1.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_1.png"
 hash = "257c3bcfd8ebe44126b6efbdbe13607c823183456b8cc0d865191bf94ba5cd94"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_10.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_10.png"
 hash = "81b22dad1d6444bbaffc1dafd10f0bce71ed64bdc028dcfd1c2992d18f6b3687"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_11.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_11.png"
 hash = "f5a8ecea16d3ef71284752b2c6ddb3059c05c05cb3a35ddc2fbba4b7c73bd0c7"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_12.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_12.png"
 hash = "a953ac0fb1b4beaac524a558ed97beb8bd5626dfcfa221240cf129d788988a25"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_13.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_13.png"
 hash = "3322ee1783777080973b0a2219615a591ffe5d25d28ca6f31062bd8f043644dc"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_14.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_14.png"
 hash = "639311b6b6fadfe33c5f4db727ee299568334ffd10d8650beae5cfb74adbc51a"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_15.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_15.png"
 hash = "90bf193be2be66af8e30b228cc5598f671bf76b3b864339078956d653b881e13"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_16.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_16.png"
 hash = "9edf064dc58e0dc97d4157468718e6ee11aa7de35bf25571c9eb061979fff318"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_17.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_17.png"
 hash = "8f76a04ea4aeb7a609a5c716949ba03a4ab7c77165fb6c35577e68f9cd70ba55"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_18.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_18.png"
 hash = "dce0989539abd37f94c4094188f4a020b4b767fd787f311d712451e07d821686"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_19.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_19.png"
 hash = "cb067ccedb8c9c8e2d2e903b18bdb1c63262a6757ab9aca1df5e06772ae0c072"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_2.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_2.png"
 hash = "2d2f35db27b01e32d4c726fe1e9acd9f831b26b821b92fdb95529f3fd1e8a19c"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_20.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_20.png"
 hash = "4971f46c053a544653fa78fa5e18c5ebd03ff94cccff74c74e39c80bc7f1823a"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_21.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_21.png"
 hash = "415b86db873ad2e9c345a9332d5edfcab163687442aaba8e44e3a7651d1cfebc"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_22.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_22.png"
 hash = "2be40162c82c0b7df0c587340400406fd26faee017f4ce96f1a13d17ffff23dc"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_23.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_23.png"
 hash = "863eea044a5b6b7dcfb4f055fb23820f2e48bc72511f032e99763e77af450a64"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_24.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_24.png"
 hash = "2a91feaf49051e594178e516df0038ac461b7e8b6dd0aa9eff60e163f180be42"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_3.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_3.png"
 hash = "eb5d9c0afb621cb3308fee011831120793edd58264534c05cbfd13fa98d54d5f"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_4.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_4.png"
 hash = "9fc6c57c7eaabcfa18e294a68429e5243751f0bef500fb5dbd01a4ae02416587"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_5.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_5.png"
 hash = "460a622251a8f811dae5c2470493ef798464ea8de7247c3487bcf9aba1366533"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_6.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_6.png"
 hash = "e8bd25c1d477805092a466a02728362563476d3e496a4bfa0064ccb4b188dc4a"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_7.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_7.png"
 hash = "3483a85cb5dbaf779a028b31a1d84a8896dd5407f709089217f516c730d78378"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_8.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_8.png"
 hash = "a4235237f27b7f9f90b73a82d1ed303b7a8c6b97f9e16cf0244f21d719ab1c19"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/numerical_9.png"
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/numerical_9.png"
 hash = "6f32bbc0e8cc2c95d67daafaa1231568e9c9b97322f592b81a3bec10291c8754"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_0.png"
-hash = "569804bba8091a57b87f750cf00914490c26f17e2acc741a9a714521ded6cd1f"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_1.png"
-hash = "848f1955d8924d559e0940bf346908ade07a6f56bb13b9e25dd01119c312b6b9"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_10.png"
-hash = "cbd98a69a2feb0d0917382ff902f9e61c2a4bd8cd297c6a03505422bc3f9f3b9"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_11.png"
-hash = "c770a4b9bee78049896155e918f8f70fd93e7e294a08599bdf4e687faa6a6fed"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_12.png"
-hash = "24a3708586767dcb7e9bd38c4e39f1be6522e758fb6328099f07adb105a1a935"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_13.png"
-hash = "ea90f654d5fbd43146e9eefb3dd6cd5184b4fdd072ad20abb7e5f488eb1ac349"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_14.png"
-hash = "889d6d246eb05de467d9ce3715c9f813e3344d21f874bacccc7a1877a7f51ecd"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_15.png"
-hash = "566bf07b961b01a1a151ae72a70f27f7bfad5e785f36ac48de7c1eb655d577cf"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_16.png"
-hash = "a6adba30cc379066e6d66163e7494bd0392ed43b3e3d83cb865be8102273936d"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_17.png"
-hash = "546c7f6c6d55d316c46a95bf2fcd2d20fa7d10ded386c293a90d9ff930622e3f"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_18.png"
-hash = "168242549f3c2ce5edf46bc4d8671e9aed3cb7506fe454c746575f04a1daa8f8"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_19.png"
-hash = "0b99c2d54d8d540a496f416aad5701493f4c9c887600b0f46940736d2287e351"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_2.png"
-hash = "2cb16a54d51b7f490ba29ca4782ba744b1c6d2f440a50d84ba6b97ff444a24a5"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_20.png"
-hash = "f7507844f7e5da19541da7155f94f9a1df633ea60ddc513c061103efa7155f96"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_21.png"
-hash = "2077849402a1a9ca6b961f15386dbb181733746f601063473aa7a9cc70381a75"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_22.png"
-hash = "3e6ce1145e6224077aabfb52794ac275263fbbeeb80a1bb88b159db1925019cf"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_23.png"
-hash = "962512c4eda7ca917a6e69787c315b0e048c140df35aac4f2c65fd6e8dfea24f"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_24.png"
-hash = "9c10820d0ca7062d926e8c0174cf4dd3cc0540693219c4e1a3967d543d0bbba3"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_3.png"
-hash = "321f6ac5d8ca31f444bcbe55ab5fb1c401435eb80fd9b270a4d4289dcaaf106f"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_4.png"
-hash = "b3abb560f4e51e22f8300c5c7d39c27ba17c7579393ffdf799beb082c17af864"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_5.png"
-hash = "7c05f8cfd78f5e47f903c4f260e02b24b574d7600dcb1cb27a37c16589c171ac"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_6.png"
-hash = "34e6c2b239914a856650efcc22441fada11a3b013e172971e52df9d0db499f8a"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_7.png"
-hash = "1d10497c4a24a614fbe055b6176d52f9eb45e3ada7c4d965fe2f0a1470fd614a"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_8.png"
-hash = "e422cfa116906b50fb5b4ebd6c480d2b4d6233dfe332f3d24c3db3c22e0495dd"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/note_block_pitch/pitch_9.png"
-hash = "0569fe3a0e6289a8f496e673eb707edaf053eda71f0fa98a54ac3d7398a334fc"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/observer_back.png"
@@ -5199,6 +5725,106 @@ hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/piston_side_sticky.png"
 hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_0.png"
+hash = "569804bba8091a57b87f750cf00914490c26f17e2acc741a9a714521ded6cd1f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_1.png"
+hash = "848f1955d8924d559e0940bf346908ade07a6f56bb13b9e25dd01119c312b6b9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_10.png"
+hash = "cbd98a69a2feb0d0917382ff902f9e61c2a4bd8cd297c6a03505422bc3f9f3b9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_11.png"
+hash = "c770a4b9bee78049896155e918f8f70fd93e7e294a08599bdf4e687faa6a6fed"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_12.png"
+hash = "24a3708586767dcb7e9bd38c4e39f1be6522e758fb6328099f07adb105a1a935"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_13.png"
+hash = "ea90f654d5fbd43146e9eefb3dd6cd5184b4fdd072ad20abb7e5f488eb1ac349"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_14.png"
+hash = "889d6d246eb05de467d9ce3715c9f813e3344d21f874bacccc7a1877a7f51ecd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_15.png"
+hash = "566bf07b961b01a1a151ae72a70f27f7bfad5e785f36ac48de7c1eb655d577cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_16.png"
+hash = "a6adba30cc379066e6d66163e7494bd0392ed43b3e3d83cb865be8102273936d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_17.png"
+hash = "546c7f6c6d55d316c46a95bf2fcd2d20fa7d10ded386c293a90d9ff930622e3f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_18.png"
+hash = "168242549f3c2ce5edf46bc4d8671e9aed3cb7506fe454c746575f04a1daa8f8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_19.png"
+hash = "0b99c2d54d8d540a496f416aad5701493f4c9c887600b0f46940736d2287e351"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_2.png"
+hash = "2cb16a54d51b7f490ba29ca4782ba744b1c6d2f440a50d84ba6b97ff444a24a5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_20.png"
+hash = "f7507844f7e5da19541da7155f94f9a1df633ea60ddc513c061103efa7155f96"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_21.png"
+hash = "2077849402a1a9ca6b961f15386dbb181733746f601063473aa7a9cc70381a75"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_22.png"
+hash = "3e6ce1145e6224077aabfb52794ac275263fbbeeb80a1bb88b159db1925019cf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_23.png"
+hash = "962512c4eda7ca917a6e69787c315b0e048c140df35aac4f2c65fd6e8dfea24f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_24.png"
+hash = "9c10820d0ca7062d926e8c0174cf4dd3cc0540693219c4e1a3967d543d0bbba3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_3.png"
+hash = "321f6ac5d8ca31f444bcbe55ab5fb1c401435eb80fd9b270a4d4289dcaaf106f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_4.png"
+hash = "b3abb560f4e51e22f8300c5c7d39c27ba17c7579393ffdf799beb082c17af864"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_5.png"
+hash = "7c05f8cfd78f5e47f903c4f260e02b24b574d7600dcb1cb27a37c16589c171ac"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_6.png"
+hash = "34e6c2b239914a856650efcc22441fada11a3b013e172971e52df9d0db499f8a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_7.png"
+hash = "1d10497c4a24a614fbe055b6176d52f9eb45e3ada7c4d965fe2f0a1470fd614a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_8.png"
+hash = "e422cfa116906b50fb5b4ebd6c480d2b4d6233dfe332f3d24c3db3c22e0495dd"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/pitch_9.png"
+hash = "0569fe3a0e6289a8f496e673eb707edaf053eda71f0fa98a54ac3d7398a334fc"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/powder_snow_cauldron_side_level_1.png"
@@ -5345,112 +5971,24 @@ file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/
 hash = "25164b6629bf305a0136d5a70be7cb4b1e53def0b65cddd6a2f1b5a3ec4b3020"
 
 [[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_block.png"
-hash = "11bfb4540fa408f4a2c27ee69996d7b275918291c9e51b4ee8d90348180e57ba"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_double1.png"
-hash = "2710ae636e285664b896411178d2569c1d1932da234536d81801b899c743345a"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_double2.png"
-hash = "f36e94563be0afd68ec8f0ca379caa607874720d98192a9f6c1a5aee0bfb531d"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_stairs1.png"
-hash = "4127b386d13a61d24611baa3c9b42b000afc1b896e18bb1eacfbc174c69a0eb1"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_copper_stairs2.png"
-hash = "974d5890bfe1e8b22b0a2dcc3b4b6b3d001d76d12f3cb887cd3c9504040fed6e"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_cut_copper.png"
-hash = "24f7e6fff7202d96065f43b6718d87d418240eb712140acd6758a4f36012d9a8"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper.png"
-hash = "c09a4a4865abb3ff0edea3dd0b743aad38c5760648debb9c0508dc4482ab63ee"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_double1.png"
-hash = "74f1526444893f324e09d28767c8e577882283d1f068bacb9d9399d6f81afc57"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_double2.png"
-hash = "a6aae025e9ddd9d70a0f93de922c96c8a24d4a06626c8de2e9edf8426ca7463c"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_stairs1.png"
-hash = "7c45e6f022b6270aaaf724ab3a3eaf848ca9f5ae673cab00b92ba32b55b707f6"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_copper_stairs2.png"
-hash = "4177ca10340f351ee163b0c8f42c6778231e7090b99d8d08d04c2b8960399ba7"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_exposed_cut_copper.png"
-hash = "ec45de0d976ed739219552caedf63b70a109e3afce98036b790b91d50fd16c99"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper.png"
-hash = "460bc57372cac45a89f585570ad4055156aac154729bdc7f1d8a77363ba27dff"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_double1.png"
-hash = "ac759d0ab96531cbaef33636c0b154d6816e6444e1ae62536ed8c0e549237a8f"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_double2.png"
-hash = "cc3719865aa40b74f4e7cfa92d5b7273bb4c08bde25dd6e16d174ea5b5c46ef0"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_stairs1.png"
-hash = "687b2a8261165532b8287071792993f6c008eaec601ad5fdfc6b702a9e5aa81e"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_copper_stairs2.png"
-hash = "7089f441ea0a129591aed05f528490f96550c81c744e0f414433027455d65343"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_oxidized_cut_copper.png"
-hash = "a937649cb1e19dbf6de43798f2daa03c947776c3c2577aaf4d9d3f7faf755e00"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper.png"
-hash = "d47710808a70cd943ab03280932214790e5a3c9f519bba7df9e63995ddd3e2fe"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_double1.png"
-hash = "56977edaf8ef96a6aca01dad416993a255acf83795a07a2139569a2cb9aaacdf"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_double2.png"
-hash = "fc20440308382a463711ac566f914c325f922a3a79f05f0d6e44b4b3b919911a"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_stairs1.png"
-hash = "49d35817b31eafad88f3979ef750b49112fea44a25a9507835b182d9a46d151b"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_copper_stairs2.png"
-hash = "359b86fca65a7749b8d7a8749ab5769949a8880b0f7101a26cc8f32b60841bf8"
-
-[[files]]
-file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/block/waxed_weathered_cut_copper.png"
-hash = "63c63a593ea23c8642c0f9ae133c139780a0e842031afffe4c32bcd40e4e5cd9"
-
-[[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/creeper_banner_pattern.png"
-hash = "b2cb93554810fd591bf2f32e88fd5a6f0382fc165ef6959d8718499f01a69ff7"
+hash = "8d0d81b5b752d1555cdf3e243d9bd61a9e662e82ccdab42067ba78698fb26dee"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/flow_banner_pattern.png"
+hash = "820ad28d20423b757456cad1bf94eda8daf30026ad733d565f5ffc93ec4b9d9b"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/flower_banner_pattern.png"
-hash = "8708e99ecc76f8ace115e16e4f334e5a6538075c39c08bb890afcf06ff671815"
+hash = "6854cdd8bfe3ca73bf56b8cc82b75ee8104b726a4856161f2dcabb2196943f05"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/globe_banner_pattern.png"
-hash = "d23d54b4128cd823c4e398c4786a4861d9fccbc642606fd3ce89a3f4ef7689c5"
+hash = "8c3ed69b58e17e0ab1ffd62dd714bafaa06b181425c7c46e13a1350a8122cfec"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/guster_banner_pattern.png"
+hash = "bf6945f97f00abef4f08c79dbe6e0b9d7515eddc27c374f5a397ac8a3d89a702"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/infested_chiseled_stone_bricks.png"
@@ -5486,27 +6024,399 @@ hash = "1285e7ace5956bc388479a0cad0198a082872e68b59daa339c816c3880cdc20f"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/mojang_banner_pattern.png"
-hash = "b7e048b518588004b025a0d7db40b54dc8c731b7c5eb8fa7525e2c259d0926fc"
+hash = "92759f2618d9cb3beb98c266a0563ed7586428a78f6bf3a8d61e09325d0e632d"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/piglin_banner_pattern.png"
-hash = "42a4b919cb7e243102b6c19f5c4bf61cba01e214f0e8a33971d1d6d1b064900d"
+hash = "2f426f4631bcbcb1b834b088c797e574847bf5599900b6334be5583bfd9206ae"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/skull_banner_pattern.png"
-hash = "e6c97491810bf241dbfbf24e5a239517f286882a8e00bef6c739afe003bb731f"
+hash = "c7b94cfb03cb2a27104f3fefe1d88a67d9fb59540537994d22452dcad71cf96c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_chiseled_copper.png"
+hash = "5b6a8034f02259c9134ccd9fdaa37ae54c9c7af9fc87d8983dcfb2a45747f12d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_block.png"
+hash = "11bfb4540fa408f4a2c27ee69996d7b275918291c9e51b4ee8d90348180e57ba"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_bulb.png"
+hash = "3c1b9db3020ffca636a173080b435b8eb3156232e55997e9595e9c70135dd876"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_door.png"
+hash = "13453c12c5f7372385c15c5f7de2b584ef1045ca44d9d011adaf46f852228bf6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_double1.png"
+hash = "2710ae636e285664b896411178d2569c1d1932da234536d81801b899c743345a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_double2.png"
+hash = "f36e94563be0afd68ec8f0ca379caa607874720d98192a9f6c1a5aee0bfb531d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_grate.png"
+hash = "5505e679c3c3fef8011fcfe79d5ecc0ccc35c3299ffb1736e09cbe4cd28a16a0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_stairs1.png"
+hash = "4127b386d13a61d24611baa3c9b42b000afc1b896e18bb1eacfbc174c69a0eb1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_stairs2.png"
+hash = "974d5890bfe1e8b22b0a2dcc3b4b6b3d001d76d12f3cb887cd3c9504040fed6e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_trapdoor.png"
+hash = "aec833e9265017ad8fee4e02e64cee63430c671c1af636e8d68e04bc29a06cbe"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_copper_trapdoor_side.png"
+hash = "23dfaf4c9e0596d0d3b2680e4abbab8e0687ca25dd2b83d4ee6c8e14b001d784"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_cut_copper.png"
+hash = "24f7e6fff7202d96065f43b6718d87d418240eb712140acd6758a4f36012d9a8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_chiseled_copper.png"
+hash = "e4207c7de041d82a7ee81f3b6d91a70aeabcab93f5235db52de2e41b1fa9c535"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper.png"
+hash = "c09a4a4865abb3ff0edea3dd0b743aad38c5760648debb9c0508dc4482ab63ee"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_bulb.png"
+hash = "a120425886e814db8af2a1fde6713d098b7b999b9f38ff60eb719c3f7d1602ad"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_door.png"
+hash = "36e07f23455c80fde39f8828cfccb9639ed96b394f89bf25322a8d656050509e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_double1.png"
+hash = "74f1526444893f324e09d28767c8e577882283d1f068bacb9d9399d6f81afc57"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_double2.png"
+hash = "a6aae025e9ddd9d70a0f93de922c96c8a24d4a06626c8de2e9edf8426ca7463c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_grate.png"
+hash = "70edb0e34aa30e681cd8eca3f3be0dc2167d0df49e56fdc4eac882275589c860"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_stairs1.png"
+hash = "7c45e6f022b6270aaaf724ab3a3eaf848ca9f5ae673cab00b92ba32b55b707f6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_stairs2.png"
+hash = "4177ca10340f351ee163b0c8f42c6778231e7090b99d8d08d04c2b8960399ba7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_trapdoor.png"
+hash = "fff3afb57edce3e4a56cf064c81afa3c12025dd39b69b84dd82df606ad0ee5c2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_copper_trapdoor_side.png"
+hash = "f6b350909c6ad8d823c5365b2f9cbfab2dc07fa59df1322a9359e83f13257311"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_exposed_cut_copper.png"
+hash = "ec45de0d976ed739219552caedf63b70a109e3afce98036b790b91d50fd16c99"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_chiseled_copper.png"
+hash = "a6cec3d823b19776cf6a2cf0427ac768d5dae5093582fea5897158e7d514d5a4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper.png"
+hash = "460bc57372cac45a89f585570ad4055156aac154729bdc7f1d8a77363ba27dff"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_bulb.png"
+hash = "a92fed14a1d9865debec5615c242f8e96077fdec2030aa17cadc1ac95c9eb5f7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_door.png"
+hash = "107705433b518647441381677a1c2c65c914e8828c7fcaed69a140fc733d19ff"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_double1.png"
+hash = "ac759d0ab96531cbaef33636c0b154d6816e6444e1ae62536ed8c0e549237a8f"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_double2.png"
+hash = "cc3719865aa40b74f4e7cfa92d5b7273bb4c08bde25dd6e16d174ea5b5c46ef0"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_grate.png"
+hash = "89d501b8053422a58684a859b9e29b86bff20340bf636a59598c33707bd46186"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_stairs1.png"
+hash = "687b2a8261165532b8287071792993f6c008eaec601ad5fdfc6b702a9e5aa81e"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_stairs2.png"
+hash = "7089f441ea0a129591aed05f528490f96550c81c744e0f414433027455d65343"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_trapdoor.png"
+hash = "1395c89d6785c0db8e06a882e1516efdb02aea154cfc921566ee2c07492c6bad"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_copper_trapdoor_side.png"
+hash = "778e160521864ad56f79270beea69eaa3b5cb7b53d8d94e29391efce308b3eb1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_oxidized_cut_copper.png"
+hash = "a937649cb1e19dbf6de43798f2daa03c947776c3c2577aaf4d9d3f7faf755e00"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_chiseled_copper.png"
+hash = "c723c5e7a926e9419a7403230ee4f8678b2680871570795c8ec6b37416e6e95b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper.png"
+hash = "d47710808a70cd943ab03280932214790e5a3c9f519bba7df9e63995ddd3e2fe"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_bulb.png"
+hash = "64e3b9d7e65bf79958ed648e2ad7a9f5c863587a1d962bac6e2ffc3369926cab"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_door.png"
+hash = "a7111ee050d9a786d39910d47a42d933cbc67094f457774fa1eabe766c563c73"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_double1.png"
+hash = "56977edaf8ef96a6aca01dad416993a255acf83795a07a2139569a2cb9aaacdf"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_double2.png"
+hash = "fc20440308382a463711ac566f914c325f922a3a79f05f0d6e44b4b3b919911a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_grate.png"
+hash = "b1ccf05c5b8e85cf79bc30b068eaaaaec0df0f34ab7c1d984df5576dc5859831"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_stairs1.png"
+hash = "49d35817b31eafad88f3979ef750b49112fea44a25a9507835b182d9a46d151b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_stairs2.png"
+hash = "359b86fca65a7749b8d7a8749ab5769949a8880b0f7101a26cc8f32b60841bf8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_trapdoor.png"
+hash = "9b2e94d3c182058039a8809ed30db67193eeeda761abd040c489e2b1aebfa810"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_copper_trapdoor_side.png"
+hash = "dc4c4ab8af2e51aa0c67facbc2b7ea548be5ae63fc77ff79434762dba9d210ae"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/item/waxed_weathered_cut_copper.png"
+hash = "63c63a593ea23c8642c0f9ae133c139780a0e842031afffe4c32bcd40e4e5cd9"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/assets/minecraft/textures/misc/redstone.png"
-hash = "b323b822962c1932aa26bcb3962b05f014474c2ea87ab89770e59ee0d80d7710"
+hash = "aaa28854e42c7f5ae2fc0f5979d7ed952b92bd6f3c986a0910cfb1682b91573b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_42/assets/minecraft/blockstates/bee_nest.json"
+hash = "1a908e4d80036867663464e9e94e2a70322524e732d5d58566543ff0d7974447"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_42/assets/minecraft/blockstates/beehive.json"
+hash = "d23e930d21c5bec857ba55ee9fcdbb81b5b73e6a3391c7197b260dba732952d9"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_chiseled_stone_bricks.json"
+hash = "4f4609fa22fdd3dbe2a7a2584b04577054e84199e014da49e6400bf4c0ec9b38"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_cobblestone.json"
+hash = "14fadfb2984c069a08c389bf8d02fd9fdcbce63b0f38dbb194e08a19cb1f14a5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_cracked_stone_bricks.json"
+hash = "26150ed580d8db4f3e07e9dd933adeb7f0986b63233218ff0368e21b9df229b1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_deepslate.json"
+hash = "d3a0e653f333cff51d34865a52a4f7371f631641b5f1aaf940c9d890852168a8"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_mossy_stone_bricks.json"
+hash = "4b21257a6ce91ba05832474923876d64e2d80e67e58cfc4f9d1db256d58469d4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_stone.json"
+hash = "64a5c84dfe3d14c7a4b328260078d613deade96ce473e036b4711124c579c1b3"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/infested_stone_bricks.json"
+hash = "73e299fc49ecb0c8662ecf291d350808f97bff3e3188110d1fab3e6c64e56329"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_chiseled_copper.json"
+hash = "c6e1a038acca262e8c218cd2cf25374579d67b7019d781958ef83b0452628051"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_copper_block.json"
+hash = "25a79d5970e1964c70e7b12cf9d177e3bb81dd9a5186e2e358c3e4d72d346460"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_copper_bulb.json"
+hash = "fc6287ed00b3bd2c36265a0f29829572f77f6330cd93f9df9aaeb366026e0f0c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_copper_door.json"
+hash = "be11dc8ad6568f9c9511d2e6a43d2d75e0f83bd5012c289f33d8dc816356abb6"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_copper_grate.json"
+hash = "abd33e8a6059377956719a18bc0b7a44ea9c13b21294a08d09fe45452b602119"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_copper_trapdoor.json"
+hash = "5edf475f5240a493950bc1c62c19113693fcf6051c2ff7c27f0ebaa94db1fa3c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_cut_copper.json"
+hash = "4a833ece99f0c5dbabaedc64fae77964a04e2ea23040e1dad0a505be1fd3660a"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_cut_copper_slab.json"
+hash = "9410abadf20a9ab3258b1e89701ba81b935a95239e85d9d85d01fa431cb5c6a1"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_cut_copper_stairs.json"
+hash = "a4b18501ceadbb699f4445f8a48b313fbe9c0995a38ccf6bc873b7e23112720b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_chiseled_copper.json"
+hash = "64ae53d94a1f022be4abf0a3305b51e186ec1b5f82ee94fc9b97e5b12d2dc9d7"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_copper.json"
+hash = "c2af120a772095e7ce0a8e4467aa07ca797c3f0d4bb579d11920997e5f4ddb3d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_copper_bulb.json"
+hash = "93acad30a7df387b9f550e7bb6a55f1e1155aaa59464f2a9c57a51b37b5c5db2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_copper_door.json"
+hash = "580cacf5f4bc38319c81346f900e5b241c416e4e65772086af44ed1fe08f8b09"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_copper_grate.json"
+hash = "8fc35631d89f1e3e0ef54b8b6ae8a9191a4a53123005b5d62f8924cd434fae64"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_copper_trapdoor.json"
+hash = "b3d2ec8f71ad1d5a91c5e8dde7762073f3b6a31f7fb1ced0270ba08ba903bb6c"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_cut_copper.json"
+hash = "910ef29340b2e88fc02b2ba1ddff35869cdd7a614ae815dd432b6e887228dab4"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_cut_copper_slab.json"
+hash = "2058afed307ec6912b43395a59dcbb50b409523c3ebd5be220795fec6d420ded"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_exposed_cut_copper_stairs.json"
+hash = "43fa54b2733e6ab0b38041407ccc227b92a24159ad027defd142c027c6852391"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_chiseled_copper.json"
+hash = "203e145240038b88aacbd8291c72ae5cd84ecbf79bce5ddff64565b3bd531ce5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_copper.json"
+hash = "a80bb4062a047080aaf3878546d35dbd0e36e9af93f229c30909d1f2facd113d"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_copper_bulb.json"
+hash = "ccdaf3ab61f73c4c1afa3cb383efa2e9237f613067e933c9283172fbf8782323"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_copper_door.json"
+hash = "23dca2f2d2b4bc27758c33b9bc8c9c79f11cbc833492312f962bc4648f1faff2"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_copper_grate.json"
+hash = "c138ffb8511feadd8a25e36492cc5b39c65ee3f3e7942f6105d7186dce6b2c35"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_copper_trapdoor.json"
+hash = "112417b6bbfa48716c298528edbbf627963a4eb93dea327defd135261d36e9eb"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_cut_copper.json"
+hash = "4297dc809fa66585fa2b8c4f9c19214a21e1a33f16af5898c1e9f7c930b2004b"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_cut_copper_slab.json"
+hash = "da99671561852f02c6f417522323cefc10580f696d12435cf38876f5cec9d1ec"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_oxidized_cut_copper_stairs.json"
+hash = "b937b8f2a5b09f488b17c11857c8ac8f994981fb2d3c34682d560178bd8bb5ef"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_chiseled_copper.json"
+hash = "26d7e12cd654d795c8987146732a0638914330af92bf3e5227a1c6a3b493a9af"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_copper.json"
+hash = "75e3398c937f0b01f978210d6cbf9b0e24cff3aa4fdcfa1fe156eaf07dd0aa86"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_copper_bulb.json"
+hash = "abfebfbd1f355754997a4c1e27ff890bc268db8a05c5d09404794c8eb475fe95"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_copper_door.json"
+hash = "d2ef5177fa06abd8888cc0a852b18dfd02e1f0cf3189d6d18b167717d85e3a56"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_copper_grate.json"
+hash = "42253465b3af9c4aae9796dc43697e9a892c26a58c8e231dd0ef0207c23a7aca"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_copper_trapdoor.json"
+hash = "ce274d9198c30b85087e378d5fe817d3d5b781ff46eed95dbbce82c9ddf53567"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_cut_copper.json"
+hash = "1c8c1b712eace799e437af4daae429b523e6d3855291a536b27a7056b92922a5"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_cut_copper_slab.json"
+hash = "b24f3d19bb1c72eedd1dda94000c66502c6152292503c240dfcaa11f24707cdc"
+
+[[files]]
+file = "resourcepacks/+redstone & block helpers/overlay_46/assets/minecraft/items/waxed_weathered_cut_copper_stairs.json"
+hash = "8528baeb609d50d361ab0e4f184b88568481d19379b80b4b1654f6a9aa2e1144"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/pack.mcmeta"
-hash = "f4e8577db97a546893b5406e38a68c9ed0fb66c80f1d7fdf9f9e6f365c3c4a3f"
+hash = "c2985553f172a33eb08787dfd894f0f357f9706fca6122da774e09c4c56d424e"
 
 [[files]]
 file = "resourcepacks/+redstone & block helpers/pack.png"
-hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"

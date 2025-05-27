@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 34,
 		"supported_formats": { "min_inclusive": 34, "max_inclusive": 55},
-        "description": "makes things like explosions, redstone parts, and minecarts quieter"
+        "description": "quieter explosions, redstone, minecarts, etc."
     },
 	"overlays": {
 		"entries": [
